@@ -94,10 +94,13 @@ def check(level, seen):
         if level["id"] != "A1" and (not m["text"] or len(m["text"]["qs"]) < 4):
             errors.append(f"{m['id']}: нет текста с вопросами")
         for u in m["units"]:
-            if len(u["words"]) != SIZES[level["id"]]:
+            letters = u["id"].startswith("a1s")
+            if not letters and len(u["words"]) != SIZES[level["id"]]:
                 errors.append(f"{u['id']}: {len(u['words'])} слов вместо {SIZES[level['id']]}")
             for w in u["words"]:
                 key = w["en"].lower()
+                if letters:
+                    continue
                 if key in seen:
                     errors.append(f"дубль «{w['en']}»: {seen[key]} и {u['id']}")
                 seen[key] = u["id"]

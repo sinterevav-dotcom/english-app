@@ -52,7 +52,7 @@ const LEVELS = COURSE.levels, PLANNED = COURSE.planned;
 const ALL_LV = [...LEVELS.map(l=>l.id), ...PLANNED.map(l=>l.id)];
 const BYID = {}, ALL = [];
 LEVELS.forEach(lv=>lv.modules.forEach((m,mi)=>{
-  m.level=lv.id; m.n=mi+1; m.bg=`linear-gradient(145deg,${m.colors[0]},${m.colors[1]})`;
+  m.level=lv.id; m.n=lv.modules[0].id.endsWith('m0')?mi:mi+1; m.bg=`linear-gradient(145deg,${m.colors[0]},${m.colors[1]})`;
   m.units.forEach(u=>{u.mod=m; u.words.forEach(w=>{w.unit=u.id; w.mod=m.id; w.level=lv.id; BYID[w.id]=w; ALL.push(w)})});
 }));
 const GOAL=50, LESSON_SIZE=5, TEST_LEN=20, PASS=80;
@@ -112,7 +112,8 @@ const unitDone=u=>u.words.filter(w=>S.learned[w.id]).length;
 function dueIds(){const t=dnum();return Object.keys(S.learned).filter(id=>S.learned[id].due<=t)}
 
 /* course order: grammar → units for each module */
-function items(lv){return lv.modules.flatMap(m=>[{t:'grammar',m},...m.units.map(u=>({t:'unit',u,m})),...(m.text?[{t:'text',m}]:[])])}
+function items(lv){return lv.modules.flatMap(m=>{const us=m.units.map(u=>({t:'unit',u,m}));
+  return [...us.slice(0,2),{t:'grammar',m},...us.slice(2),...(m.text?[{t:'text',m}]:[])]})}
 const itemDone=it=>it.t==='grammar'?!!S.gram[it.m.id]:it.t==='text'?!!S.texts[it.m.id]:unitDone(it.u)===it.u.words.length;
 function levelOpen(id){const i=ALL_LV.indexOf(id);return i===0||!!S.passed[ALL_LV[i-1]]}
 function currentItem(lv){return items(lv).find(it=>!itemDone(it))||null}
