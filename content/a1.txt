@@ -1,0 +1,700 @@
+# A1 Beginner. Формат:
+# M id | название | цвет1,цвет2     — модуль
+# G заголовок грамматики ; T текст ; E пример = перевод ; D упражнение = подсказка | верно | неверно | неверно
+# U id | тег | название | подзаголовок ; W слово | звучание | перевод | пример | перевод примера
+
+M a1m1 | Привет, это я | #4c78ba,#213f6d
+G to be: am, is, are
+T По-русски можно сказать «Я Алекс». В английском так нельзя: нужен глагол to be. I am, he/she/it is, you/we/they are. Отрицание — not после глагола, вопрос — глагол в начало.
+E I am Alex. = Я Алекс.
+E She is not at home. = Её нет дома.
+E Are you a manager? = Вы менеджер?
+D I ___ from Russia. = Я из России. | am | is | are
+D She ___ a manager. = Она менеджер. | is | am | are
+D We ___ a team. = Мы команда. | are | is | am
+D ___ you busy? = Ты занят? | Are | Is | Am
+D He ___ not at work today. = Его сегодня нет на работе. | is | are | am
+D They ___ my clients. = Они мои клиенты. | are | is | am
+D ___ it expensive? = Это дорого? | Is | Are | Am
+D I ___ not tired. = Я не устал. | am | is | are
+
+U u1 | Hi | Знакомство | Привет, имя, как дела
+W hello | хэлоу | привет | Hello, my name is Alex. | Привет, меня зовут Алекс.
+W goodbye | гудбай | до свидания | Goodbye, see you tomorrow. | Пока, увидимся завтра.
+W please | плиз | пожалуйста | Water, please. | Воды, пожалуйста.
+W thank you | сэнк ю | спасибо | Thank you very much. | Большое спасибо.
+W yes | йес | да | Yes, I am Alex. | Да, я Алекс.
+W no | ноу | нет | No, thank you. | Нет, спасибо.
+W name | нэйм | имя | What is your name? | Как тебя зовут?
+W nice to meet you | найс ту мит ю | приятно познакомиться | Nice to meet you, Anna. | Приятно познакомиться, Анна.
+W how are you | хау а ю | как дела | Hi! How are you? | Привет! Как дела?
+W fine | файн | хорошо | I am fine, thanks. | У меня всё хорошо, спасибо.
+
+U u2 | Me | Я и работа | Бизнес, клиенты, команда
+W I | ай | я | I am from Russia. | Я из России.
+W you | ю | ты / вы | Are you a manager? | Вы менеджер?
+W work | уёрк | работать, работа | I work in marketing. | Я работаю в маркетинге.
+W business | бизнис | бизнес | I have a small business. | У меня небольшой бизнес.
+W client | клайэнт | клиент | My client is in Moscow. | Мой клиент в Москве.
+W team | тим | команда | My team is great. | У меня отличная команда.
+W manager | мэнэджэр | менеджер | She is a good manager. | Она хороший менеджер.
+W company | кампани | компания | This is my company. | Это моя компания.
+W marketing | маркэтинг | маркетинг | Marketing is my job. | Маркетинг — моя работа.
+W city | сити | город | My city is Novosibirsk. | Мой город — Новосибирск.
+
+U u3 | 123 | Числа 1–10 | От одного до десяти
+W one | уан | один | I have one brother. | У меня один брат.
+W two | ту | два | Two coffees, please. | Два кофе, пожалуйста.
+W three | сри | три | We have three clients. | У нас три клиента.
+W four | фо | четыре | I work four days. | Я работаю четыре дня.
+W five | файв | пять | Five minutes, please. | Пять минут, пожалуйста.
+W six | сикс | шесть | It is six o'clock. | Сейчас шесть часов.
+W seven | сэвн | семь | Seven days a week. | Семь дней в неделю.
+W eight | эйт | восемь | I start at eight. | Я начинаю в восемь.
+W nine | найн | девять | Nine people in my team. | Девять человек в моей команде.
+W ten | тэн | десять | Ten dollars, please. | Десять долларов, пожалуйста.
+
+U a1u04 | 100 | Числа 11–100 | Возраст, цены, номера
+W eleven | илэвн | одиннадцать | I have eleven clients. | У меня одиннадцать клиентов.
+W twelve | туэлв | двенадцать | The meeting is at twelve. | Встреча в двенадцать.
+W fifteen | фифтин | пятнадцать | Fifteen minutes, please. | Пятнадцать минут, пожалуйста.
+W twenty | туэнти | двадцать | She is twenty years old. | Ей двадцать лет.
+W thirty | сёрти | тридцать | Thirty dollars, please. | Тридцать долларов, пожалуйста.
+W forty | фоти | сорок | Forty people work here. | Здесь работают сорок человек.
+W fifty | фифти | пятьдесят | It costs fifty dollars. | Это стоит пятьдесят долларов.
+W hundred | хандрэд | сто | One hundred clients a month. | Сто клиентов в месяц.
+W number | намбэр | номер, число | What is your phone number? | Какой у тебя номер телефона?
+W age | эйдж | возраст | Age is just a number. | Возраст — это просто число.
+
+U a1u05 | Map | Страны и языки | Откуда ты, на чём говоришь
+W country | кантри | страна | Russia is a big country. | Россия — большая страна.
+W Russia | раша | Россия | I live in Russia. | Я живу в России.
+W England | ингланд | Англия | London is in England. | Лондон находится в Англии.
+W America | эмэрика | Америка | My friend lives in America. | Мой друг живёт в Америке.
+W China | чайна | Китай | This phone is from China. | Этот телефон из Китая.
+W Korea | кориа | Корея | Seoul is in Korea. | Сеул находится в Корее.
+W language | лэнгуидж | язык | English is a world language. | Английский — мировой язык.
+W English | инглиш | английский | I speak a little English. | Я немного говорю по-английски.
+W Russian | рашн | русский | My first language is Russian. | Мой родной язык — русский.
+W speak | спик | говорить | Do you speak English? | Ты говоришь по-английски?
+
+U a1u06 | Wh? | Вопросы | Кто, что, когда, почему
+W what | уот | что, какой | What is your job? | Кем ты работаешь?
+W who | ху | кто | Who is your manager? | Кто твой менеджер?
+W when | уэн | когда | When is the meeting? | Когда встреча?
+W why | уай | почему | Why are you late? | Почему ты опоздал?
+W how | хау | как | How is your business? | Как твой бизнес?
+W which | уич | который, какой | Which hotel is yours? | Какой отель твой?
+W how many | хау мэни | сколько (штук) | How many people are in your team? | Сколько людей в твоей команде?
+W how old | хау оулд | сколько лет | How old is your son? | Сколько лет твоему сыну?
+W question | куэсчн | вопрос | I have a question. | У меня есть вопрос.
+W answer | ансэр | ответ, отвечать | That is a good answer. | Это хороший ответ.
+
+M a1m2 | Люди вокруг | #3d8a8f,#1d4a5a
+G have и has: «у меня есть»
+T «У меня есть» по-английски — I have. С he, she и it — has. Вопрос строится через do или does, отрицание через don't или doesn't, и после них снова have.
+E I have a brother. = У меня есть брат.
+E She has two children. = У неё двое детей.
+E Do you have a car? = У тебя есть машина?
+D I ___ a sister. = У меня есть сестра. | have | has | am
+D He ___ a big family. = У него большая семья. | has | have | is
+D ___ you have a car? = У тебя есть машина? | Do | Does | Are
+D She ___ have a dog. = У неё нет собаки. | doesn't | don't | isn't
+D We ___ three clients today. = Сегодня у нас три клиента. | have | has | are
+D ___ he have a phone? = У него есть телефон? | Does | Do | Is
+D They ___ a nice office. = У них хороший офис. | have | has | is
+D I ___ have time now. = У меня сейчас нет времени. | don't | doesn't | am not
+
+U u4 | Fam | Семья | Мама, брат, сын
+W family | фэмили | семья | My family is big. | У меня большая семья.
+W mother | мазэр | мама | My mother is a teacher. | Моя мама — учительница.
+W father | фазэр | папа | My father works a lot. | Мой папа много работает.
+W brother | бразэр | брат | His brother is ten. | Его брату десять.
+W sister | систэр | сестра | Her sister lives in Moscow. | Её сестра живёт в Москве.
+W friend | фрэнд | друг | He is my best friend. | Он мой лучший друг.
+W wife | уайф | жена | This is my wife. | Это моя жена.
+W son | сан | сын | Their son is a student. | Их сын — студент.
+W daughter | дотэр | дочь | Our daughter likes music. | Наша дочь любит музыку.
+W people | пипл | люди | Many people work here. | Здесь работает много людей.
+
+U a1u08 | Look | Внешность | Высокий, молодой, красивый
+W tall | тол | высокий | My brother is tall. | Мой брат высокий.
+W short | шот | низкий, короткий | She has short hair. | У неё короткие волосы.
+W young | янг | молодой | My manager is young. | Мой менеджер молодой.
+W old | оулд | старый | This is an old photo. | Это старое фото.
+W hair | хэа | волосы | Her hair is long. | У неё длинные волосы.
+W eyes | айз | глаза | He has blue eyes. | У него голубые глаза.
+W face | фэйс | лицо | I know this face. | Я знаю это лицо.
+W beautiful | бьютифул | красивый | Your city is beautiful. | Твой город красивый.
+W long | лонг | длинный, долгий | It is a long day. | Это долгий день.
+W big | биг | большой | We have a big office. | У нас большой офис.
+
+U a1u09 | Kind | Характер | Добрый, умный, занятой
+W kind | кайнд | добрый | My mother is very kind. | Моя мама очень добрая.
+W smart | смат | умный | He is a smart manager. | Он умный менеджер.
+W funny | фани | смешной | My friend is very funny. | Мой друг очень смешной.
+W friendly | фрэндли | дружелюбный | The people here are friendly. | Люди здесь дружелюбные.
+W good | гуд | хороший | She is a good teacher. | Она хорошая учительница.
+W bad | бэд | плохой | This is a bad idea. | Это плохая идея.
+W happy | хэпи | счастливый, довольный | I am happy today. | Сегодня я счастлив.
+W busy | бизи | занятой | I am busy now. | Я сейчас занят.
+W tired | тайэд | уставший | I am tired after work. | Я устал после работы.
+W nice | найс | милый, приятный | Your team is nice. | У тебя приятная команда.
+
+U a1u10 | Job | Профессии | Кто кем работает
+W job | джоб | работа, должность | I like my job. | Мне нравится моя работа.
+W teacher | тичэр | учитель | Her teacher is from London. | Её учитель из Лондона.
+W doctor | доктэр | врач | Her father is a doctor. | Её папа — врач.
+W driver | драйвэр | водитель | The driver is here. | Водитель здесь.
+W engineer | инджиниа | инженер | He is an engineer. | Он инженер.
+W designer | дизайнэр | дизайнер | Our designer is very good. | Наш дизайнер очень хороший.
+W developer | дивэлопэр | разработчик | We need a developer. | Нам нужен разработчик.
+W director | дирэктэр | директор | She is the director. | Она директор.
+W student | стьюдэнт | студент | I am not a student. | Я не студент.
+W boss | бос | начальник | My boss is in Moscow. | Мой начальник в Москве.
+
+U a1u11 | Pals | Люди рядом | Коллеги, дети, гости
+W colleague | колиг | коллега | This is my colleague Anna. | Это моя коллега Анна.
+W partner | патнэр | партнёр | He is my business partner. | Он мой бизнес-партнёр.
+W man | мэн | мужчина | Who is that man? | Кто этот мужчина?
+W woman | вумэн | женщина | That woman is my boss. | Та женщина — моя начальница.
+W child | чайлд | ребёнок | Their child is five. | Их ребёнку пять лет.
+W children | чилдрэн | дети | I have two children. | У меня двое детей.
+W boy | бой | мальчик | The boy is my son. | Этот мальчик — мой сын.
+W girl | гёрл | девочка | The girl is my daughter. | Эта девочка — моя дочь.
+W guest | гэст | гость | We have a guest today. | Сегодня у нас гость.
+W neighbor | нэйбэр | сосед | My neighbor is very friendly. | Мой сосед очень дружелюбный.
+
+U a1u12 | Info | Обо мне | Где живу, телефон, день рождения
+W live | лив | жить | I live in Novosibirsk. | Я живу в Новосибирске.
+W from | фром | из | Where are you from? | Откуда ты?
+W address | эдрэс | адрес | What is your address? | Какой у тебя адрес?
+W phone | фоун | телефон | My phone is new. | У меня новый телефон.
+W email | имэйл | электронная почта | Send me an email. | Отправь мне письмо.
+W birthday | бёсдэй | день рождения | My birthday is in May. | Мой день рождения в мае.
+W married | мэрид | женат, замужем | Are you married? | Ты женат?
+W single | сингл | холост, не замужем | My brother is single. | Мой брат не женат.
+W home | хоум | дом, домой | I work from home. | Я работаю из дома.
+W love | лав | любить, любовь | I love my job. | Я люблю свою работу.
+
+M a1m3 | Мой день | #6a63b0,#2e2c6a
+G Present Simple: привычки и факты
+T Present Simple говорит о том, что ты делаешь регулярно. С he, she и it к глаголу добавляется -s. Вопрос: Do you…? Does she…? Отрицание: don't или doesn't, и глагол уже без -s.
+E I get up at seven. = Я встаю в семь.
+E She works from home. = Она работает из дома.
+E Do you drink coffee? = Ты пьёшь кофе?
+D She ___ in marketing. = Она работает в маркетинге. | works | work | working
+D I ___ coffee every morning. = Я пью кофе каждое утро. | drink | drinks | drinking
+D ___ he live in Moscow? = Он живёт в Москве? | Does | Do | Is
+D We ___ work on Sunday. = Мы не работаем в воскресенье. | don't | doesn't | aren't
+D My boss ___ at nine. = Мой начальник начинает в девять. | starts | start | starting
+D ___ you like tea? = Ты любишь чай? | Do | Does | Are
+D He ___ like meetings. = Он не любит встречи. | doesn't | don't | isn't
+D They ___ English every day. = Они говорят по-английски каждый день. | speak | speaks | speaking
+
+U u5 | Day | Мой день | Утро, кофе, время
+W morning | монинг | утро | Good morning, team! | Доброе утро, команда!
+W evening | ивнинг | вечер | I read in the evening. | Вечером я читаю.
+W day | дэй | день | Have a nice day! | Хорошего дня!
+W today | тудэй | сегодня | I am busy today. | Сегодня я занят.
+W tomorrow | тумороу | завтра | See you tomorrow. | Увидимся завтра.
+W coffee | кофи | кофе | I drink coffee every morning. | Я пью кофе каждое утро.
+W breakfast | брэкфаст | завтрак | Breakfast is at eight. | Завтрак в восемь.
+W time | тайм | время | What time is it? | Который час?
+W go | гоу | идти, ехать | I go to work at nine. | Я иду на работу в девять.
+W eat | ит | есть, кушать | We eat at home. | Мы едим дома.
+
+U a1u14 | Week | Неделя | Дни недели и выходные
+W Monday | мандэй | понедельник | See you on Monday. | Увидимся в понедельник.
+W Tuesday | тьюздэй | вторник | The meeting is on Tuesday. | Встреча во вторник.
+W Wednesday | уэнздэй | среда | I am free on Wednesday. | В среду я свободен.
+W Thursday | сёздэй | четверг | We have a call on Thursday. | В четверг у нас созвон.
+W Friday | фрайдэй | пятница | Friday is my favorite day. | Пятница — мой любимый день.
+W Saturday | сэтэдэй | суббота | I sleep late on Saturday. | В субботу я долго сплю.
+W Sunday | сандэй | воскресенье | We don't work on Sunday. | В воскресенье мы не работаем.
+W week | уик | неделя | I work five days a week. | Я работаю пять дней в неделю.
+W weekend | уикэнд | выходные | Have a nice weekend! | Хороших выходных!
+W month | манс | месяц | I travel every month. | Я путешествую каждый месяц.
+
+U a1u15 | Clock | Время | Часы, минуты, рано и поздно
+W hour | ауэр | час | The meeting is one hour. | Встреча длится час.
+W minute | минит | минута | Wait a minute, please. | Подожди минутку, пожалуйста.
+W o'clock | оклок | ровно (о часах) | It is ten o'clock. | Сейчас ровно десять.
+W half | хаф | половина | It is half past nine. | Сейчас половина десятого.
+W early | ёрли | рано | The train is early. | Поезд пришёл рано.
+W late | лэйт | поздно, опоздавший | Sorry, I am late. | Извини, я опоздал.
+W now | нау | сейчас | Call me now. | Позвони мне сейчас.
+W night | найт | ночь | Good night! | Спокойной ночи!
+W afternoon | афтэнун | день, после полудня | See you in the afternoon. | Увидимся днём.
+W year | йиэр | год | This year is very busy. | Этот год очень насыщенный.
+
+U a1u16 | Rout | Распорядок | Встаю, начинаю, заканчиваю
+W wake up | уэйк ап | просыпаться | I wake up at seven. | Я просыпаюсь в семь.
+W get up | гэт ап | вставать | I get up at half past seven. | Я встаю в половине восьмого.
+W take a shower | тэйк э шауэр | принимать душ | I take a shower every morning. | Я принимаю душ каждое утро.
+W start | старт | начинать | We start at nine. | Мы начинаем в девять.
+W finish | финиш | заканчивать | I finish work at six. | Я заканчиваю работу в шесть.
+W come | кам | приходить | Come to my office. | Приходи ко мне в офис.
+W sleep | слип | спать | I sleep eight hours. | Я сплю восемь часов.
+W read | рид | читать | I read news in the morning. | Утром я читаю новости.
+W watch | уотч | смотреть | We watch TV in the evening. | Вечером мы смотрим телевизор.
+W drive | драйв | водить машину | I drive to work. | Я езжу на работу на машине.
+
+U a1u17 | Often | Как часто | Всегда, иногда, никогда
+W always | олуэйз | всегда | I always drink coffee. | Я всегда пью кофе.
+W usually | южуали | обычно | I usually work at home. | Обычно я работаю дома.
+W often | офн | часто | We often have meetings. | У нас часто бывают встречи.
+W sometimes | самтаймз | иногда | Sometimes I work on Saturday. | Иногда я работаю в субботу.
+W never | нэвэр | никогда | I never eat breakfast. | Я никогда не завтракаю.
+W every | эври | каждый | I call my mother every day. | Я звоню маме каждый день.
+W again | эгэн | снова | Say it again, please. | Скажи ещё раз, пожалуйста.
+W then | зэн | потом, затем | I have breakfast, then I go to work. | Я завтракаю, потом иду на работу.
+W after | афтэр | после | I read after dinner. | Я читаю после ужина.
+W before | бифо | до, перед | I drink coffee before work. | Я пью кофе перед работой.
+
+U a1u18 | Flat | Дом и квартира | Комнаты, окно, стол
+W house | хаус | дом (здание) | Their house is big. | У них большой дом.
+W apartment | эпатмэнт | квартира | My apartment is in the center. | Моя квартира в центре.
+W room | рум | комната | This room is my office. | Эта комната — мой кабинет.
+W kitchen | китчин | кухня | We eat in the kitchen. | Мы едим на кухне.
+W bedroom | бэдрум | спальня | The bedroom is small. | Спальня маленькая.
+W bathroom | басрум | ванная | Where is the bathroom? | Где ванная?
+W door | до | дверь | Close the door, please. | Закрой дверь, пожалуйста.
+W window | уиндоу | окно | Open the window, please. | Открой окно, пожалуйста.
+W table | тэйбл | стол | The phone is on the table. | Телефон на столе.
+W bed | бэд | кровать | I go to bed at eleven. | Я ложусь спать в одиннадцать.
+
+M a1m4 | Еда | #b0745a,#5e3426
+G some и any, Can I have…?
+T some — «немного, несколько» в обычных предложениях. any — в вопросах и отрицаниях. Перед одним предметом ставим a, а если слово начинается с гласного звука — an: an apple. Вежливая просьба — Can I have…?
+E I have some water. = У меня есть немного воды.
+E Do you have any tea? = У вас есть чай?
+E Can I have a coffee, please? = Можно мне кофе, пожалуйста?
+D Can I have ___ water? = Можно мне воды? | some | any | a
+D Do you have ___ milk? = У вас есть молоко? | any | some | a
+D We don't have ___ bread. = У нас нет хлеба. | any | some | a
+D I want ___ apple. = Я хочу яблоко. | an | a | some
+D ___ I have the menu, please? = Можно мне меню? | Can | Do | Am
+D I buy ___ eggs every week. = Я покупаю яйца каждую неделю. | some | any | an
+D She doesn't want ___ sugar. = Она не хочет сахара. | any | some | a
+D I need ___ banana. = Мне нужен банан. | a | an | any
+
+U u6 | Go | Кафе и город | Счёт, такси, отель
+W water | уотэр | вода | Can I have some water? | Можно мне воды?
+W tea | ти | чай | Black tea, please. | Чёрный чай, пожалуйста.
+W menu | мэнью | меню | Can I see the menu? | Можно посмотреть меню?
+W bill | бил | счёт (в кафе) | The bill, please. | Счёт, пожалуйста.
+W how much | хау мач | сколько стоит | How much is it? | Сколько это стоит?
+W where | уэа | где | Where is the hotel? | Где отель?
+W street | стрит | улица | This street is long. | Эта улица длинная.
+W hotel | хоутэл | отель | My hotel is near here. | Мой отель рядом.
+W taxi | тэкси | такси | I need a taxi. | Мне нужно такси.
+W airport | эапот | аэропорт | Take me to the airport. | Отвезите меня в аэропорт.
+
+U a1u20 | Food | Продукты | Хлеб, молоко, мясо
+W food | фуд | еда | The food here is great. | Еда здесь отличная.
+W bread | брэд | хлеб | I buy bread every day. | Я покупаю хлеб каждый день.
+W milk | милк | молоко | Coffee with milk, please. | Кофе с молоком, пожалуйста.
+W egg | эг | яйцо | I eat two eggs for breakfast. | На завтрак я ем два яйца.
+W cheese | чиз | сыр | I love cheese. | Я люблю сыр.
+W meat | мит | мясо | I don't eat meat. | Я не ем мясо.
+W fish | фиш | рыба | Fish is good for you. | Рыба полезна.
+W chicken | чикин | курица | Chicken and rice, please. | Курицу с рисом, пожалуйста.
+W rice | райс | рис | Rice is cheap. | Рис дешёвый.
+W vegetables | вэджтэблз | овощи | Eat more vegetables. | Ешь больше овощей.
+
+U a1u21 | Cup | Фрукты и напитки | Сок, вино, чашка
+W fruit | фрут | фрукты | I eat fruit every day. | Я ем фрукты каждый день.
+W apple | эпл | яблоко | This apple is sweet. | Это яблоко сладкое.
+W orange | ориндж | апельсин, оранжевый | I like oranges. | Я люблю апельсины.
+W banana | бэнана | банан | Bananas are cheap here. | Бананы здесь дешёвые.
+W juice | джус | сок | Apple juice, please. | Яблочный сок, пожалуйста.
+W beer | биэр | пиво | One beer, please. | Одно пиво, пожалуйста.
+W wine | уайн | вино | Red or white wine? | Красное или белое вино?
+W sugar | шугэр | сахар | No sugar, please. | Без сахара, пожалуйста.
+W cup | кап | чашка | A cup of tea, please. | Чашку чая, пожалуйста.
+W glass | глас | стакан, бокал | A glass of water, please. | Стакан воды, пожалуйста.
+
+U a1u22 | Cook | Готовка и вкус | Голодный, вкусный, горячий
+W cook | кук | готовить | I cook dinner at home. | Я готовлю ужин дома.
+W dinner | диннэр | ужин | Dinner is at seven. | Ужин в семь.
+W lunch | ланч | обед | Let's have lunch together. | Давай пообедаем вместе.
+W hungry | хангри | голодный | I am very hungry. | Я очень голоден.
+W thirsty | сёрсти | испытывающий жажду | Are you thirsty? | Хочешь пить?
+W delicious | дилишэс | очень вкусный | This soup is delicious. | Этот суп очень вкусный.
+W sweet | свит | сладкий | The cake is too sweet. | Торт слишком сладкий.
+W hot | хот | горячий, жаркий | The tea is very hot. | Чай очень горячий.
+W cold | коулд | холодный | I want a cold drink. | Я хочу холодный напиток.
+W salt | солт | соль | Can I have some salt? | Можно мне соль?
+
+U a1u23 | Menu | Ресторан | Заказать, заплатить, картой
+W restaurant | рэстрон | ресторан | This restaurant is new. | Этот ресторан новый.
+W waiter | уэйтэр | официант | The waiter is very friendly. | Официант очень дружелюбный.
+W order | одэр | заказывать, заказ | Can I order now? | Можно заказать сейчас?
+W want | уонт | хотеть | I want a salad. | Я хочу салат.
+W salad | сэлэд | салат | A green salad, please. | Зелёный салат, пожалуйста.
+W soup | суп | суп | The soup is hot. | Суп горячий.
+W dessert | дизёрт | десерт | No dessert for me. | Мне без десерта.
+W pay | пэй | платить | Can I pay by card? | Можно заплатить картой?
+W card | кад | карта | I pay by card. | Я плачу картой.
+W cash | кэш | наличные | Do you take cash? | Вы принимаете наличные?
+
+U a1u24 | Shop | Магазин | Купить, цена, дорого
+W shop | шоп | магазин | The shop is near my house. | Магазин рядом с моим домом.
+W buy | бай | покупать | I buy food on Sunday. | Я покупаю продукты в воскресенье.
+W sell | сэл | продавать | We sell marketing services. | Мы продаём маркетинговые услуги.
+W price | прайс | цена | What is the price? | Какая цена?
+W cheap | чип | дешёвый | This phone is cheap. | Этот телефон дешёвый.
+W expensive | икспэнсив | дорогой | Moscow is expensive. | Москва — дорогой город.
+W money | мани | деньги | Time is money. | Время — деньги.
+W open | оупэн | открытый, открывать | Is the shop open now? | Магазин сейчас открыт?
+W closed | клоузд | закрытый | The bank is closed today. | Банк сегодня закрыт.
+W bag | бэг | сумка, пакет | Do you need a bag? | Вам нужен пакет?
+
+M a1m5 | Город и дорога | #5f8a4e,#2b4a25
+G there is и there are, предлоги места
+T Когда говорим, что где-то что-то есть, используем there is (один предмет) или there are (несколько). Предлоги: in — внутри, on — на, near — рядом, next to — рядом с, between — между.
+E There is a café near my office. = Рядом с моим офисом есть кафе.
+E There are two hotels on this street. = На этой улице два отеля.
+E Is there a bank here? = Здесь есть банк?
+D ___ a bank near here. = Здесь рядом есть банк. | There is | There are | It are
+D ___ many people in the office. = В офисе много людей. | There are | There is | It is
+D ___ there a taxi? = Тут есть такси? | Is | Are | Do
+D The phone is ___ the table. = Телефон на столе. | on | in | at
+D My office is ___ the city center. = Мой офис в центре города. | in | on | at
+D The café is ___ to the hotel. = Кафе рядом с отелем. | next | near | between
+D ___ there any shops here? = Здесь есть магазины? | Are | Is | Do
+D The bank is ___ the café and the hotel. = Банк между кафе и отелем. | between | next | on
+
+U a1u25 | City | Места в городе | Парк, офис, аптека
+W center | сэнтэр | центр | We live in the city center. | Мы живём в центре города.
+W bank | бэнк | банк | I go to the bank on Monday. | В понедельник я иду в банк.
+W park | пак | парк | We walk in the park. | Мы гуляем в парке.
+W office | офис | офис | My office is on Lenin Street. | Мой офис на улице Ленина.
+W school | скул | школа | My son goes to school. | Мой сын ходит в школу.
+W hospital | хоспитл | больница | The hospital is near here. | Больница рядом.
+W museum | мьюзиэм | музей | The museum is open on Sunday. | Музей открыт в воскресенье.
+W market | макит | рынок | I buy fruit at the market. | Я покупаю фрукты на рынке.
+W cinema | синэма | кинотеатр | Let's go to the cinema. | Пойдём в кино.
+W pharmacy | фамэси | аптека | Is there a pharmacy here? | Здесь есть аптека?
+
+U a1u26 | Bus | Транспорт | Автобус, поезд, билет
+W bus | бас | автобус | I take the bus to work. | Я езжу на работу на автобусе.
+W train | трэйн | поезд | The train is at eight. | Поезд в восемь.
+W car | ка | машина | My car is black. | У меня чёрная машина.
+W plane | плэйн | самолёт | The plane is late. | Самолёт задерживается.
+W metro | мэтроу | метро | I go by metro. | Я езжу на метро.
+W ticket | тикит | билет | One ticket, please. | Один билет, пожалуйста.
+W station | стэйшн | станция, вокзал | Where is the station? | Где вокзал?
+W stop | стоп | остановка, останавливать | This is my stop. | Это моя остановка.
+W fast | фаст | быстрый | The train is very fast. | Поезд очень быстрый.
+W slow | слоу | медленный | The bus is slow. | Автобус медленный.
+
+U a1u27 | Way | Как пройти | Налево, прямо, далеко
+W left | лэфт | налево, левый | Turn left here. | Здесь поверни налево.
+W right | райт | направо, правый | The hotel is on the right. | Отель справа.
+W straight | стрэйт | прямо | Go straight on. | Идите прямо.
+W turn | тёрн | поворачивать | Turn right at the bank. | У банка поверни направо.
+W near | ниа | рядом, близко | Is it near? | Это близко?
+W far | фа | далеко | The airport is far from here. | Аэропорт далеко отсюда.
+W map | мэп | карта (местности) | Show me on the map, please. | Покажите мне на карте, пожалуйста.
+W corner | конэр | угол | The café is on the corner. | Кафе на углу.
+W way | уэй | путь, дорога | Is this the way to the station? | Это дорога к вокзалу?
+W here | хиа | здесь | Wait here, please. | Подожди здесь, пожалуйста.
+
+U a1u28 | Stay | Отель | Бронь, ключ, этаж
+W reservation | рэзэвэйшн | бронь | I have a reservation. | У меня есть бронь.
+W book | бук | бронировать, книга | I want to book a room. | Я хочу забронировать номер.
+W key | ки | ключ | Here is your key. | Вот ваш ключ.
+W floor | флор | этаж, пол | My room is on the fifth floor. | Мой номер на пятом этаже.
+W elevator | элэвэйтэр | лифт | The elevator is on the left. | Лифт слева.
+W reception | рисэпшн | стойка регистрации | Ask at reception. | Спросите на ресепшене.
+W stay | стэй | останавливаться, жить (в отеле) | I stay here for three nights. | Я живу здесь три ночи.
+W check in | чек ин | заселяться | Can I check in now? | Можно заселиться сейчас?
+W check out | чек аут | выезжать | Check out is at twelve. | Выезд в двенадцать.
+W password | пасуёрд | пароль | What is the Wi-Fi password? | Какой пароль от вай-фая?
+
+U a1u29 | Fly | Аэропорт | Паспорт, рейс, багаж
+W passport | паспорт | паспорт | Here is my passport. | Вот мой паспорт.
+W flight | флайт | рейс, перелёт | My flight is at six. | Мой рейс в шесть.
+W gate | гэйт | выход на посадку | Go to gate five. | Пройдите к выходу пять.
+W luggage | лагидж | багаж | Where is my luggage? | Где мой багаж?
+W trip | трип | поездка | Have a nice trip! | Хорошей поездки!
+W travel | трэвл | путешествовать | I travel a lot for work. | Я много езжу по работе.
+W arrive | эрайв | прибывать | We arrive at ten. | Мы прибываем в десять.
+W leave | лив | уезжать, уходить | The train leaves at nine. | Поезд отправляется в девять.
+W delay | дилэй | задержка | There is a delay. | Есть задержка.
+W visa | виза | виза | Do I need a visa? | Мне нужна виза?
+
+U a1u30 | Sky | Погода | Солнце, дождь, снег
+W weather | уэзэр | погода | The weather is nice today. | Сегодня хорошая погода.
+W sun | сан | солнце | I love the sun. | Я люблю солнце.
+W rain | рэйн | дождь | Rain again! | Опять дождь!
+W snow | сноу | снег | There is a lot of snow in Novosibirsk. | В Новосибирске много снега.
+W wind | уинд | ветер | The wind is cold. | Ветер холодный.
+W warm | уом | тёплый | It is warm in the office. | В офисе тепло.
+W sunny | сани | солнечный | It is a sunny day. | Сегодня солнечный день.
+W cloudy | клауди | облачный | It is cloudy today. | Сегодня облачно.
+W winter | уинтэр | зима | Winter is long here. | Зима здесь долгая.
+W summer | самэр | лето | Summer is short. | Лето короткое.
+
+M a1m6 | Вещи и покупки | #8a5a9c,#43275a
+G this, that, these, those
+T this — «это», про то, что рядом. that — «то», про то, что дальше. Если предметов несколько: these (рядом) и those (дальше).
+E This is my phone. = Это мой телефон.
+E That car is expensive. = Та машина дорогая.
+E These shoes are new. = Эти ботинки новые.
+D ___ is my laptop. = Это мой ноутбук (рядом). | This | These | Those
+D ___ shoes are nice. = Эти ботинки красивые (рядом). | These | This | That
+D Look at ___ building over there. = Посмотри на то здание вон там. | that | these | this
+D ___ people are my colleagues. = Те люди — мои коллеги. | Those | That | This
+D Is ___ your bag? = Это твоя сумка (рядом)? | this | these | those
+D I like ___ colors. = Мне нравятся эти цвета (рядом). | these | this | that
+D ___ is our new office. = Вон то — наш новый офис. | That | Those | These
+D How much are ___ glasses? = Сколько стоят эти очки (рядом)? | these | this | that
+
+U a1u31 | Wear | Одежда | Рубашка, куртка, костюм
+W clothes | клоуз | одежда | I buy clothes online. | Я покупаю одежду онлайн.
+W shirt | шёрт | рубашка | This shirt is new. | Эта рубашка новая.
+W T-shirt | ти-шёрт | футболка | I wear a T-shirt at home. | Дома я ношу футболку.
+W jacket | джэкит | куртка, пиджак | Take a warm jacket. | Возьми тёплую куртку.
+W shoes | шуз | обувь, ботинки | These shoes are nice. | Эти ботинки красивые.
+W dress | дрэс | платье | Her dress is beautiful. | У неё красивое платье.
+W jeans | джинз | джинсы | I wear jeans to work. | Я хожу на работу в джинсах.
+W hat | хэт | шапка, шляпа | It is cold, take a hat. | Холодно, возьми шапку.
+W suit | сут | костюм | He wears a suit to meetings. | На встречи он ходит в костюме.
+W wear | уэа | носить (одежду) | What do you wear to work? | В чём ты ходишь на работу?
+
+U a1u32 | Color | Цвета | Чёрный, белый, любимый
+W color | калэр | цвет | What is your favorite color? | Какой твой любимый цвет?
+W black | блэк | чёрный | I like black coffee. | Я люблю чёрный кофе.
+W white | уайт | белый | A white shirt, please. | Белую рубашку, пожалуйста.
+W red | рэд | красный | Red is my favorite color. | Красный — мой любимый цвет.
+W blue | блу | синий, голубой | The sky is blue. | Небо голубое.
+W green | грин | зелёный | I drink green tea. | Я пью зелёный чай.
+W yellow | йелоу | жёлтый | The taxi is yellow. | Такси жёлтое.
+W gray | грэй | серый | Gray suits are popular. | Серые костюмы популярны.
+W brown | браун | коричневый | He has brown eyes. | У него карие глаза.
+W favorite | фэйврит | любимый | This is my favorite café. | Это моё любимое кафе.
+
+U a1u33 | Tech | Техника | Ноутбук, приложение, сайт
+W laptop | лэптоп | ноутбук | My laptop is very fast. | Мой ноутбук очень быстрый.
+W computer | компьютэр | компьютер | I work on a computer all day. | Я весь день работаю за компьютером.
+W app | эп | приложение | We make an app. | Мы делаем приложение.
+W website | уэбсайт | сайт | Our website is new. | У нас новый сайт.
+W message | мэсидж | сообщение | Send me a message. | Отправь мне сообщение.
+W internet | интэрнэт | интернет | The internet is slow here. | Здесь медленный интернет.
+W screen | скрин | экран | The screen is too small. | Экран слишком маленький.
+W charger | чарджэр | зарядка | Do you have a charger? | У тебя есть зарядка?
+W camera | кэмэра | камера, фотоаппарат | The camera is good. | Камера хорошая.
+W online | онлайн | онлайн | We work online. | Мы работаем онлайн.
+
+U a1u34 | Desk | Офисные вещи | Стол, ручка, документ
+W desk | дэск | рабочий стол | My desk is by the window. | Мой стол у окна.
+W chair | чэа | стул | Take a chair, please. | Присаживайтесь, пожалуйста.
+W pen | пэн | ручка | Can I have a pen? | Можно мне ручку?
+W paper | пэйпэр | бумага | I need some paper. | Мне нужна бумага.
+W notebook | ноутбук | блокнот | I write in my notebook. | Я пишу в блокноте.
+W document | докьюмэнт | документ | Sign this document, please. | Подпишите этот документ, пожалуйста.
+W file | файл | файл | Send me the file. | Пришли мне файл.
+W printer | принтэр | принтер | Where is the printer? | Где принтер?
+W calendar | кэлэндэр | календарь | Check your calendar. | Проверь свой календарь.
+W folder | фоулдэр | папка | The file is in this folder. | Файл в этой папке.
+
+U a1u35 | Stuff | Вещи вокруг | Кошелёк, зонт, подарок
+W thing | синг | вещь | I need many things. | Мне нужно много вещей.
+W box | бокс | коробка | Put it in the box. | Положи это в коробку.
+W glasses | гласиз | очки | Where are my glasses? | Где мои очки?
+W wallet | уолит | кошелёк | My wallet is in my bag. | Мой кошелёк в сумке.
+W umbrella | амбрэла | зонт | Take an umbrella. | Возьми зонт.
+W gift | гифт | подарок | This is a gift for you. | Это подарок для тебя.
+W picture | пикчэр | картинка, фото | Look at this picture. | Посмотри на эту картинку.
+W bottle | ботл | бутылка | A bottle of water, please. | Бутылку воды, пожалуйста.
+W clock | клок | часы (настенные) | The clock is on the wall. | Часы на стене.
+W light | лайт | свет, лёгкий | Turn on the light, please. | Включи свет, пожалуйста.
+
+U a1u36 | Size | Какая вещь | Новый, тяжёлый, пустой
+W new | нью | новый | Is this phone new? | Этот телефон новый?
+W small | смол | маленький | It is a small company. | Это маленькая компания.
+W heavy | хэви | тяжёлый | This bag is heavy. | Эта сумка тяжёлая.
+W easy | изи | лёгкий, простой | English is easy! | Английский — это легко!
+W difficult | дификалт | трудный | This task is difficult. | Это трудная задача.
+W clean | клин | чистый | The room is clean. | Комната чистая.
+W dirty | дёрти | грязный | My car is dirty. | Моя машина грязная.
+W empty | эмпти | пустой | The office is empty. | Офис пустой.
+W full | фул | полный | The restaurant is full. | Ресторан полон.
+W wrong | ронг | неправильный | This number is wrong. | Это неправильный номер.
+
+M a1m7 | Свободное время | #b08a3e,#5a4214
+G can и like + -ing
+T can — «могу, умею». После can глагол идёт без to и без -s: She can swim. Отрицание can't, вопрос Can you…? А «люблю что-то делать» — like + глагол с -ing: I like reading.
+E I can drive. = Я умею водить.
+E She can't swim. = Она не умеет плавать.
+E I like playing football. = Я люблю играть в футбол.
+D I ___ speak English a little. = Я немного говорю по-английски. | can | cans | am
+D She can ___ well. = Она хорошо поёт. | sing | sings | singing
+D ___ you swim? = Ты умеешь плавать? | Can | Do | Are
+D He ___ cook. He never cooks. = Он не умеет готовить. Он никогда не готовит. | can't | can | isn't
+D I like ___ books. = Я люблю читать книги. | reading | read | reads
+D We love ___ in the park. = Мы любим гулять в парке. | walking | walk | walks
+D ___ I help you? = Могу я вам помочь? | Can | Do | Am
+D They don't like ___ TV. = Они не любят смотреть телевизор. | watching | watch | watches
+
+U a1u37 | Fun | Хобби | Музыка, игры, рисовать
+W hobby | хоби | хобби | What is your hobby? | Какое у тебя хобби?
+W free time | фри тайм | свободное время | What do you do in your free time? | Что ты делаешь в свободное время?
+W music | мьюзик | музыка | I listen to music in the car. | Я слушаю музыку в машине.
+W listen | лисн | слушать | Listen to me, please. | Послушай меня, пожалуйста.
+W play | плэй | играть | I play chess. | Я играю в шахматы.
+W game | гэйм | игра | This game is fun. | Эта игра весёлая.
+W photo | фоутоу | фото | Take a photo, please. | Сфотографируй, пожалуйста.
+W draw | дро | рисовать | My daughter can draw. | Моя дочь умеет рисовать.
+W sing | синг | петь | She sings very well. | Она очень хорошо поёт.
+W dance | данс | танцевать | Can you dance? | Ты умеешь танцевать?
+
+U a1u38 | Gym | Спорт | Бег, плавание, матч
+W sport | спот | спорт | I like sport. | Я люблю спорт.
+W football | футбол | футбол | We play football on Sunday. | В воскресенье мы играем в футбол.
+W gym | джим | спортзал | I go to the gym three times a week. | Я хожу в спортзал три раза в неделю.
+W run | ран | бегать | I run every morning. | Я бегаю каждое утро.
+W swim | суим | плавать | I swim in summer. | Летом я плаваю.
+W ski | ски | кататься на лыжах | In winter we ski. | Зимой мы катаемся на лыжах.
+W bike | байк | велосипед | I go to work by bike. | Я езжу на работу на велосипеде.
+W win | уин | выигрывать | Our team wins! | Наша команда выигрывает!
+W lose | луз | проигрывать, терять | We never lose. | Мы никогда не проигрываем.
+W match | мэтч | матч | The match is at eight. | Матч в восемь.
+
+U a1u39 | Film | Кино и чтение | Фильм, сериал, новости
+W film | филм | фильм | This film is very good. | Этот фильм очень хороший.
+W movie | муви | кино (амер.) | Let's watch a movie tonight. | Давай посмотрим кино вечером.
+W series | сириз | сериал | I watch this series every evening. | Я смотрю этот сериал каждый вечер.
+W actor | эктэр | актёр | He is a famous actor. | Он известный актёр.
+W famous | фэймэс | знаменитый | Paris is a famous city. | Париж — знаменитый город.
+W story | стори | история, рассказ | It is a true story. | Это реальная история.
+W news | ньюз | новости | I read the news every day. | Я читаю новости каждый день.
+W magazine | мэгэзин | журнал | I buy a magazine at the airport. | Я покупаю журнал в аэропорту.
+W boring | боринг | скучный | This meeting is boring. | Эта встреча скучная.
+W interesting | интрэстинг | интересный | Your idea is interesting. | Твоя идея интересная.
+
+U a1u40 | Wknd | Выходные | Гости, отдых, природа
+W party | пати | вечеринка | Come to my party! | Приходи ко мне на вечеринку!
+W visit | визит | навещать, посещать | I visit my parents on Sunday. | В воскресенье я навещаю родителей.
+W parents | пэрэнтс | родители | My parents live in Omsk. | Мои родители живут в Омске.
+W together | тугэзэр | вместе | We have dinner together. | Мы ужинаем вместе.
+W relax | рилэкс | расслабляться | I want to relax. | Я хочу расслабиться.
+W rest | рэст | отдых | You need some rest. | Тебе нужно отдохнуть.
+W fun | фан | веселье | Have fun! | Повеселись!
+W invite | инвайт | приглашать | I invite you to dinner. | Приглашаю тебя на ужин.
+W nature | нэйчэр | природа | I love nature. | Я люблю природу.
+W river | ривэр | река | Novosibirsk is on a big river. | Новосибирск стоит на большой реке.
+
+U a1u41 | Sea | Отпуск | Море, горы, за границей
+W holiday | холидэй | отпуск, праздник | I need a holiday. | Мне нужен отпуск.
+W vacation | вэйкэйшн | отпуск (амер.) | We go on vacation in July. | Мы едем в отпуск в июле.
+W sea | си | море | I love the sea. | Я люблю море.
+W beach | бич | пляж | The beach is very clean. | Пляж очень чистый.
+W mountains | маунтинз | горы | We go to the mountains in winter. | Зимой мы едем в горы.
+W island | айлэнд | остров | Bali is an island. | Бали — это остров.
+W tourist | туэрист | турист | There are many tourists here. | Здесь много туристов.
+W abroad | эброд | за границей | I often travel abroad. | Я часто езжу за границу.
+W souvenir | сувэниэр | сувенир | This is a souvenir from Korea. | Это сувенир из Кореи.
+W view | вью | вид | What a beautiful view! | Какой красивый вид!
+
+U a1u42 | Year | Времена года | Месяцы и сезоны
+W January | джэнюэри | январь | January is very cold. | Январь очень холодный.
+W March | мач | март | My trip is in March. | Моя поездка в марте.
+W May | мэй | май | The weather is warm in May. | В мае тепло.
+W June | джун | июнь | We start in June. | Мы начинаем в июне.
+W September | сэптэмбэр | сентябрь | School starts in September. | Школа начинается в сентябре.
+W December | дисэмбэр | декабрь | December is a busy month. | Декабрь — загруженный месяц.
+W spring | спринг | весна | Spring is my favorite season. | Весна — моё любимое время года.
+W autumn | отэм | осень | Autumn is beautiful in Siberia. | Осенью в Сибири красиво.
+W season | сизн | время года, сезон | Which season do you like? | Какое время года тебе нравится?
+W date | дэйт | дата | What is the date today? | Какое сегодня число?
+
+M a1m8 | Работа | #3f6e9e,#1b3350
+G Present Continuous: прямо сейчас
+T Present Continuous — то, что происходит в эту минуту. Формула: am, is или are плюс глагол с -ing. Для привычек оставляем Present Simple: I drink coffee every day, but now I am drinking tea.
+E I am working now. = Я сейчас работаю.
+E She is talking to a client. = Она разговаривает с клиентом.
+E Are you driving? = Ты за рулём?
+D I ___ working now. = Я сейчас работаю. | am | is | are
+D She is ___ a client. = Она звонит клиенту. | calling | call | calls
+D ___ they waiting for us? = Они нас ждут? | Are | Is | Do
+D We ___ not working today. = Сегодня мы не работаем. | are | is | am
+D What ___ you doing? = Что ты делаешь? | are | is | do
+D He is ___ an email. = Он пишет письмо. | writing | write | writes
+D Look! It ___ raining. = Смотри! Идёт дождь. | is | are | am
+D I ___ coffee every day. = Я пью кофе каждый день. | drink | am drinking | drinks
+
+U a1u43 | Task | Офис | Встреча, проект, срок
+W meeting | митинг | встреча, совещание | The meeting is at ten. | Встреча в десять.
+W project | проджэкт | проект | This is a big project. | Это большой проект.
+W task | таск | задача | I have a new task. | У меня новая задача.
+W plan | плэн | план | What is the plan? | Какой план?
+W idea | айдиа | идея | Good idea! | Хорошая идея!
+W report | рипот | отчёт | The report is ready. | Отчёт готов.
+W ready | рэди | готовый | Are you ready? | Ты готов?
+W deadline | дэдлайн | срок, дедлайн | The deadline is Friday. | Срок — пятница.
+W help | хэлп | помогать, помощь | Can you help me? | Можешь мне помочь?
+W problem | проблэм | проблема | No problem! | Без проблем!
+
+U a1u44 | Call | Звонки | Подождите, повторите, перезвоните
+W call | кол | звонить, звонок | Call me tomorrow. | Позвони мне завтра.
+W wait | уэйт | ждать | Please wait. | Пожалуйста, подождите.
+W moment | моумэнт | момент | One moment, please. | Минутку, пожалуйста.
+W hear | хиа | слышать | I can't hear you. | Я тебя не слышу.
+W repeat | рипит | повторять | Can you repeat, please? | Можете повторить, пожалуйста?
+W slowly | слоули | медленно | Please speak slowly. | Говорите медленно, пожалуйста.
+W later | лэйтэр | позже | Call me later. | Позвони мне позже.
+W back | бэк | обратно, назад | Call me back, please. | Перезвони мне, пожалуйста.
+W available | эвэйлэбл | доступный, свободный | Are you available now? | Ты сейчас свободен?
+W voice | войс | голос | I know this voice. | Я знаю этот голос.
+
+U a1u45 | Mail | Письма | Отправить, прикрепить, ответить
+W letter | лэтэр | письмо, буква | Thank you for your letter. | Спасибо за ваше письмо.
+W send | сэнд | отправлять | I send emails every day. | Я отправляю письма каждый день.
+W write | райт | писать | Write to me, please. | Напиши мне, пожалуйста.
+W dear | диа | уважаемый, дорогой | Dear Mr. Smith, | Уважаемый мистер Смит,
+W regards | ригадз | с уважением (в письме) | Best regards, Alex. | С уважением, Алекс.
+W attach | этэч | прикреплять | I attach the file. | Прикрепляю файл.
+W reply | риплай | отвечать, ответ | Please reply today. | Пожалуйста, ответьте сегодня.
+W subject | сабджэкт | тема | What is the subject? | Какая тема?
+W information | инфомэйшн | информация | Thank you for the information. | Спасибо за информацию.
+W important | импотэнт | важный | This is very important. | Это очень важно.
+
+U a1u46 | Cash | Деньги | Зарплата, скидка, счёт
+W salary | сэлэри | зарплата | The salary is good. | Зарплата хорошая.
+W cost | кост | стоить | How much does it cost? | Сколько это стоит?
+W dollar | долэр | доллар | It costs ten dollars. | Это стоит десять долларов.
+W ruble | рубл | рубль | The price is in rubles. | Цена в рублях.
+W account | экаунт | счёт (в банке), аккаунт | I have a bank account. | У меня есть банковский счёт.
+W budget | баджит | бюджет | What is your budget? | Какой у вас бюджет?
+W free | фри | бесплатный, свободный | The consultation is free. | Консультация бесплатная.
+W discount | дискаунт | скидка | Can I have a discount? | Можно мне скидку?
+W invoice | инвойс | счёт на оплату | Send me the invoice, please. | Пришлите мне счёт, пожалуйста.
+W profit | профит | прибыль | Our profit is growing. | Наша прибыль растёт.
+
+U a1u47 | Do | Глаголы работы | Встречаться, знать, понимать
+W meet | мит | встречаться | Let's meet on Monday. | Давай встретимся в понедельник.
+W make | мэйк | делать, создавать | We make websites. | Мы делаем сайты.
+W do | ду | делать | What do you do? | Чем ты занимаешься?
+W need | нид | нуждаться, нужно | I need your help. | Мне нужна твоя помощь.
+W know | ноу | знать | I don't know. | Я не знаю.
+W think | синк | думать | I think it's a good idea. | Думаю, это хорошая идея.
+W understand | андэстэнд | понимать | I understand you. | Я тебя понимаю.
+W ask | аск | спрашивать, просить | Can I ask a question? | Можно задать вопрос?
+W tell | тэл | рассказывать, говорить | Tell me about your company. | Расскажи мне о своей компании.
+W give | гив | давать | Give me five minutes. | Дай мне пять минут.
+
+U a1u48 | Biz | Компания | Продажи, продукт, цель
+W sales | сэйлз | продажи | I work in sales. | Я работаю в продажах.
+W customer | кастэмэр | покупатель, клиент | The customer is always right. | Клиент всегда прав.
+W product | продакт | продукт | Our product is new. | Наш продукт новый.
+W service | сёрвис | услуга, сервис | Our service is fast. | У нас быстрый сервис.
+W brand | брэнд | бренд | This is a famous brand. | Это известный бренд.
+W advertising | эдвэтайзинг | реклама | Advertising is expensive. | Реклама стоит дорого.
+W contract | контрэкт | договор, контракт | We have a new contract. | У нас новый контракт.
+W offer | офэр | предложение, предлагать | This is a good offer. | Это хорошее предложение.
+W goal | гоул | цель | Our goal is ten clients. | Наша цель — десять клиентов.
+W result | ризалт | результат | The result is great. | Результат отличный.

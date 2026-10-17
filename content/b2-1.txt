@@ -1,0 +1,577 @@
+# B2 Upper-Intermediate, модули 1–4. W слово | перевод | пример | перевод примера
+
+M b2m1 | Переговоры | #4c78ba,#213f6d
+G Условные 3 типа и смешанные
+T Третий тип — о прошлом, которое уже не изменить: If + Past Perfect, would have + третья форма. If we had signed earlier, we would have saved money. Смешанный тип: условие в прошлом, а результат сейчас: If I had learned English at school, I would be fluent now. Вместо would часто говорят could или might. В формальной речи if можно убрать: Had we known, we would have called.
+E If we had known, we would have called you. = Если бы мы знали, мы бы вам позвонили.
+E If I hadn't moved to Korea, I wouldn't speak Korean now. = Если бы я не переехал в Корею, я бы сейчас не говорил по-корейски.
+E We might have won the deal if we had been faster. = Мы могли бы выиграть сделку, если бы были быстрее.
+D If we ___ the offer, we would have lost the client. = Если бы мы отклонили предложение, мы бы потеряли клиента. | had rejected | rejected | would reject
+D If she had called, I ___ helped her. = Если бы она позвонила, я бы ей помог. | would have | would | had
+D If I ___ English earlier, I would have a better job now. = Если бы я выучил английский раньше, сейчас у меня была бы работа лучше. | had learned | learned | have learned
+D We ___ have won if we had prepared better. = Мы могли бы победить, если бы лучше подготовились. | might | will | can
+D If they hadn't lowered the price, we ___ signed. = Если бы они не снизили цену, мы бы не подписали. | wouldn't have | won't have | didn't
+D If he ___ late, he wouldn't have missed the flight. = Если бы он не опоздал, он бы успел на рейс. | hadn't been | wasn't | wouldn't be
+D If I had taken that job, I ___ live in Moscow now. = Если бы я согласился на ту работу, сейчас жил бы в Москве. | would | would have | will
+D I wouldn't be so tired if I ___ worked all night. = Я бы не был так измотан, если бы не работал всю ночь. | hadn't | didn't | haven't
+
+U b2u01 | Deal | Сделка и договор | Рычаг, пункт, нарушение
+W leverage | рычаг влияния | We have more leverage than they think. | У нас больше рычагов давления, чем они думают.
+W stakeholder | заинтересованная сторона | We need to involve all stakeholders. | Нужно вовлечь все заинтересованные стороны.
+W deal-breaker | неприемлемое условие | A long payment delay is a deal-breaker for us. | Долгая отсрочка платежа для нас неприемлема.
+W terms and conditions | условия (договора) | Please read the terms and conditions. | Пожалуйста, ознакомьтесь с условиями.
+W memorandum | меморандум | We signed a memorandum of understanding. | Мы подписали меморандум о взаимопонимании.
+W binding | обязывающий | This agreement is legally binding. | Это соглашение имеет юридическую силу.
+W clause | пункт (договора) | Let's look at clause five. | Давайте посмотрим пятый пункт.
+W breach | нарушение | That would be a breach of contract. | Это было бы нарушением договора.
+W renew | продлевать | We renewed the contract for another year. | Мы продлили договор ещё на год.
+W terminate | расторгать, прекращать | Either side can terminate the agreement. | Любая сторона может расторгнуть соглашение.
+W penalty | штраф, неустойка | There's a penalty for late delivery. | За просрочку поставки предусмотрен штраф.
+W liability | ответственность (юридическая) | We accept no liability for delays. | Мы не несём ответственности за задержки.
+W deadlock | тупик | The talks reached a deadlock. | Переговоры зашли в тупик.
+W mutual | взаимный | It's in our mutual interest. | Это в наших общих интересах.
+W finalize | окончательно согласовать | We'll finalize the details next week. | Детали окончательно согласуем на следующей неделе.
+
+U b2u02 | Tact | Тактика переговоров | Уступить, тянуть время, преимущество
+W anchor | задать точку отсчёта | Always anchor the price first. | Всегда первым называй цену-ориентир.
+W concede | уступить, признать | We conceded on the delivery date. | Мы уступили в сроках поставки.
+W push back | возражать, сопротивляться | The client pushed back on the price. | Клиент возразил по цене.
+W meet halfway | пойти навстречу | Can you meet us halfway? | Можете пойти нам навстречу?
+W trade-off | компромисс, размен | There's always a trade-off between speed and quality. | Между скоростью и качеством всегда приходится выбирать.
+W put on the table | выложить на стол, предложить | Let's put all our options on the table. | Давайте выложим все варианты на стол.
+W hard sell | агрессивная продажа | Clients hate the hard sell. | Клиенты ненавидят агрессивные продажи.
+W pressure | давление | Don't sign under pressure. | Не подписывай под давлением.
+W bluff | блефовать, блеф | I think they're bluffing. | Думаю, они блефуют.
+W stall | тянуть время | They're stalling because they have no budget. | Они тянут время, потому что у них нет бюджета.
+W upper hand | превосходство, верх | Now we have the upper hand. | Теперь преимущество у нас.
+W on the same page | на одной волне, одинаково понимать | Let's make sure we're on the same page. | Давайте убедимся, что мы одинаково всё понимаем.
+W sticking point | камень преткновения | The price is the main sticking point. | Главный камень преткновения — цена.
+W ballpark figure | примерная цифра | Can you give me a ballpark figure? | Можете назвать примерную цифру?
+W goodwill | добрая воля, расположение | We offered a discount as a gesture of goodwill. | Мы предложили скидку в знак доброй воли.
+
+U b2u03 | Oops | Взгляд назад | Задним числом, недооценить, предвидеть
+W in hindsight | задним числом, оглядываясь назад | In hindsight, we should have waited. | Задним числом понятно, что стоило подождать.
+W missed opportunity | упущенная возможность | It was a missed opportunity. | Это была упущенная возможность.
+W second thoughts | сомнения | I'm having second thoughts about the deal. | У меня появились сомнения насчёт сделки.
+W wrong call | неверное решение | Hiring him was the wrong call. | Нанять его было неверным решением.
+W lesson learned | извлечённый урок | Lesson learned: always check the contract. | Урок усвоен: всегда проверяй договор.
+W costly | дорогостоящий | It was a costly mistake. | Это была дорогая ошибка.
+W avoidable | которого можно было избежать | The delay was completely avoidable. | Задержки можно было полностью избежать.
+W reckless | безрассудный | That was a reckless decision. | Это было безрассудное решение.
+W cautious | осторожный | We're cautious about new markets. | Мы осторожно относимся к новым рынкам.
+W rush | торопиться, спешка | Don't rush into a decision. | Не принимай решение второпях.
+W overlook | упустить из виду | We overlooked an important detail. | Мы упустили важную деталь.
+W underestimate | недооценивать | Never underestimate your competitors. | Никогда не недооценивай конкурентов.
+W overestimate | переоценивать | We overestimated demand. | Мы переоценили спрос.
+W misjudge | неверно оценить | I misjudged the situation. | Я неверно оценил ситуацию.
+W foresee | предвидеть | Nobody could foresee the crisis. | Никто не мог предвидеть кризис.
+
+U b2u04 | Law | Право в бизнесе | Юрист, иск, конфиденциально
+W legal | юридический, законный | We need legal advice. | Нам нужна юридическая консультация.
+W illegal | незаконный | It's illegal to call people at night. | Звонить людям ночью незаконно.
+W lawyer | юрист, адвокат | Our lawyer checked the contract. | Наш юрист проверил договор.
+W court | суд | The case went to court. | Дело дошло до суда.
+W sue | подать в суд | They threatened to sue us. | Они пригрозили подать на нас в суд.
+W lawsuit | судебный иск | The lawsuit cost them millions. | Иск обошёлся им в миллионы.
+W settle | урегулировать; поселиться | We settled the dispute out of court. | Мы урегулировали спор без суда.
+W dispute | спор, оспаривать | There's a dispute about the payment. | Есть спор по поводу оплаты.
+W regulation | норма, регулирование | New regulations come into force in January. | Новые нормы вступают в силу в январе.
+W comply with | соблюдать | We comply with all data laws. | Мы соблюдаем все законы о данных.
+W copyright | авторское право | The music is protected by copyright. | Музыка защищена авторским правом.
+W trademark | товарный знак | We registered our trademark. | Мы зарегистрировали товарный знак.
+W confidential | конфиденциальный | This information is confidential. | Эта информация конфиденциальна.
+W NDA | соглашение о неразглашении | Please sign the NDA first. | Сначала подпишите соглашение о неразглашении.
+W jurisdiction | юрисдикция | Which jurisdiction applies? | Какая юрисдикция применяется?
+
+U b2u05 | Trust | Доверие | Репутация, обязательство, подвести
+W rapport | взаимопонимание, контакт | She quickly built rapport with the client. | Она быстро нашла контакт с клиентом.
+W credibility | доверие, авторитет | The mistake hurt our credibility. | Ошибка подорвала доверие к нам.
+W track record | послужной список | They have a strong track record. | У них отличный послужной список.
+W commitment | обязательство, преданность | Thank you for your commitment. | Спасибо за вашу преданность делу.
+W follow through | довести до конца | He never follows through on his promises. | Он никогда не выполняет обещания.
+W consistent | последовательный, стабильный | The quality is consistent. | Качество стабильное.
+W accountable | подотчётный, ответственный | Managers are accountable for results. | Менеджеры отвечают за результат.
+W dependable | надёжный (о человеке) | She's the most dependable person on the team. | Она самый надёжный человек в команде.
+W genuine | искренний, подлинный | He showed genuine interest. | Он проявил искренний интерес.
+W build bridges | налаживать отношения | We need to build bridges with the new management. | Нам нужно наладить отношения с новым руководством.
+W burn bridges | сжигать мосты | Don't burn bridges when you leave a job. | Не сжигай мосты, когда уходишь с работы.
+W give the benefit of the doubt | поверить на слово | Let's give him the benefit of the doubt. | Давай поверим ему на слово.
+W keep your word | держать слово | Always keep your word. | Всегда держи слово.
+W let down | подвести | I won't let you down. | Я тебя не подведу.
+W betray | предать | He betrayed our trust. | Он предал наше доверие.
+
+U b2u06 | Global | Международный бизнес | Этикет, таможня, совместное предприятие
+W cross-cultural | межкультурный | Cross-cultural communication is a skill. | Межкультурная коммуникация — это навык.
+W etiquette | этикет | Business etiquette in Japan is strict. | Деловой этикет в Японии строгий.
+W lose face | потерять лицо | In Asia, nobody wants to lose face. | В Азии никто не хочет потерять лицо.
+W small talk | светская беседа | Small talk helps to break the ice. | Светская беседа помогает растопить лёд.
+W punctuality | пунктуальность | Punctuality is very important in Germany. | В Германии очень важна пунктуальность.
+W interpreter | устный переводчик | We hired an interpreter for the meeting. | Мы наняли переводчика на встречу.
+W overseas | зарубежный, за рубежом | We have many overseas clients. | У нас много зарубежных клиентов.
+W emerging market | развивающийся рынок | Vietnam is an emerging market. | Вьетнам — развивающийся рынок.
+W tariff | пошлина, тариф | New tariffs increased our costs. | Новые пошлины увеличили наши расходы.
+W sanctions | санкции | Sanctions changed many supply chains. | Санкции изменили многие цепочки поставок.
+W logistics | логистика | Logistics is our biggest challenge. | Логистика — наша главная сложность.
+W customs | таможня | The goods are stuck at customs. | Товар застрял на таможне.
+W globalization | глобализация | Globalization has changed retail. | Глобализация изменила розничную торговлю.
+W localize | локализовать | We localized the app for Kazakhstan. | Мы локализовали приложение для Казахстана.
+W joint venture | совместное предприятие | They set up a joint venture in China. | Они создали совместное предприятие в Китае.
+
+U b2u07 | Calm | Конфликты | Напряжение, посредник, общий язык
+W conflict | конфликт | We try to avoid conflict. | Мы стараемся избегать конфликтов.
+W tension | напряжённость | There's tension between the two teams. | Между двумя командами напряжение.
+W resentment | обида, негодование | He still feels resentment. | Он до сих пор обижен.
+W grievance | претензия, жалоба | Employees can raise grievances with HR. | Сотрудники могут подавать жалобы в отдел кадров.
+W mediate | быть посредником | Can you mediate between them? | Можешь стать посредником между ними?
+W mediator | посредник | We invited a neutral mediator. | Мы пригласили нейтрального посредника.
+W de-escalate | снизить накал | Her calm voice helped to de-escalate the situation. | Её спокойный голос помог разрядить обстановку.
+W confront | поговорить начистоту, противостоять | I had to confront him about the delays. | Мне пришлось поговорить с ним начистоту о задержках.
+W clear the air | прояснить отношения | Let's meet and clear the air. | Давай встретимся и всё проясним.
+W common ground | точки соприкосновения | We found some common ground. | Мы нашли точки соприкосновения.
+W agree to disagree | остаться каждый при своём мнении | Let's agree to disagree. | Давай останемся каждый при своём мнении.
+W hostile | враждебный | The atmosphere was hostile. | Атмосфера была враждебной.
+W defensive | занимающий оборону | Don't get defensive, it's just feedback. | Не защищайся, это просто обратная связь.
+W constructive | конструктивный | It was a constructive discussion. | Это было конструктивное обсуждение.
+W apologetic | извиняющийся | He was very apologetic about the mistake. | Он очень извинялся за ошибку.
+
+X Сделка, которую мы упустили | Разбор неудачных переговоров
+P Last spring we lost a contract we really wanted. A large logistics company was choosing between us and a Moscow agency, and in the end they went with our competitor.
+P In hindsight, the mistakes are obvious. If we had done proper research on the stakeholders, we would have known that their finance director, not the marketing team, made the final decision. If we had prepared a ballpark figure in advance, we wouldn't have looked so uncertain when he asked about the budget.
+P The biggest sticking point was the penalty clause. They wanted strict penalties for missed deadlines, and we pushed back too hard. Had we met them halfway, we might have signed the deal.
+P It was a costly lesson, but a useful one. We would probably be working with them today if we had been less defensive. Now we always map the decision makers before the first call.
+Q Кто на самом деле принимал решение? | Финансовый директор | Отдел маркетинга | Владелец агентства
+Q Чего не хватило на встрече? | Заранее подготовленной примерной цифры | Презентации | Переводчика
+Q Что стало камнем преткновения? | Пункт о штрафах | Сроки оплаты | Дизайн логотипа
+Q Что команда делает теперь? | Заранее определяет, кто принимает решения | Отказывается от крупных клиентов | Не обсуждает бюджет
+
+M b2m2 | Презентации | #3d8a8f,#1d4a5a
+G Связки: however, although, despite, whereas
+T Связки делают речь логичной. Противопоставление: however (в начале нового предложения), although (+ целое предложение), despite и in spite of (+ существительное или -ing), whereas (сравнение двух фактов). Причина и следствие: therefore, as a result, due to, consequently. Добавление: moreover, furthermore, in addition. Не говорите despite of — правильно despite или in spite of.
+E Although the budget was small, the campaign was a success. = Хотя бюджет был небольшим, кампания оказалась успешной.
+E Sales fell; however, profit grew. = Продажи упали, однако прибыль выросла.
+E Due to high demand, delivery may take longer. = Из-за высокого спроса доставка может занять больше времени.
+D ___ the high price, the product sold well. = Несмотря на высокую цену, продукт хорошо продавался. | Despite | Although | However
+D ___ it was raining, we went out. = Хотя шёл дождь, мы вышли. | Although | Despite | However
+D Sales fell. ___, profit increased. = Продажи упали. Однако прибыль выросла. | However | Although | Despite
+D Our costs rose. ___, we raised prices. = Наши расходы выросли. Поэтому мы подняли цены. | Therefore | Moreover | Whereas
+D The project was delayed ___ technical problems. = Проект задержался из-за технических проблем. | due to | because | therefore
+D Moscow is expensive, ___ Novosibirsk is cheaper. = Москва дорогая, тогда как Новосибирск дешевле. | whereas | despite | therefore
+D The app is fast. ___, it's free. = Приложение быстрое. Более того, оно бесплатное. | Moreover | However | Although
+D In spite ___ the crisis, we grew. = Несмотря на кризис, мы выросли. | of | from | for
+
+U b2u08 | Link | Связки 1 | Однако, хотя, следовательно
+W however | однако | However, the results were good. | Однако результаты были хорошими.
+W although | хотя | Although it was late, we kept working. | Хотя было поздно, мы продолжали работать.
+W despite | несмотря на | Despite the rain, the event was a success. | Несмотря на дождь, мероприятие удалось.
+W whereas | тогда как | I prefer email, whereas he prefers calls. | Я предпочитаю почту, а он — звонки.
+W therefore | поэтому, следовательно | The data is old; therefore, we need new research. | Данные устарели, поэтому нужно новое исследование.
+W consequently | следовательно, в итоге | Prices rose; consequently, demand fell. | Цены выросли, и в итоге спрос упал.
+W as a result | в результате | As a result, we lost two clients. | В результате мы потеряли двух клиентов.
+W due to | из-за, благодаря | The flight was cancelled due to bad weather. | Рейс отменили из-за плохой погоды.
+W moreover | более того | Moreover, the service is free. | Более того, сервис бесплатный.
+W furthermore | более того, кроме того (формально) | Furthermore, we offer a guarantee. | Кроме того, мы даём гарантию.
+W nevertheless | тем не менее | It was risky; nevertheless, we did it. | Это было рискованно, но мы всё же сделали это.
+W in spite of | несмотря на (= despite) | In spite of the crisis, we hired three people. | Несмотря на кризис, мы наняли трёх человек.
+W thus | таким образом | Thus, costs fell by ten percent. | Таким образом, расходы снизились на десять процентов.
+W hence | отсюда, поэтому | The product is new, hence the high price. | Продукт новый, отсюда высокая цена.
+W instead | вместо этого | We didn't hire anyone; instead, we automated the process. | Мы никого не наняли, а вместо этого автоматизировали процесс.
+
+U b2u09 | Link2 | Связки 2 | С точки зрения, например, в целом
+W in terms of | с точки зрения | In terms of price, we're the best option. | С точки зрения цены мы лучший вариант.
+W with regard to | что касается | With regard to delivery, there's a small delay. | Что касается доставки, есть небольшая задержка.
+W as for | а что до, насчёт | As for me, I'm ready to start. | Что касается меня, я готов начинать.
+W in contrast | напротив, в отличие | In contrast, our costs went down. | Наши же расходы, напротив, снизились.
+W similarly | аналогично | Similarly, the second campaign was a success. | Аналогично, вторая кампания тоже удалась.
+W likewise | так же, точно так же | He was polite, and I did likewise. | Он был вежлив, и я ответил тем же.
+W for instance | например | For instance, we use Telegram bots. | Например, мы используем телеграм-ботов.
+W such as | такой как | We work with industries such as oil and logistics. | Мы работаем с такими отраслями, как нефть и логистика.
+W namely | а именно | We have one problem, namely the budget. | У нас одна проблема, а именно бюджет.
+W in particular | в частности | I liked the design in particular. | Мне особенно понравился дизайн.
+W above all | прежде всего | Above all, be honest with clients. | Прежде всего будь честен с клиентами.
+W overall | в целом | Overall, it was a good year. | В целом это был хороший год.
+W to sum up | подводя итог | To sum up, the project is on track. | Подводя итог, проект идёт по плану.
+W in other words | другими словами | In other words, we need more time. | Другими словами, нам нужно больше времени.
+W as a matter of fact | на самом деле, фактически | As a matter of fact, I've already called him. | Вообще-то я ему уже позвонил.
+
+U b2u10 | Slide | Презентация | Слайд, вывод, репетиция
+W slide | слайд | Let's move to the next slide. | Перейдём к следующему слайду.
+W chart | диаграмма | This chart shows our growth. | Эта диаграмма показывает наш рост.
+W graph | график | The graph goes up every month. | График растёт каждый месяц.
+W bullet point | пункт списка | Keep it to three bullet points per slide. | Не больше трёх пунктов на слайде.
+W handout | раздаточный материал | I'll send the handouts after the meeting. | Я пришлю раздаточные материалы после встречи.
+W key takeaway | главный вывод | What's the key takeaway? | Какой главный вывод?
+W Q&A | вопросы и ответы | We'll have ten minutes for Q&A. | На вопросы и ответы будет десять минут.
+W visual | визуальный материал, визуальный | Use more visuals and less text. | Больше визуала, меньше текста.
+W structure | структура | The structure of the talk is simple. | Структура выступления простая.
+W outline | план; кратко изложить | Let me outline the main points. | Позвольте кратко изложить основные пункты.
+W rehearse | репетировать | I rehearsed the pitch five times. | Я репетировал питч пять раз.
+W engage | вовлекать | Ask questions to engage the audience. | Задавайте вопросы, чтобы вовлечь аудиторию.
+W keynote | главный доклад | She gave the keynote at the conference. | Она выступила с главным докладом на конференции.
+W speaker | спикер, докладчик; динамик | The next speaker is from Seoul. | Следующий спикер из Сеула.
+W stage fright | страх сцены | I still have stage fright. | У меня до сих пор страх сцены.
+
+U b2u11 | Data | Цифры и динамика | Процент, пик, резко упасть
+W figure | цифра; фигура | The figures look good. | Цифры выглядят хорошо.
+W statistics | статистика | The statistics are clear. | Статистика однозначна.
+W percentage | процент, доля | What percentage of clients came back? | Какой процент клиентов вернулся?
+W average | средний, в среднем | The average check is two thousand rubles. | Средний чек — две тысячи рублей.
+W majority | большинство | The majority of users are women. | Большинство пользователей — женщины.
+W minority | меньшинство | Only a minority complained. | Пожаловалось лишь меньшинство.
+W proportion | доля, пропорция | A large proportion of sales comes from repeat clients. | Большая доля продаж приходится на повторных клиентов.
+W peak | пик, достигать пика | Sales peak in December. | Пик продаж приходится на декабрь.
+W fluctuate | колебаться (о цифрах) | Prices fluctuate every month. | Цены колеблются каждый месяц.
+W plummet | резко упасть | Sales plummeted in the summer. | Летом продажи резко упали.
+W soar | взлететь (резко вырасти) | Our traffic soared after the video. | После видео наш трафик взлетел.
+W stabilize | стабилизироваться | The market has stabilized. | Рынок стабилизировался.
+W outperform | превзойти | Video ads outperformed banners. | Видеореклама показала себя лучше баннеров.
+W year-on-year | по сравнению с прошлым годом | Revenue is up fifteen percent year-on-year. | Выручка выросла на пятнадцать процентов год к году.
+W benchmark | ориентир, эталон | What's the industry benchmark? | Какой ориентир по отрасли?
+
+U b2u12 | Talk | Публичное выступление | Язык тела, пауза, убедительный
+W deliver a speech | выступить с речью | She delivered a great speech. | Она выступила с отличной речью.
+W eye contact | зрительный контакт | Keep eye contact with the audience. | Поддерживай зрительный контакт с залом.
+W body language | язык тела | Your body language says a lot. | Язык тела многое говорит о тебе.
+W pause | пауза, сделать паузу | Pause before the key message. | Сделай паузу перед главной мыслью.
+W emphasis | акцент, ударение | Put the emphasis on results. | Сделай акцент на результатах.
+W anecdote | история из жизни, байка | Start with a short anecdote. | Начни с короткой истории из жизни.
+W hook | зацепка, крючок | The first sentence is your hook. | Первая фраза — твой крючок.
+W storytelling | сторителлинг | Good storytelling sells. | Хорошая история продаёт.
+W persuasive | убедительный | It was a persuasive argument. | Это был убедительный аргумент.
+W articulate | красноречивый; чётко выражать | He's very articulate. | Он очень красноречив.
+W filler words | слова-паразиты | Avoid filler words like "um" and "like". | Избегай слов-паразитов вроде «э-э» и «типа».
+W confidence | уверенность | Confidence comes with practice. | Уверенность приходит с практикой.
+W nerves | нервы, волнение | It's just nerves, you'll be fine. | Это просто волнение, всё будет хорошо.
+W improvise | импровизировать | When the slides failed, I had to improvise. | Когда слайды не открылись, пришлось импровизировать.
+W applause | аплодисменты | The talk ended with loud applause. | Выступление закончилось громкими аплодисментами.
+
+U b2u13 | Idea | Идеи и мышление | Подход, осуществимый, нестандартно
+W concept | концепция | I like the concept. | Мне нравится концепция.
+W insight | понимание, инсайт | The research gave us valuable insights. | Исследование дало нам ценные инсайты.
+W perspective | точка зрения, перспектива | Try to see it from the client's perspective. | Попробуй посмотреть на это глазами клиента.
+W approach | подход | We need a different approach. | Нам нужен другой подход.
+W framework | структура, модель | We use a simple framework for every project. | Для каждого проекта мы используем простую модель.
+W brainstorm | мозговой штурм, генерировать идеи | Let's brainstorm some names. | Давай накидаем варианты названий.
+W innovative | инновационный | It's an innovative solution. | Это инновационное решение.
+W groundbreaking | новаторский, прорывной | Their research is groundbreaking. | Их исследование прорывное.
+W feasible | осуществимый | Is the plan feasible? | План осуществим?
+W viable | жизнеспособный | It's not a viable business model. | Это нежизнеспособная бизнес-модель.
+W drawback | минус, недостаток | The main drawback is the cost. | Главный недостаток — стоимость.
+W implication | последствие, подтекст | What are the implications for our team? | Что это означает для нашей команды?
+W assumption | предположение, допущение | That's a dangerous assumption. | Это опасное допущение.
+W rationale | обоснование | What's the rationale behind this decision? | Чем обосновано это решение?
+W think outside the box | мыслить нестандартно | We need to think outside the box. | Нам нужно мыслить нестандартно.
+
+U b2u14 | Rept | Отчёты и исследования | Опрос, выборка, выявить
+W findings | результаты (исследования) | The findings were surprising. | Результаты оказались неожиданными.
+W recommendation | рекомендация | Here are our recommendations. | Вот наши рекомендации.
+W appendix | приложение (к документу) | See the full data in the appendix. | Полные данные смотрите в приложении.
+W executive summary | краткое резюме для руководства | Start with an executive summary. | Начни с краткого резюме для руководства.
+W methodology | методология | The methodology is described on page two. | Методология описана на второй странице.
+W survey | опрос | We surveyed five hundred customers. | Мы опросили пятьсот клиентов.
+W respondent | респондент | Most respondents were satisfied. | Большинство респондентов были довольны.
+W sample | выборка; образец | The sample was too small. | Выборка была слишком маленькой.
+W indicate | указывать на (о данных) | The data indicates strong demand. | Данные указывают на высокий спрос.
+W reveal | раскрывать, выявлять | The survey revealed a problem with delivery. | Опрос выявил проблему с доставкой.
+W significant | значительный | There was a significant increase in sales. | Продажи значительно выросли.
+W insignificant | незначительный | The difference is insignificant. | Разница незначительна.
+W draw conclusions | делать выводы | It's too early to draw conclusions. | Делать выводы ещё рано.
+W in detail | подробно | Let's discuss it in detail. | Давайте обсудим это подробно.
+W data-driven | основанный на данных | We make data-driven decisions. | Мы принимаем решения на основе данных.
+
+X Итоги кампании | Фрагмент выступления
+P Good morning, everyone. Today I'd like to talk about the results of our autumn campaign and, above all, what we've learned from it.
+P Overall, the figures are encouraging. Website traffic soared by sixty percent year-on-year, and conversion rose to 3.2 percent, whereas the industry benchmark is around two. However, the cost per lead was higher than we expected, mainly due to rising advertising prices.
+P In terms of channels, Telegram outperformed everything else. In contrast, banner ads plummeted after the first two weeks. Therefore, we recommend moving most of the budget to Telegram and video content.
+P To sum up: the campaign was a success, but in spite of the strong results, we need to keep an eye on costs. Moreover, I'd suggest testing autodial campaigns for older audiences. Now I'm happy to take your questions.
+Q На сколько вырос трафик сайта? | На шестьдесят процентов | На двадцать процентов | Вдвое
+Q Какая конверсия была у кампании? | 3,2% | 2% | 6%
+Q Что оказалось дороже ожиданий? | Стоимость лида | Зарплаты | Аренда
+Q Куда предлагают перенести бюджет? | В Телеграм и видео | В баннеры | В печатную рекламу
+
+M b2m3 | Маркетинг и бренд | #6a63b0,#2e2c6a
+G Сложный пассив и have something done
+T Безличный пассив передаёт мнения и слухи: It is said that…, It is believed that…, или короче: The company is said to be the leader. Если речь о прошлом: is said to have done. Каузатив have или get something done — работу делает кто-то другой по вашему заказу: We had our logo redesigned. I'm getting my car fixed.
+E It is believed that the brand will grow. = Считается, что бренд будет расти.
+E The company is said to be the market leader. = Говорят, что компания — лидер рынка.
+E We had our website redesigned last year. = В прошлом году нам переделали сайт.
+D It ___ that the new model will be cheaper. = Говорят, что новая модель будет дешевле. | is said | says | is saying
+D The CEO is believed ___ the company soon. = Считается, что гендиректор скоро уйдёт. | to leave | leaving | leave
+D We had our logo ___ by a famous studio. = Нам сделала логотип известная студия. | designed | design | to design
+D I need to get my laptop ___. = Мне нужно отдать ноутбук в ремонт. | repaired | repair | repairing
+D The brand is thought ___ the best in its niche. = Бренд считается лучшим в своей нише. | to be | being | be
+D It ___ expected that prices will rise. = Ожидается, что цены вырастут. | is | has | does
+D She's having her office ___ next week. = На следующей неделе ей красят офис. | painted | paint | to paint
+D The campaign is reported ___ two million people. = Сообщается, что кампания охватила два миллиона человек. | to have reached | reached | reaching
+
+U b2u15 | Brand | Бренд | Позиционирование, восприятие, миссия
+W brand identity | айдентика бренда | We created a new brand identity. | Мы создали новую айдентику бренда.
+W positioning | позиционирование | Our positioning is "fast and friendly". | Наше позиционирование — «быстро и по-дружески».
+W logo | логотип | The logo is simple and clean. | Логотип простой и чистый.
+W brand voice | голос бренда, манера общения | Our brand voice is warm and direct. | У нашего бренда тёплый и прямой голос.
+W rebrand | провести ребрендинг | The bank rebranded last year. | Банк провёл ребрендинг в прошлом году.
+W consistency | последовательность, единообразие | Consistency builds trust. | Единообразие создаёт доверие.
+W premium | премиальный | It's a premium product. | Это премиальный продукт.
+W mass market | массовый рынок | They moved from premium to mass market. | Они перешли из премиума в массовый сегмент.
+W perception | восприятие | Customer perception is everything. | Восприятие клиента — это всё.
+W image | имидж, образ | The company has a modern image. | У компании современный имидж.
+W recognizable | узнаваемый | The packaging is very recognizable. | Упаковка очень узнаваемая.
+W tagline | слоган под логотипом | Their tagline is only three words. | Их слоган всего из трёх слов.
+W value proposition | ценностное предложение | What's your value proposition? | В чём ваше ценностное предложение?
+W differentiate | выделяться, отличать | How do you differentiate from competitors? | Чем вы отличаетесь от конкурентов?
+W mission | миссия | Our mission is to make marketing simple. | Наша миссия — сделать маркетинг простым.
+
+U b2u16 | Funnel | Маркетинг | Воронка, отток, удержание
+W segment | сегмент | We target the small business segment. | Мы работаем с сегментом малого бизнеса.
+W persona | портрет клиента, персона | Let's describe our buyer persona. | Давайте опишем портрет нашего покупателя.
+W customer journey | путь клиента | We mapped the customer journey. | Мы составили карту пути клиента.
+W touchpoint | точка контакта | Every touchpoint matters. | Важна каждая точка контакта.
+W funnel | воронка | Most leads drop out of the funnel at this step. | На этом шаге большинство лидов выпадает из воронки.
+W awareness | осведомлённость, узнаваемость | The first goal is awareness. | Первая цель — узнаваемость.
+W engagement | вовлечённость | Engagement on Telegram is high. | Вовлечённость в Телеграме высокая.
+W retention | удержание | Retention is cheaper than acquisition. | Удерживать дешевле, чем привлекать.
+W churn | отток (клиентов) | Our monthly churn is five percent. | Наш ежемесячный отток — пять процентов.
+W lifetime value | пожизненная ценность клиента | We increased customer lifetime value. | Мы увеличили пожизненную ценность клиента.
+W acquisition cost | стоимость привлечения | The acquisition cost is too high. | Стоимость привлечения слишком высокая.
+W organic | органический (без оплаты) | Most of our traffic is organic. | Большая часть нашего трафика органическая.
+W paid | платный | We also use paid ads. | Мы также используем платную рекламу.
+W A/B test | A/B-тест | Let's run an A/B test on the headline. | Давай проведём A/B-тест заголовка.
+W KPI | ключевой показатель эффективности | What are the KPIs for this campaign? | Какие KPI у этой кампании?
+
+U b2u17 | Digi | Digital-маркетинг | Лендинг, рассылка, аналитика
+W SEO | поисковая оптимизация | SEO takes time but works. | SEO требует времени, но работает.
+W landing page | посадочная страница | The landing page converts well. | Посадочная страница хорошо конвертирует.
+W call to action | призыв к действию | Every ad needs a clear call to action. | В каждой рекламе нужен чёткий призыв к действию.
+W newsletter | рассылка | Subscribe to our newsletter. | Подпишитесь на нашу рассылку.
+W open rate | процент открытий | The open rate was thirty percent. | Письма открыли тридцать процентов получателей.
+W bounce rate | показатель отказов | The bounce rate is too high. | Показатель отказов слишком высокий.
+W retargeting | ретаргетинг | Retargeting brings back lost visitors. | Ретаргетинг возвращает ушедших посетителей.
+W algorithm | алгоритм | The algorithm changed again. | Алгоритм снова изменился.
+W analytics | аналитика | Check the analytics every week. | Проверяй аналитику каждую неделю.
+W traffic | трафик; движение (на дорогах) | Where does the traffic come from? | Откуда идёт трафик?
+W viral | вирусный | The video went viral. | Видео стало вирусным.
+W user-generated content | пользовательский контент | User-generated content builds trust. | Пользовательский контент вызывает доверие.
+W chatbot | чат-бот | Our chatbot answers questions at night. | Наш чат-бот отвечает на вопросы ночью.
+W personalization | персонализация | Personalization increases sales. | Персонализация увеличивает продажи.
+W dashboard | дашборд, панель показателей | All the numbers are on the dashboard. | Все цифры на дашборде.
+
+U b2u18 | Copy | Тексты | Цепляющий, лаконичный, вычитать
+W copywriter | копирайтер | Our copywriter wrote the script. | Скрипт написал наш копирайтер.
+W catchy | цепляющий, запоминающийся | We need a catchy headline. | Нам нужен цепляющий заголовок.
+W concise | лаконичный | Keep the script concise. | Пусть скрипт будет лаконичным.
+W wordy | многословный | The text is too wordy. | Текст слишком многословный.
+W tone of voice | тон коммуникации | Our tone of voice is friendly. | У нас дружелюбный тон коммуникации.
+W jargon | жаргон, профессиональный сленг | Avoid jargon with clients. | Избегай жаргона с клиентами.
+W cliché | клише, штамп | "Best quality" is a cliché. | «Лучшее качество» — это штамп.
+W compelling | убедительный, захватывающий | It's a compelling story. | Это захватывающая история.
+W proofread | вычитывать | Please proofread the email before sending. | Пожалуйста, вычитай письмо перед отправкой.
+W rephrase | перефразировать | Could you rephrase that? | Можешь сформулировать иначе?
+W punchy | хлёсткий, энергичный | The ending should be punchy. | Концовка должна быть хлёсткой.
+W word count | количество слов | What's the word count? | Сколько там слов?
+W readability | читабельность | Short sentences improve readability. | Короткие предложения улучшают читабельность.
+W subheading | подзаголовок | Add subheadings to the article. | Добавь в статью подзаголовки.
+W voiceover | закадровый голос | The voiceover was recorded by an announcer. | Закадровый голос записал диктор.
+
+U b2u19 | Share | Рынок и конкуренты | Доля рынка, насыщенный, сбивать цену
+W market share | доля рынка | Our market share is growing. | Наша доля рынка растёт.
+W market leader | лидер рынка | They're the market leader in the region. | Они лидеры рынка в регионе.
+W competitive advantage | конкурентное преимущество | Speed is our competitive advantage. | Скорость — наше конкурентное преимущество.
+W saturated | насыщенный | The market is saturated. | Рынок насыщен.
+W untapped | неосвоенный | Small towns are an untapped market. | Малые города — неосвоенный рынок.
+W disrupt | перевернуть (рынок), нарушить | AI will disrupt the industry. | ИИ перевернёт отрасль.
+W disruptive | прорывной | It's a disruptive technology. | Это прорывная технология.
+W barrier to entry | барьер входа | The barrier to entry is low. | Барьер входа низкий.
+W monopoly | монополия | They have a monopoly in the city. | У них монополия в городе.
+W outsell | продавать больше, обгонять по продажам | We outsold our main competitor. | Мы обогнали главного конкурента по продажам.
+W undercut | сбивать цену | They undercut us by twenty percent. | Они дали цену на двадцать процентов ниже нашей.
+W pricing strategy | ценовая стратегия | We need a new pricing strategy. | Нам нужна новая ценовая стратегия.
+W demographic | демографическая группа | This demographic spends more online. | Эта группа тратит больше онлайн.
+W consumer | потребитель | Consumers are more careful now. | Потребители сейчас осторожнее.
+W purchasing power | покупательная способность | Purchasing power has fallen. | Покупательная способность снизилась.
+
+U b2u20 | PR | PR и репутация | Пресс-релиз, скандал, огласка
+W public relations | связи с общественностью | She works in public relations. | Она работает в сфере связей с общественностью.
+W press release | пресс-релиз | We sent a press release to the media. | Мы разослали пресс-релиз в СМИ.
+W spokesperson | официальный представитель | A spokesperson for the company declined to comment. | Представитель компании отказался от комментариев.
+W crisis management | антикризисное управление | They need crisis management now. | Им сейчас нужно антикризисное управление.
+W backlash | негативная реакция | The ad caused a backlash online. | Реклама вызвала волну негатива в сети.
+W scandal | скандал | The scandal hurt sales. | Скандал ударил по продажам.
+W damage control | минимизация ущерба | We're in damage control mode. | Мы сейчас минимизируем ущерб.
+W publicity | огласка, публичность | Any publicity is good publicity. | Любой пиар — хороший пиар.
+W press conference | пресс-конференция | The press conference starts at noon. | Пресс-конференция начинается в полдень.
+W endorse | поддерживать, рекомендовать | A famous chef endorsed the product. | Известный шеф порекомендовал продукт.
+W endorsement | рекомендация (известного человека) | The endorsement doubled sales. | Рекомендация удвоила продажи.
+W reputable | авторитетный, с хорошей репутацией | Work only with reputable suppliers. | Работай только с надёжными поставщиками.
+W controversy | полемика, споры | The decision caused controversy. | Решение вызвало споры.
+W go viral | стать вирусным | The post went viral overnight. | Пост за ночь разлетелся по сети.
+W stance | позиция | What's the company's stance on this? | Какова позиция компании по этому вопросу?
+
+U b2u21 | Order | Сделать на заказ | Под ключ, на заказ, обслуживание
+W have something done | заказать работу (сделать чужими руками) | We had the office cleaned before the meeting. | Перед встречей нам убрали офис.
+W get something fixed | починить (у мастера) | I need to get my phone fixed. | Мне нужно отдать телефон в ремонт.
+W renovate | ремонтировать (помещение) | We renovated the office last summer. | Прошлым летом мы сделали ремонт в офисе.
+W redecorate | сделать косметический ремонт | We're redecorating the meeting room. | Мы обновляем переговорную.
+W tailor-made | сделанный под заказ, индивидуальный | We offer tailor-made solutions. | Мы предлагаем индивидуальные решения.
+W bespoke | изготовленный на заказ | He wears a bespoke suit. | Он носит костюм, сшитый на заказ.
+W custom-made | сделанный на заказ | The furniture is custom-made. | Мебель сделана на заказ.
+W maintenance | обслуживание | The price includes maintenance. | Цена включает обслуживание.
+W upgrade | улучшить, обновить | We upgraded our plan. | Мы перешли на тариф выше.
+W assemble | собирать | The furniture is easy to assemble. | Мебель легко собрать.
+W professional | профессионал, профессиональный | Leave it to the professionals. | Доверьте это профессионалам.
+W DIY | сделай сам | I'm not a fan of DIY. | Я не любитель делать всё своими руками.
+W handyman | мастер на все руки | We called a handyman to fix the door. | Мы вызвали мастера починить дверь.
+W craftsman | мастер, ремесленник | Every bag is made by a craftsman. | Каждую сумку делает мастер вручную.
+W turnkey | под ключ | We offer turnkey websites. | Мы делаем сайты под ключ.
+
+X Перезапуск молочного бренда | Кейс агентства
+P When the owners of a small Siberian dairy company came to us, their brand was hardly recognizable. Their products were thought to be cheap and old-fashioned, although the quality was actually excellent.
+P We started with research. It turned out that most loyal customers were young families, yet the packaging was clearly aimed at pensioners. We had the packaging redesigned by a local studio and rewrote the tagline around one idea: real milk from real farms.
+P The relaunch campaign combined Telegram, local influencers and a short autodial reminder for existing customers. It is estimated that the campaign reached around 400,000 people in the region.
+P Within a year, the brand's market share doubled. The company is now said to be the fastest-growing dairy brand in the region, and they are having a new factory built.
+Q Как воспринимали бренд до перезапуска? | Как дешёвый и старомодный | Как премиальный | Как иностранный
+Q Кто оказался главными покупателями? | Молодые семьи | Пенсионеры | Рестораны
+Q Каким оценивают охват кампании? | Около 400 тысяч человек | Около 40 тысяч | Около 4 миллионов
+Q Что компания делает сейчас? | Строит новый завод | Продаёт бизнес | Меняет название
+
+M b2m4 | Фразовые глаголы в работе | #b0745a,#5e3426
+G Фразовые глаголы
+T Фразовый глагол — глагол с частицей, и вместе они часто значат что-то новое: set up — основать, carry out — выполнить, come up with — придумать. Многие можно разделять: set up the company или set the company up. Если дополнение — местоимение, оно всегда стоит в середине: set it up, но не set up it.
+E We set up the company in 2019. = Мы основали компанию в 2019 году.
+E Can you come up with a better idea? = Можешь придумать идею получше?
+E Let's go over the figures again. = Давай ещё раз пройдёмся по цифрам.
+D We ___ up our agency in 2019. = Мы основали агентство в 2019 году. | set | put | got
+D Can you come up ___ a better name? = Можешь придумать название получше? | with | for | to
+D The meeting was called ___ because of the storm. = Встречу отменили из-за шторма. | off | out | up
+D Please fill ___ this form. = Пожалуйста, заполните эту форму. | in | on | off
+D Let's go ___ the figures one more time. = Давай ещё раз пройдёмся по цифрам. | over | up | off
+D We ran ___ of time. = У нас закончилось время. | out | off | away
+D I'll look ___ the problem. = Я разберусь с проблемой. | into | after | up
+D Can you pick me ___ at the airport? = Можешь забрать меня из аэропорта? | up | on | off
+
+U b2u22 | Start | Запуск и создание | Основать, придумать, взять на себя
+W set up | основать, наладить | They set up a company in Dubai. | Они основали компанию в Дубае.
+W start up | запустить (бизнес) | It's cheaper to start up online. | Запуститься онлайн дешевле.
+W kick off | начать, стартовать | Let's kick off the meeting. | Давайте начнём встречу.
+W roll out | развернуть, внедрить | We'll roll out the update next week. | Обновление выкатим на следующей неделе.
+W take on | взяться за; нанять | We can't take on more projects. | Мы не можем взяться за новые проекты.
+W come up with | придумать | She came up with a great slogan. | Она придумала отличный слоган.
+W draw up | составить (документ) | Our lawyer will draw up the contract. | Наш юрист составит договор.
+W put together | собрать, составить | I'll put together a proposal. | Я подготовлю предложение.
+W build up | наращивать, создавать | It takes years to build up a reputation. | Чтобы создать репутацию, нужны годы.
+W take over | взять на себя; поглотить | Who will take over the project? | Кто возьмёт на себя проект?
+W branch out | расширить сферу деятельности | We branched out into video production. | Мы расширились в видеопродакшн.
+W get off the ground | сдвинуться с места, взлететь | The project never got off the ground. | Проект так и не сдвинулся с места.
+W sort out | уладить, разобраться | I'll sort out the problem. | Я улажу проблему.
+W set out | изложить; намереваться | The plan sets out our goals. | В плане изложены наши цели.
+W draw on | опираться на (опыт) | I drew on my experience in Asia. | Я опирался на свой опыт в Азии.
+
+U b2u23 | Think | Обсуждать и решать | Поднять тему, исключить, отклонить
+W bring up | поднять (тему) | I'd like to bring up the budget. | Хочу поднять вопрос бюджета.
+W go over | просмотреть, повторить | Let's go over the plan again. | Давай ещё раз пройдёмся по плану.
+W talk over | обсудить | Let me talk it over with my partner. | Дай мне обсудить это с партнёром.
+W figure out | разобраться, понять | I can't figure out this report. | Не могу разобраться в этом отчёте.
+W work out | выяснить; получиться; тренироваться | Things worked out well in the end. | В итоге всё сложилось хорошо.
+W look into | изучить, разобраться | We'll look into your complaint. | Мы разберёмся с вашей жалобой.
+W think over | обдумать | I need to think it over. | Мне нужно это обдумать.
+W rule out | исключить | We can't rule out a delay. | Мы не можем исключить задержку.
+W come across | наткнуться; производить впечатление | He comes across as very confident. | Он производит впечатление очень уверенного человека.
+W turn down | отклонить, отказать | They turned down our offer. | Они отклонили наше предложение.
+W back up | поддержать, подкрепить | Can you back up your claim with data? | Можешь подкрепить своё утверждение данными?
+W spell out | разжевать, подробно объяснить | Let me spell out the conditions. | Позвольте подробно разъяснить условия.
+W go along with | согласиться с | We'll go along with your plan. | Мы согласимся с вашим планом.
+W boil down to | сводиться к | It all boils down to money. | Всё сводится к деньгам.
+W touch on | затронуть | I'll briefly touch on pricing. | Я кратко затрону вопрос цен.
+
+U b2u24 | Time | Время и сроки | Отменить, наверстать, отставать
+W call off | отменить | They called off the meeting. | Они отменили встречу.
+W put back | отложить, перенести на позже | The launch was put back to May. | Запуск перенесли на май.
+W bring forward | перенести на более ранний срок | Can we bring the meeting forward? | Можем перенести встречу на пораньше?
+W catch up | наверстать, догнать | I need to catch up on emails. | Мне нужно разобрать накопившиеся письма.
+W fall behind | отставать | We've fallen behind schedule. | Мы отстаём от графика.
+W run late | опаздывать, выбиваться из графика | Sorry, I'm running late. | Извини, я опаздываю.
+W drag on | затягиваться | The meeting dragged on for hours. | Встреча затянулась на несколько часов.
+W hurry up | поторопиться | Hurry up, the taxi is here. | Поторопись, такси уже здесь.
+W free up | освободить (время, ресурсы) | Automation freed up a lot of time. | Автоматизация освободила много времени.
+W squeeze in | втиснуть, выкроить время | Can you squeeze me in today? | Можете найти для меня время сегодня?
+W set aside | выделить, отложить | Set aside an hour for English every day. | Выделяй час на английский каждый день.
+W hold up | задерживать | Sorry, I was held up in traffic. | Извини, я застрял в пробке.
+W wind down | сворачивать, постепенно завершать | We're winding down the old project. | Мы сворачиваем старый проект.
+W take up | занимать (время, место) | Meetings take up half my day. | Встречи занимают половину моего дня.
+W fit in | вписаться; найти время | Can you fit in a call on Friday? | Найдёшь время на созвон в пятницу?
+
+U b2u25 | Team | Люди и команда | Ладить, замещать, сокращать
+W get along | ладить | The team gets along well. | Команда хорошо ладит.
+W fall out | поссориться | They fell out over money. | Они поссорились из-за денег.
+W stand in for | замещать | Can you stand in for me at the meeting? | Можешь заменить меня на встрече?
+W step down | уйти с поста | The CEO stepped down last month. | Гендиректор ушёл с поста в прошлом месяце.
+W step up | активизироваться, взять ответственность | She really stepped up during the crisis. | Во время кризиса она по-настоящему проявила себя.
+W take after | быть похожим на (родителя) | He takes after his father. | Он пошёл в отца.
+W look up to | уважать, равняться на | I always looked up to my first boss. | Я всегда равнялся на своего первого начальника.
+W look down on | смотреть свысока | Never look down on junior staff. | Никогда не смотри свысока на младших сотрудников.
+W stand up for | защищать, отстаивать | Stand up for your team. | Защищай свою команду.
+W count on | рассчитывать на | You can count on me. | Можешь на меня рассчитывать.
+W turn to | обратиться к (за помощью) | Who can I turn to for advice? | К кому мне обратиться за советом?
+W bring out | раскрывать, проявлять | A crisis brings out the best in people. | Кризис раскрывает в людях лучшее.
+W single out | выделить (из группы) | The client singled out our designer for praise. | Клиент особо похвалил нашего дизайнера.
+W lay off | сократить (сотрудников) | The factory laid off two hundred workers. | Завод сократил двести рабочих.
+W pull together | сплотиться | We pulled together and met the deadline. | Мы сплотились и уложились в срок.
+
+U b2u26 | Money | Деньги и результаты | Окупиться, сократить, сорваться
+W pay off | окупиться | All that hard work paid off. | Весь этот труд окупился.
+W pay back | вернуть (долг) | We paid back the loan early. | Мы досрочно погасили кредит.
+W cut back on | сократить (расходы) | We're cutting back on travel. | Мы сокращаем командировки.
+W save up | копить | I'm saving up for a new car. | Я коплю на новую машину.
+W add up | сходиться (о цифрах); иметь смысл | These numbers don't add up. | Эти цифры не сходятся.
+W come to | составлять (о сумме) | The bill came to fifty dollars. | Счёт составил пятьдесят долларов.
+W bring in | приносить (доход); привлекать | The campaign brought in fifty new clients. | Кампания принесла пятьдесят новых клиентов.
+W go up | расти, подниматься | Prices went up again. | Цены снова выросли.
+W go down | снижаться | The number of complaints went down. | Количество жалоб снизилось.
+W level off | выровняться, стабилизироваться | Growth has levelled off. | Рост выровнялся.
+W pick up | улучшиться, оживиться; забрать | Sales picked up in March. | В марте продажи оживились.
+W turn around | переломить ситуацию | The new CEO turned the company around. | Новый гендиректор вытащил компанию.
+W fall through | сорваться (о сделке, плане) | The deal fell through at the last minute. | Сделка сорвалась в последний момент.
+W end up | в итоге оказаться | We ended up paying twice as much. | В итоге мы заплатили вдвое больше.
+W write off | списать | The bank wrote off the debt. | Банк списал долг.
+
+U b2u27 | Talk2 | Коммуникация | Донести, перебить, связаться
+W get across | донести (мысль) | It's hard to get the idea across in a short ad. | В короткой рекламе трудно донести мысль.
+W get through to | дозвониться; достучаться | I couldn't get through to the office. | Я не смог дозвониться до офиса.
+W speak up | говорить громче; высказаться | Please speak up, I can't hear you. | Говорите громче, пожалуйста, я вас не слышу.
+W cut in | перебить | Sorry to cut in, but we're out of time. | Простите, что перебиваю, но время вышло.
+W cut off | прервать (связь), отключить | We were cut off in the middle of the call. | Нас разъединило посреди разговора.
+W pass on | передать | I'll pass on your message. | Я передам ваше сообщение.
+W reach out | связаться, обратиться | Feel free to reach out anytime. | Обращайтесь в любое время.
+W brush up on | освежить (знания) | I need to brush up on my English. | Мне нужно освежить английский.
+W keep in touch | поддерживать связь | Let's keep in touch. | Давай будем на связи.
+W drop by | заскочить, заглянуть | Drop by the office tomorrow. | Заскочи завтра в офис.
+W run into | случайно встретить; столкнуться | I ran into an old colleague at the airport. | Я случайно встретил старого коллегу в аэропорту.
+W catch on | понять; стать популярным | The idea quickly caught on. | Идея быстро прижилась.
+W play down | преуменьшать | He played down the problem. | Он преуменьшил проблему.
+W open up | открыться, разоткровенничаться | It took him a while to open up. | Ему понадобилось время, чтобы раскрыться.
+W talk into | уговорить | She talked me into buying the premium plan. | Она уговорила меня купить премиум-тариф.
+
+U b2u28 | Fix | Проблемы и решения | Справиться, мириться, восстановиться
+W deal with | иметь дело с, решать | I'll deal with it tomorrow. | Я займусь этим завтра.
+W cope with | справляться с | How do you cope with stress? | Как ты справляешься со стрессом?
+W come up | возникнуть (о вопросе, проблеме) | Something urgent came up. | Возникло кое-что срочное.
+W crop up | внезапно возникнуть | Problems crop up every day. | Проблемы возникают каждый день.
+W put up with | мириться с, терпеть | I can't put up with the noise. | Я не могу мириться с этим шумом.
+W get round | обойти (проблему) | We found a way to get round the rule. | Мы нашли способ обойти правило.
+W iron out | сгладить, устранить | We need to iron out a few details. | Нужно утрясти несколько деталей.
+W patch up | уладить; залатать | They patched up their relationship. | Они наладили отношения.
+W bounce back | быстро восстановиться | The market bounced back quickly. | Рынок быстро восстановился.
+W fall apart | развалиться | The deal fell apart after the merger. | После слияния сделка развалилась.
+W mess up | напортачить, испортить | Sorry, I messed up the order. | Извини, я напутал с заказом.
+W give in | уступить, сдаться | We won't give in to pressure. | Мы не поддадимся давлению.
+W stick to | придерживаться | Let's stick to the plan. | Давай придерживаться плана.
+W back down | отступить, пойти на попятную | Neither side wanted to back down. | Ни одна сторона не хотела уступать.
+W come through | выдержать; не подвести | Our team always comes through. | Наша команда всегда справляется.
+
+X Стартап, который выжил | История с фразовыми глаголами
+P Two friends set up a delivery startup in 2022. At first, things worked out well: they took on five couriers, rolled out an app and brought in their first thousand clients within six months.
+P Then problems started to crop up. A big investor turned them down, two couriers quit, and the app kept crashing. The founders fell behind on almost every deadline and even fell out with each other for a while.
+P Instead of giving in, they sat down and talked things over. They figured out that they had grown too fast. They cut back on marketing, ironed out the bugs in the app and stuck to one district of the city.
+P It paid off. By the end of the year the business had bounced back, and a new investor reached out to them. Looking back, they say the crisis was the best thing that happened to them.
+Q Чего стартап добился за первые полгода? | Тысячи клиентов | Миллиона выручки | Выхода в другие города
+Q Что пошло не так? | Отказал инвестор, ушли курьеры, сбоило приложение | Закончились деньги на зарплату | Изменился закон
+Q В чём основатели увидели причину проблем? | Слишком быстрый рост | Плохая реклама | Слабые курьеры
+Q Что произошло к концу года? | Бизнес восстановился, появился новый инвестор | Компанию продали | Основатели разошлись

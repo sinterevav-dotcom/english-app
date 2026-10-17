@@ -1,0 +1,493 @@
+# B1 Intermediate, модули 1–4. Слова без транскрипции: W слово | перевод | пример | перевод примера
+
+M b1m1 | Жизненный опыт | #4c78ba,#213f6d
+G Present Perfect или Past Simple
+T Present Perfect связывает прошлое с настоящим: опыт, результат или период, который ещё не закончился (this year, since 2020). Past Simple — для законченного времени: yesterday, in 2019, when I was a child. Present Perfect Continuous (have been doing) подчёркивает длительность: I've been working here for five years.
+E I've lived here since 2015. = Я живу здесь с 2015 года.
+E I lived in Seoul for two years. = Я прожил в Сеуле два года (и уехал).
+E She's been waiting for an hour. = Она ждёт уже час.
+D I ___ in Korea for four years, then I moved back. = Я прожил в Корее четыре года, потом вернулся. | lived | have lived | have been living
+D We ___ three new clients this month. = В этом месяце у нас уже три новых клиента. | have got | got | get
+D When ___ you start your business? = Когда ты начал свой бизнес? | did | have | were
+D She ___ here since March. = Она работает здесь с марта. | has worked | worked | works
+D I ___ waiting for you for an hour! = Я жду тебя уже час! | have been | was | am
+D ___ you ever worked abroad? = Ты когда-нибудь работал за границей? | Have | Did | Were
+D They ___ the contract last Friday. = Они подписали договор в прошлую пятницу. | signed | have signed | have been signing
+D How long ___ you been learning English? = Как долго ты учишь английский? | have | did | are
+
+U b1u01 | Path | Жизненный путь | Возможность, вызов, поворот
+W opportunity | возможность | It was a great opportunity. | Это была отличная возможность.
+W challenge | вызов, трудная задача | Moving abroad was a real challenge. | Переезд за границу был настоящим испытанием.
+W turning point | поворотный момент | That year was a turning point in my life. | Тот год стал поворотным в моей жизни.
+W ambition | амбиция, стремление | She has a lot of ambition. | У неё много амбиций.
+W background | опыт, образование, происхождение | He has a background in finance. | У него опыт в финансах.
+W generation | поколение | My generation grew up without smartphones. | Моё поколение выросло без смартфонов.
+W adapt | приспосабливаться | It took me a year to adapt. | Мне понадобился год, чтобы приспособиться.
+W manage to | суметь, справиться | I managed to find a job in a month. | Мне удалось найти работу за месяц.
+W overcome | преодолевать | We overcame many problems. | Мы преодолели много проблем.
+W regret | сожалеть, сожаление | I don't regret anything. | Я ни о чём не жалею.
+W memory | воспоминание, память | I have good memories of that time. | У меня хорошие воспоминания о том времени.
+W ordinary | обычный | It was an ordinary day. | Это был обычный день.
+
+U b1u02 | Expat | Жизнь за границей | Обычаи, акцент, привыкнуть
+W expat | экспат (живущий за границей) | There are many expats in Kuala Lumpur. | В Куала-Лумпуре много экспатов.
+W homesick | тоскующий по дому | I was homesick in my first year. | В первый год я скучал по дому.
+W custom | обычай | It's a local custom to take off your shoes. | Здесь принято снимать обувь.
+W tradition | традиция | New Year is an important tradition. | Новый год — важная традиция.
+W accent | акцент | He speaks with a strong accent. | Он говорит с сильным акцентом.
+W misunderstanding | недопонимание | It was just a misunderstanding. | Это было просто недопонимание.
+W get used to | привыкнуть к | I got used to spicy food. | Я привык к острой еде.
+W native speaker | носитель языка | I practice with a native speaker. | Я практикуюсь с носителем языка.
+W fluent | свободно говорящий | She is fluent in three languages. | Она свободно говорит на трёх языках.
+W translate | переводить | Can you translate this email? | Можешь перевести это письмо?
+W cultural | культурный | There are big cultural differences. | Есть большие культурные различия.
+W rude | грубый | It's rude to be late here. | Здесь опаздывать невежливо.
+
+U b1u03 | Edu | Образование | Квалификация, наставник, стипендия
+W education | образование | Education is very important in Korea. | В Корее образование очень важно.
+W qualification | квалификация | What qualifications do you have? | Какая у вас квалификация?
+W training | обучение, тренинг | The company paid for my training. | Компания оплатила моё обучение.
+W mentor | наставник | My first boss was a great mentor. | Мой первый начальник был отличным наставником.
+W self-taught | самоучка | He is a self-taught programmer. | Он программист-самоучка.
+W research | исследование | We did some market research. | Мы провели исследование рынка.
+W lecture | лекция | The lecture was very interesting. | Лекция была очень интересной.
+W tutor | репетитор | I study with a tutor twice a week. | Я занимаюсь с репетитором два раза в неделю.
+W scholarship | стипендия | She got a scholarship to study in the US. | Она получила стипендию на учёбу в США.
+W assignment | задание | I have to finish the assignment today. | Мне нужно закончить задание сегодня.
+W grade | оценка | I always had good grades in maths. | У меня всегда были хорошие оценки по математике.
+W master's degree | магистратура | I'm thinking about a master's degree. | Я думаю о магистратуре.
+
+U b1u04 | Since | Время и длительность | В наши дни, в итоге, сразу
+W for ages | целую вечность | I haven't seen you for ages! | Сто лет тебя не видел!
+W these days | в наши дни, сейчас | These days I work from home. | Сейчас я работаю из дома.
+W nowadays | в наше время | Nowadays everyone has a smartphone. | В наше время у всех есть смартфон.
+W in the past | в прошлом | In the past, I worked in a bank. | Раньше я работал в банке.
+W at the moment | в данный момент | I'm busy at the moment. | Я сейчас занят.
+W meanwhile | тем временем | Meanwhile, the client was waiting. | Тем временем клиент ждал.
+W throughout | на протяжении всего | It rained throughout the trip. | Дождь шёл всю поездку.
+W period | период | It was a difficult period. | Это был трудный период.
+W decade | десятилетие | The company has grown a lot in the last decade. | За последнее десятилетие компания сильно выросла.
+W eventually | в конце концов | Eventually, we found a solution. | В конце концов мы нашли решение.
+W immediately | немедленно, сразу | Please call me immediately. | Пожалуйста, позвони мне немедленно.
+W ever since | с тех пор | I have loved Korea ever since. | С тех пор я люблю Корею.
+
+U b1u05 | Self | Профессиональный путь | Фриланс, стартап, уволиться
+W freelancer | фрилансер | I worked as a freelancer for two years. | Я два года работал фрилансером.
+W self-employed | самозанятый, работающий на себя | She is self-employed. | Она работает на себя.
+W entrepreneur | предприниматель | He is a successful entrepreneur. | Он успешный предприниматель.
+W startup | стартап | We launched a startup in 2021. | Мы запустили стартап в 2021 году.
+W quit | уволиться, бросить | I quit my job last year. | Я уволился в прошлом году.
+W switch | переключиться, сменить | She switched to marketing. | Она перешла в маркетинг.
+W workplace | рабочее место | We want a friendly workplace. | Мы хотим дружелюбную рабочую атмосферу.
+W job market | рынок труда | The job market is changing fast. | Рынок труда быстро меняется.
+W earn | зарабатывать | How much do you earn? | Сколько ты зарабатываешь?
+W reference | рекомендация; ссылка | Can you give me a reference? | Можете дать мне рекомендацию?
+W probation | испытательный срок | The probation period is three months. | Испытательный срок — три месяца.
+W notice | уведомление; замечать | I gave two weeks' notice. | Я предупредил об уходе за две недели.
+
+U b1u06 | Wow | Впечатления | Незабываемо, стоит того, переоценено
+W impression | впечатление | What was your first impression? | Какое было первое впечатление?
+W unforgettable | незабываемый | It was an unforgettable trip. | Это была незабываемая поездка.
+W impressive | впечатляющий | Your results are impressive. | Твои результаты впечатляют.
+W disappointing | разочаровывающий | The service was disappointing. | Сервис разочаровал.
+W exhausting | изматывающий | The flight was exhausting. | Перелёт был изматывающим.
+W worth it | стоящий того | It was expensive, but worth it. | Было дорого, но оно того стоило.
+W recommend | рекомендовать | I highly recommend this hotel. | Очень рекомендую этот отель.
+W overrated | переоценённый | I think this restaurant is overrated. | По-моему, этот ресторан переоценён.
+W once-in-a-lifetime | бывающий раз в жизни | It was a once-in-a-lifetime experience. | Такое бывает раз в жизни.
+W atmosphere | атмосфера | The atmosphere was friendly. | Атмосфера была дружелюбной.
+W breathtaking | захватывающий дух | The view was breathtaking. | Вид захватывал дух.
+W incredible | невероятный | The food was incredible. | Еда была невероятной.
+
+U b1u07 | Trend | Перемены | Рост, спад, постепенно
+W improvement | улучшение | There's a big improvement. | Есть большое улучшение.
+W decline | спад, снижаться | Sales are in decline. | Продажи падают.
+W rise | рост, подниматься | There was a sharp rise in prices. | Цены резко выросли.
+W drop | падение, падать, ронять | We saw a drop in sales. | Мы увидели падение продаж.
+W gradually | постепенно | Things gradually got better. | Постепенно всё наладилось.
+W dramatically | резко, значительно | Prices have risen dramatically. | Цены резко выросли.
+W slightly | слегка | The price has slightly increased. | Цена немного выросла.
+W steady | стабильный, устойчивый | We have steady growth. | У нас стабильный рост.
+W trend | тенденция, тренд | This is a new trend in marketing. | Это новый тренд в маркетинге.
+W transform | преобразовывать | AI will transform our industry. | ИИ преобразит нашу отрасль.
+W replace | заменять | Robots can't replace people. | Роботы не могут заменить людей.
+W affect | влиять на | The crisis affected our business. | Кризис повлиял на наш бизнес.
+
+X Десять лет назад | Интервью
+P Journalist: How long have you been running your own agency? — Alex: I've been running it since 2019, so for about six years now.
+P Journalist: And before that? — Alex: Before that I lived abroad for four years. I worked in Korea, then in Hong Kong and Malaysia. It was a turning point in my life.
+P Journalist: Was it hard to adapt? — Alex: At first, yes. I was homesick, and there were a few funny misunderstandings. But I got used to the local customs quite quickly.
+P Journalist: What have you learned from those years? — Alex: That every market is different. What works in Seoul doesn't always work in Novosibirsk. I've never regretted that experience.
+Q С какого года Алекс руководит агентством? | С 2019 | С 2015 | С 2021
+Q Сколько лет он прожил за границей? | Четыре года | Шесть лет | Один год
+Q Что было трудным сначала? | Тоска по дому и недопонимания | Найти работу | Купить жильё
+Q Какой главный вывод он сделал? | Каждый рынок отличается | Работать за границей не стоит | Везде работает одно и то же
+
+M b1m2 | Если… | #3d8a8f,#1d4a5a
+G Условные предложения 1 и 2 типа
+T Первый тип — реальное условие в будущем: If + Present Simple, will + глагол. If it rains, we'll stay at home. Второй тип — нереальное или маловероятное условие сейчас: If + Past Simple, would + глагол. If I had more time, I would learn Korean. Во втором типе говорят If I were… для всех лиц.
+E If you call me, I'll answer. = Если позвонишь, я отвечу.
+E If I won a million, I would travel. = Если бы я выиграл миллион, я бы путешествовал.
+E If I were you, I'd accept the offer. = На твоём месте я бы принял предложение.
+D If it ___ tomorrow, we'll cancel the trip. = Если завтра пойдёт дождь, отменим поездку. | rains | will rain | rained
+D If you send the file, I ___ check it today. = Если пришлёшь файл, я проверю его сегодня. | will | would | am
+D If I ___ more money, I would buy a house by the sea. = Если бы у меня было больше денег… | had | have | will have
+D If I were you, I ___ talk to the boss. = На твоём месте я бы поговорил с начальником. | would | will | am
+D What would you do if you ___ the lottery? = Что бы ты сделал, если бы выиграл в лотерею? | won | win | will win
+D If we don't hurry, we ___ miss the flight. = Если не поторопимся, опоздаем на рейс. | will | would | are
+D If she ___ here, she would help us. = Если бы она была здесь, она бы нам помогла. | were | is | will be
+D I ___ buy it if it were cheaper. = Я бы купил это, если бы было дешевле. | would | will | did
+
+U b1u08 | If | Условия | Если не, на случай, зависит
+W condition | условие; состояние | I'll agree on one condition. | Я соглашусь при одном условии.
+W unless | если не | We'll go unless it rains. | Мы пойдём, если не будет дождя.
+W in case | на случай, если | Take an umbrella in case it rains. | Возьми зонт на случай дождя.
+W as long as | при условии, что | You can come as long as you're on time. | Можешь прийти, если не опоздаешь.
+W otherwise | иначе | Hurry, otherwise we'll be late. | Поторопись, иначе опоздаем.
+W likely | вероятный | It's likely to rain. | Вероятно, будет дождь.
+W unlikely | маловероятный | It's unlikely that he'll come. | Вряд ли он придёт.
+W possible | возможный | Is it possible to change the date? | Можно ли изменить дату?
+W impossible | невозможный | It's impossible to finish today. | Закончить сегодня невозможно.
+W certain | уверенный, определённый | I'm not certain about the price. | Я не уверен насчёт цены.
+W depend on | зависеть от | It depends on the budget. | Это зависит от бюджета.
+W suppose | предполагать | I suppose you're right. | Полагаю, ты прав.
+
+U b1u09 | Money | Деньги в жизни | Кредит, ипотека, налог
+W afford | позволить себе | I can't afford a new car. | Я не могу позволить себе новую машину.
+W loan | кредит, заём | We took a loan from the bank. | Мы взяли кредит в банке.
+W debt | долг | The company has no debt. | У компании нет долгов.
+W savings | сбережения | I keep my savings in different currencies. | Я храню сбережения в разных валютах.
+W interest | проценты; интерес | The interest rate is high. | Процентная ставка высокая.
+W mortgage | ипотека | We pay a mortgage every month. | Мы каждый месяц платим ипотеку.
+W lottery | лотерея | I never play the lottery. | Я никогда не играю в лотерею.
+W wealthy | богатый, состоятельный | He comes from a wealthy family. | Он из состоятельной семьи.
+W poor | бедный; плохой | The quality was poor. | Качество было плохим.
+W currency | валюта | What currency do they use in Malaysia? | Какая валюта в Малайзии?
+W exchange rate | курс обмена | The exchange rate is good today. | Сегодня хороший курс.
+W tax | налог | We pay taxes every quarter. | Мы платим налоги каждый квартал.
+
+U b1u10 | Dream | Мечты | Представить, роскошь, приключение
+W wish | желать, желание | I wish you luck. | Желаю тебе удачи.
+W imagine | представлять | Imagine you're on a beach. | Представь, что ты на пляже.
+W ideal | идеальный, идеал | My ideal job is flexible. | Моя идеальная работа — с гибким графиком.
+W realistic | реалистичный | Is this plan realistic? | Этот план реалистичный?
+W ambitious | амбициозный | It's an ambitious project. | Это амбициозный проект.
+W fantasy | фантазия | It's just a fantasy. | Это всего лишь фантазия.
+W dream job | работа мечты | This is my dream job. | Это работа моей мечты.
+W bucket list | список того, что сделать в жизни | Japan is on my bucket list. | Япония в моём списке мест мечты.
+W retire early | рано выйти на пенсию | I'd like to retire early. | Я бы хотел рано выйти на пенсию.
+W travel the world | объехать весь мир | If I could, I'd travel the world. | Если бы мог, я бы объехал весь мир.
+W luxury | роскошь, люкс | We stayed in a luxury hotel. | Мы жили в роскошном отеле.
+W adventure | приключение | Life is an adventure. | Жизнь — это приключение.
+
+U b1u11 | Tip | Советы | Совет, вариант, решение
+W advice | совет | Can I give you some advice? | Можно дать тебе совет?
+W advise | советовать | I advise you to wait. | Советую подождать.
+W warn | предупреждать | I warned you about the traffic. | Я предупреждал тебя о пробках.
+W consider | рассматривать, обдумывать | Consider all the options. | Рассмотри все варианты.
+W option | вариант | We have two options. | У нас два варианта.
+W alternative | альтернатива | Is there an alternative? | Есть альтернатива?
+W solution | решение (проблемы) | We need a quick solution. | Нам нужно быстрое решение.
+W pros and cons | за и против | Let's discuss the pros and cons. | Давай обсудим плюсы и минусы.
+W weigh up | взвешивать | Weigh up the risks first. | Сначала взвесь риски.
+W mind | возражать; разум | Do you mind if I open the window? | Вы не против, если я открою окно?
+W point | смысл, суть; пункт | What's the point of this meeting? | В чём смысл этой встречи?
+W obvious | очевидный | The answer is obvious. | Ответ очевиден.
+
+U b1u12 | Risk | Риск и решения | Последствия, сомнение, запасной план
+W take a risk | рисковать | Sometimes you have to take a risk. | Иногда нужно рискнуть.
+W gamble | азартная игра, авантюра | Starting a business is a gamble. | Начать бизнес — это авантюра.
+W consequence | последствие | Think about the consequences. | Подумай о последствиях.
+W outcome | исход, результат | We're waiting for the outcome. | Мы ждём результата.
+W guarantee | гарантия, гарантировать | There's no guarantee. | Гарантий нет.
+W hesitate | колебаться | Don't hesitate to call me. | Звоните без колебаний.
+W doubt | сомнение, сомневаться | I have no doubt. | У меня нет сомнений.
+W predict | предсказывать | Nobody can predict the future. | Никто не может предсказать будущее.
+W possibility | возможность (вероятность) | There's a possibility of delay. | Возможна задержка.
+W worst-case scenario | худший сценарий | In the worst-case scenario, we lose a month. | В худшем случае мы потеряем месяц.
+W backup plan | запасной план | Always have a backup plan. | Всегда имей запасной план.
+W courage | смелость | It takes courage to change careers. | Нужна смелость, чтобы сменить профессию.
+
+U b1u13 | Eco | Окружающая среда | Загрязнение, климат, переработка
+W environment | окружающая среда | We must protect the environment. | Мы должны защищать окружающую среду.
+W pollution | загрязнение | Air pollution is a big problem. | Загрязнение воздуха — большая проблема.
+W climate | климат | The climate is changing. | Климат меняется.
+W recycle | перерабатывать | We recycle plastic and paper. | Мы сдаём пластик и бумагу на переработку.
+W waste | отходы; тратить впустую | Don't waste time. | Не трать время впустую.
+W plastic | пластик, пластиковый | Say no to plastic bags. | Откажитесь от пластиковых пакетов.
+W renewable | возобновляемый | Solar power is renewable. | Солнечная энергия возобновляемая.
+W electricity | электричество | Electricity is expensive here. | Здесь дорогое электричество.
+W protect | защищать | Protect your data. | Защищай свои данные.
+W global warming | глобальное потепление | Global warming affects everyone. | Глобальное потепление касается всех.
+W species | вид (животных, растений) | Many species are in danger. | Многие виды под угрозой.
+W resource | ресурс | Water is a valuable resource. | Вода — ценный ресурс.
+
+U b1u14 | What | Гипотезы | Что если, в теории, примерно
+W in that case | в таком случае | In that case, let's start now. | В таком случае давай начнём сейчас.
+W what if | что если | What if the client says no? | Что если клиент откажется?
+W assume | предполагать, допускать | Let's assume the budget is fixed. | Допустим, бюджет фиксированный.
+W hypothetical | гипотетический | It's a hypothetical question. | Это гипотетический вопрос.
+W scenario | сценарий | Let's look at three scenarios. | Рассмотрим три сценария.
+W theory | теория | In theory, it should work. | В теории это должно сработать.
+W in practice | на практике | In practice, it's more difficult. | На практике всё сложнее.
+W estimate | оценка, оценивать | Can you estimate the cost? | Можешь оценить стоимость?
+W approximately | приблизительно | It costs approximately two thousand dollars. | Это стоит примерно две тысячи долларов.
+W exactly | точно, именно | That's exactly what I mean. | Именно это я и имею в виду.
+W definitely | определённо | I'll definitely come. | Я точно приду.
+W perhaps | возможно, пожалуй | Perhaps we should wait. | Пожалуй, нам стоит подождать.
+
+X Что, если? | Колонка предпринимателя
+P Every entrepreneur asks the same question: what if? What if we open a second office? What if the market changes?
+P Last year we had two options. If we opened an office in Moscow, we would get bigger clients, but the rent would eat most of our profit. If we stayed in Novosibirsk, growth would be slower, but much safer.
+P We weighed up the pros and cons and chose a third option: a small remote team in Moscow. If it works, we will open a real office next year. If it doesn't, we will lose very little.
+P My advice: always have a backup plan, and don't hesitate to take a small risk before a big one.
+Q Какой минус был у офиса в Москве? | Аренда съела бы большую часть прибыли | Там мало клиентов | Нет сотрудников
+Q Какой вариант выбрала компания? | Небольшую удалённую команду в Москве | Большой офис в Москве | Ничего не менять
+Q Что будет, если план сработает? | В следующем году откроют настоящий офис | Закроют офис в Новосибирске | Продадут компанию
+Q Какой совет даёт автор? | Иметь запасной план и начинать с небольшого риска | Никогда не рисковать | Всегда открывать офис в столице
+
+M b1m3 | Деловая переписка | #6a63b0,#2e2c6a
+G Вежливые просьбы и косвенные вопросы
+T В деловом английском прямые просьбы звучат резко. Смягчаем их: Could you…? Would you mind + -ing? I was wondering if… Косвенный вопрос: вместо Where is the office? — Could you tell me where the office is? Во второй части порядок слов как в обычном утверждении, без do и does.
+E Could you send me the invoice? = Не могли бы вы прислать счёт?
+E Would you mind calling back later? = Не могли бы вы перезвонить позже?
+E Could you tell me when the meeting starts? = Не подскажете, когда начинается встреча?
+D ___ you send me the report by Friday? = Не могли бы вы прислать отчёт до пятницы? | Could | Must | Should
+D Would you mind ___ the door? = Не могли бы вы закрыть дверь? | closing | close | to close
+D Could you tell me where ___? = Не подскажете, где вокзал? | the station is | is the station | does the station
+D I was wondering ___ you could help me. = Я хотел узнать, не могли бы вы мне помочь. | if | that | what
+D Do you know what time ___? = Вы не знаете, во сколько открывается магазин? | the shop opens | does the shop open | opens the shop
+D ___ you like to join us for dinner? = Не хотите поужинать с нами? | Would | Will | Do
+D Would you mind if I ___ the window? = Вы не против, если я открою окно? | opened | will open | am opening
+D Could you ___ me know by Monday? = Дайте мне знать до понедельника. | let | make | tell
+
+U b1u15 | Mail | Деловое письмо | Относительно, вложение, жду ответа
+W regarding | относительно | I'm writing regarding your order. | Пишу по поводу вашего заказа.
+W enclosed | приложенный | Please find the contract enclosed. | Договор во вложении.
+W attachment | вложение | See the attachment. | Смотрите вложение.
+W forward | пересылать; вперёд | I'll forward you his email. | Я перешлю тебе его письмо.
+W cc | поставить в копию | Please cc my assistant. | Пожалуйста, поставьте в копию моего ассистента.
+W follow up | напомнить о себе, продолжить | I'm following up on my last email. | Пишу по поводу моего прошлого письма.
+W look forward to | с нетерпением ждать | I look forward to hearing from you. | Жду вашего ответа.
+W as soon as possible | как можно скорее | Please reply as soon as possible. | Пожалуйста, ответьте как можно скорее.
+W at your earliest convenience | при первой возможности | Please call me at your earliest convenience. | Позвоните мне при первой возможности.
+W kind regards | с наилучшими пожеланиями | Kind regards, Alex. | С наилучшими пожеланиями, Алекс.
+W inquiry | запрос | Thank you for your inquiry. | Спасибо за ваш запрос.
+W request | просьба, запрос | We received your request. | Мы получили вашу заявку.
+
+U b1u16 | Pls | Просьбы и ответы | Буду признателен, уточнить, от имени
+W would you mind | не могли бы вы | Would you mind waiting a minute? | Не могли бы вы подождать минуту?
+W I was wondering | я хотел узнать | I was wondering if you could help. | Я хотел узнать, не могли бы вы помочь.
+W let me know | дайте знать | Let me know if you have questions. | Дайте знать, если будут вопросы.
+W I'd appreciate | буду признателен | I'd appreciate your help. | Буду признателен за помощь.
+W be able to | мочь, быть в состоянии | I won't be able to come. | Я не смогу прийти.
+W in addition | кроме того | In addition, we offer free delivery. | Кроме того, мы предлагаем бесплатную доставку.
+W please note | обратите внимание | Please note that the office is closed on Monday. | Обратите внимание: в понедельник офис закрыт.
+W clarify | уточнять | Could you clarify the price? | Не могли бы вы уточнить цену?
+W on behalf of | от имени | I'm writing on behalf of my company. | Пишу от имени своей компании.
+W apologies | извинения | Apologies for the late reply. | Извините за поздний ответ.
+W kindly | любезно (в просьбах) | Kindly send the documents. | Будьте добры, пришлите документы.
+W urgent | срочный | This is urgent. | Это срочно.
+
+U b1u17 | Ship | Заказы и поставки | Отгрузка, склад, просрочено
+W purchase | покупка, покупать | Thank you for your purchase. | Спасибо за покупку.
+W quote | коммерческое предложение (цена); цитата | Could you send us a quote? | Пришлите, пожалуйста, коммерческое предложение.
+W quantity | количество | What quantity do you need? | Какое количество вам нужно?
+W shipment | отгрузка, партия | The shipment left yesterday. | Партия отправлена вчера.
+W stock | запас (товара) | We have enough stock. | У нас достаточно товара.
+W warehouse | склад | The warehouse is outside the city. | Склад за городом.
+W due | ожидаемый, подлежащий оплате | The payment is due on Friday. | Оплата до пятницы.
+W overdue | просроченный | This invoice is overdue. | Этот счёт просрочен.
+W damaged | повреждённый | The box arrived damaged. | Коробка пришла повреждённой.
+W replacement | замена | We'll send a replacement. | Мы пришлём замену.
+W terms | условия | What are your payment terms? | Какие у вас условия оплаты?
+W supply | поставлять, поставка | We supply restaurants in the region. | Мы поставляем товар ресторанам региона.
+
+U b1u18 | Call | Встречи и созвоны | Перенести, окно, протокол
+W reschedule | перенести на другое время | Can we reschedule for Thursday? | Можем перенести на четверг?
+W slot | окно (во времени), слот | I have a free slot at three. | У меня есть окно в три.
+W availability | свободное время, наличие | Please share your availability. | Пожалуйста, напишите, когда вы свободны.
+W attend | посещать, присутствовать | Will you attend the meeting? | Вы будете на встрече?
+W participant | участник | There will be ten participants. | Будет десять участников.
+W minutes | протокол встречи | Who's taking the minutes? | Кто ведёт протокол?
+W host | проводить, принимать (гостей); ведущий | We'll host the meeting in our office. | Проведём встречу у нас в офисе.
+W video call | видеозвонок | Let's have a video call. | Давай созвонимся по видео.
+W time zone | часовой пояс | We're in different time zones. | Мы в разных часовых поясах.
+W brief | краткий; кратко ввести в курс | Keep it brief. | Говори коротко.
+W overview | обзор | Here's a short overview. | Вот краткий обзор.
+W wrap up | завершать | Let's wrap up the meeting. | Давайте завершать встречу.
+
+U b1u19 | Tone | Вежливость и тон | Официально, дипломатично, обидеть
+W formal | официальный, формальный | This email is too formal. | Это письмо слишком официальное.
+W informal | неформальный | You can be more informal with colleagues. | С коллегами можно общаться проще.
+W tone | тон | I didn't like his tone. | Мне не понравился его тон.
+W firm | твёрдый; фирма | Be polite but firm. | Будь вежлив, но твёрд.
+W diplomatic | дипломатичный | Give a diplomatic answer. | Дай дипломатичный ответ.
+W direct | прямой, прямолинейный | Koreans are often less direct. | Корейцы часто менее прямолинейны.
+W tactful | тактичный | She's always tactful. | Она всегда тактична.
+W offend | обижать | I didn't mean to offend you. | Я не хотел тебя обидеть.
+W misunderstand | неправильно понять | Sorry, I misunderstood you. | Извини, я тебя неправильно понял.
+W appreciate | ценить | We appreciate your business. | Мы ценим сотрудничество с вами.
+W sincerely | искренне | Yours sincerely, Alex. | Искренне ваш, Алекс.
+W courtesy | вежливость, любезность | It's a matter of courtesy. | Это вопрос вежливости.
+
+U b1u20 | Docs | Документы | Черновик, подпись, шаблон
+W draft | черновик | Here's the first draft. | Вот первый черновик.
+W proposal | предложение (документ) | We sent a proposal to the client. | Мы отправили клиенту предложение.
+W signature | подпись | We need your signature here. | Здесь нужна ваша подпись.
+W version | версия | This is the final version. | Это финальная версия.
+W edit | редактировать | Please edit the text. | Пожалуйста, отредактируй текст.
+W approve | утверждать, одобрять | The director approved the budget. | Директор утвердил бюджет.
+W template | шаблон | Use this template. | Используй этот шаблон.
+W form | бланк, форма | Fill in this form. | Заполните эту форму.
+W fill in | заполнять | Please fill in your details. | Пожалуйста, заполните свои данные.
+W copy | копия, копировать | Keep a copy of the contract. | Сохрани копию договора.
+W valid | действительный | Your passport is valid for five years. | Паспорт действителен пять лет.
+W revise | пересматривать, исправлять | We need to revise the plan. | Нам нужно пересмотреть план.
+
+U b1u21 | Care | Клиентский сервис | Жалоба, компенсация, неудобство
+W complaint | жалоба | We received a complaint. | Мы получили жалобу.
+W customer service | клиентская поддержка | Call customer service. | Позвоните в службу поддержки.
+W satisfied | довольный | Our clients are satisfied. | Наши клиенты довольны.
+W issue | вопрос, проблема | We've fixed the issue. | Мы решили проблему.
+W handle | справляться, заниматься | Who handles complaints? | Кто занимается жалобами?
+W respond | отвечать, реагировать | We respond within 24 hours. | Мы отвечаем в течение 24 часов.
+W compensation | компенсация | We offered compensation. | Мы предложили компенсацию.
+W inconvenience | неудобство | Sorry for the inconvenience. | Извините за неудобства.
+W resolve | решать (проблему) | We resolved the problem quickly. | Мы быстро решили проблему.
+W loyal | лояльный, верный | We have loyal customers. | У нас лояльные клиенты.
+W expectation | ожидание | We want to exceed expectations. | Мы хотим превзойти ожидания.
+W escalate | передать выше; обострить | I'll escalate this to my manager. | Я передам это своему руководителю.
+
+X Письмо поставщику | Уточнение условий
+P Dear Ms. Park, thank you for your quick reply and for the quote you sent on Monday.
+P I was wondering if you could clarify a few points. Could you tell me when the first shipment would be ready? We'd also like to know whether the price includes delivery to our warehouse.
+P In addition, would you mind sending us a draft of the contract by Friday? Our director needs to approve it before the end of the month.
+P I look forward to hearing from you. Kind regards, Alex Sinterev
+Q Что Алекс получил в понедельник? | Коммерческое предложение | Договор | Посылку
+Q Что он хочет уточнить? | Срок первой отгрузки и включена ли доставка | Размер скидки | Адрес офиса
+Q Что нужно прислать к пятнице? | Черновик договора | Счёт | Образцы товара
+Q Кто должен утвердить договор? | Директор | Бухгалтер | Сам Алекс
+
+M b1m4 | Истории | #b0745a,#5e3426
+G Past Continuous и Past Perfect
+T Past Continuous (was или were + -ing) — действие, которое шло в какой-то момент прошлого, фон истории: I was driving when you called. Past Perfect (had + третья форма) — то, что случилось ещё раньше другого события в прошлом: When I arrived, the meeting had already started.
+E I was working when the lights went out. = Я работал, когда погас свет.
+E While we were talking, the client arrived. = Пока мы разговаривали, пришёл клиент.
+E I had never seen snow before I moved to Siberia. = До переезда в Сибирь я никогда не видел снега.
+D I ___ dinner when you called. = Я готовил ужин, когда ты позвонил. | was cooking | cooked | had cooked
+D While they ___, it started to rain. = Пока они гуляли, пошёл дождь. | were walking | walked | had walked
+D When I arrived, the train ___ already left. = Когда я пришёл, поезд уже ушёл. | had | has | was
+D What ___ you doing at 8 pm yesterday? = Что ты делал вчера в восемь вечера? | were | did | had
+D She ___ the report before the meeting started. = Она закончила отчёт до начала встречи. | had finished | was finishing | has finished
+D I ___ my keys, so I couldn't open the door. = Я потерял ключи, поэтому не смог открыть дверь. | had lost | was losing | have lost
+D We were sleeping when the phone ___. = Мы спали, когда зазвонил телефон. | rang | was ringing | had rung
+D He ___ never been abroad before that trip. = До той поездки он никогда не был за границей. | had | has | was
+
+U b1u22 | Plot | Как рассказать историю | Сюжет, к тому времени, оказалось
+W plot | сюжет | The plot is very simple. | Сюжет очень простой.
+W character | персонаж; характер | The main character is a detective. | Главный герой — детектив.
+W while | пока, в то время как | While I was waiting, I read the news. | Пока я ждал, я читал новости.
+W as soon as | как только | Call me as soon as you arrive. | Позвони, как только приедешь.
+W by the time | к тому времени как | By the time we arrived, they had left. | К нашему приезду они уже ушли.
+W at that moment | в тот момент | At that moment, the phone rang. | В тот момент зазвонил телефон.
+W all of a sudden | внезапно | All of a sudden, everything went dark. | Внезапно всё погрузилось во тьму.
+W it turned out | оказалось | It turned out he was right. | Оказалось, он был прав.
+W ending | концовка | The ending was a surprise. | Концовка была неожиданной.
+W flashback | воспоминание (в сюжете), флешбэк | The film has many flashbacks. | В фильме много флешбэков.
+W describe | описывать | Describe what happened. | Опиши, что произошло.
+W apparently | судя по всему | Apparently, the meeting was cancelled. | Судя по всему, встречу отменили.
+
+U b1u23 | News | Происшествия | Свидетель, украсть, спасти
+W incident | происшествие, инцидент | There was an incident at the airport. | В аэропорту произошёл инцидент.
+W witness | свидетель | Were there any witnesses? | Были свидетели?
+W steal | красть | Someone stole my bike. | Кто-то украл мой велосипед.
+W rob | грабить | The shop was robbed last night. | Магазин ограбили прошлой ночью.
+W thief | вор | The thief ran away. | Вор убежал.
+W injure | ранить, травмировать | Two people were injured. | Два человека пострадали.
+W rescue | спасать | Firefighters rescued the family. | Пожарные спасли семью.
+W flood | наводнение | The flood damaged many houses. | Наводнение повредило много домов.
+W earthquake | землетрясение | There was an earthquake in Japan. | В Японии было землетрясение.
+W survive | выжить | Everyone survived. | Все выжили.
+W investigate | расследовать | The police are investigating. | Полиция ведёт расследование.
+W evidence | доказательства | There's no evidence. | Доказательств нет.
+
+U b1u24 | Irr4 | Неправильные глаголы 4 | caught, threw, led
+W catch — caught — caught | ловить, успеть | I caught the last train. | Я успел на последний поезд.
+W ride — rode — ridden | ездить верхом, на велосипеде | I have never ridden a horse. | Я никогда не ездил на лошади.
+W hide — hid — hidden | прятать | He hid the gift in the car. | Он спрятал подарок в машине.
+W shake — shook — shaken | трясти, пожимать | We shook hands. | Мы пожали руки.
+W throw — threw — thrown | бросать | Don't throw it away. | Не выбрасывай это.
+W ring — rang — rung | звонить, звенеть | The phone rang twice. | Телефон прозвонил дважды.
+W lend — lent — lent | одалживать (кому-то) | I lent him some money. | Я одолжил ему денег.
+W lead — led — led | вести, руководить | She led the team for five years. | Она руководила командой пять лет.
+W rise — rose — risen | подниматься, расти | Prices have risen again. | Цены снова выросли.
+W feed — fed — fed | кормить | Did you feed the cat? | Ты покормил кота?
+W bite — bit — bitten | кусать | A dog bit me. | Меня укусила собака.
+W tear — tore — torn | рвать | I tore my jacket. | Я порвал куртку.
+
+U b1u25 | Shock | Чувства в истории | Шок, облегчение, в ярости
+W frightened | напуганный | I was frightened. | Я был напуган.
+W shocked | шокированный | We were shocked by the news. | Новости нас шокировали.
+W confused | сбитый с толку | I was confused by the instructions. | Инструкции меня запутали.
+W relieved | испытывающий облегчение | I was relieved when he called. | Я выдохнул, когда он позвонил.
+W annoyed | раздражённый | She was annoyed with me. | Она была на меня раздражена.
+W amazed | поражённый | We were amazed by the city. | Город нас поразил.
+W ashamed | пристыженный | I'm ashamed of my behavior. | Мне стыдно за своё поведение.
+W curious | любопытный | I'm curious about your project. | Мне интересен твой проект.
+W desperate | отчаявшийся | We were desperate for help. | Нам отчаянно нужна была помощь.
+W furious | в ярости | The client was furious. | Клиент был в ярости.
+W thrilled | в восторге | I'm thrilled with the result. | Я в восторге от результата.
+W anxious | тревожный | I feel anxious before flights. | Я тревожусь перед перелётами.
+
+U b1u26 | Road | Дорожные истории | Заблудиться, сломаться, пересадка
+W get lost | заблудиться | We got lost in Tokyo. | Мы заблудились в Токио.
+W run out of | закончиться (о запасах) | We ran out of petrol. | У нас закончился бензин.
+W break down | сломаться (о технике) | Our car broke down. | Наша машина сломалась.
+W traffic jam | пробка | We were stuck in a traffic jam. | Мы застряли в пробке.
+W stuck | застрявший | I was stuck at the airport. | Я застрял в аэропорту.
+W set off | отправиться в путь | We set off early in the morning. | Мы выехали рано утром.
+W take off | взлетать; снимать (одежду) | The plane took off late. | Самолёт взлетел с опозданием.
+W land | приземляться; земля | We landed in Seoul at midnight. | Мы приземлились в Сеуле в полночь.
+W connecting flight | стыковочный рейс | I missed my connecting flight. | Я опоздал на стыковочный рейс.
+W jet lag | джетлаг (усталость от смены поясов) | I have terrible jet lag. | У меня ужасный джетлаг.
+W detour | объезд | We had to take a detour. | Пришлось ехать в объезд.
+W destination | пункт назначения | We finally reached our destination. | Мы наконец добрались до места.
+
+U b1u27 | Back | Память | Вспомнить, раньше, в те дни
+W recall | вспоминать | I can't recall his name. | Не могу вспомнить его имя.
+W remind | напоминать | Remind me to call him. | Напомни мне ему позвонить.
+W memorize | запоминать наизусть | I memorize ten words a day. | Я запоминаю десять слов в день.
+W vague | смутный | I have a vague memory of it. | Я смутно это помню.
+W vivid | яркий | I have vivid memories of Seoul. | У меня яркие воспоминания о Сеуле.
+W nostalgic | ностальгический | This song makes me nostalgic. | От этой песни меня тянет на ностальгию.
+W diary | дневник, ежедневник | I kept a diary in Korea. | В Корее я вёл дневник.
+W album | альбом | Look at this photo album. | Посмотри этот фотоальбом.
+W look back | оглядываться назад | Looking back, it was a good decision. | Оглядываясь назад, это было хорошее решение.
+W used to | раньше (бывало) | I used to work in a bank. | Раньше я работал в банке.
+W at the time | в то время | At the time, I didn't speak English. | В то время я не говорил по-английски.
+W in those days | в те дни | In those days, we had no internet. | В те времена у нас не было интернета.
+
+U b1u28 | Who | Какой человек | Щедрый, упрямый, общительный
+W generous | щедрый | My boss is very generous. | Мой начальник очень щедрый.
+W selfish | эгоистичный | Don't be so selfish. | Не будь таким эгоистом.
+W stubborn | упрямый | He's too stubborn to change his mind. | Он слишком упрямый, чтобы передумать.
+W sensitive | чувствительный | She's very sensitive to criticism. | Она очень чувствительна к критике.
+W cheerful | жизнерадостный | Our receptionist is always cheerful. | Наш администратор всегда жизнерадостна.
+W reserved | сдержанный | At first he seemed reserved. | Сначала он казался сдержанным.
+W outgoing | общительный | Sales managers are usually outgoing. | Менеджеры по продажам обычно общительные.
+W arrogant | высокомерный | The new director was arrogant. | Новый директор был высокомерным.
+W modest | скромный | She's very modest about her success. | Она очень скромно говорит о своём успехе.
+W mature | зрелый | He's very mature for his age. | Он очень зрелый для своего возраста.
+W bossy | любящий командовать | My sister was bossy as a child. | В детстве сестра любила всеми командовать.
+W easy-going | лёгкий в общении | Our clients are easy-going people. | Наши клиенты — лёгкие в общении люди.
+
+X Мокрая встреча | История из командировки
+P It was my first week in Kuala Lumpur. I was walking to an important meeting when it started to rain heavily. Within minutes, the streets were full of water.
+P I tried to get a taxi, but every car was full. By the time I found one, I was completely wet. To make things worse, we got stuck in a traffic jam.
+P When I finally arrived, the meeting had already started. I was so embarrassed. But it turned out the client had been late too, and he was even wetter than me.
+P We both laughed, and that meeting became the start of a long partnership.
+Q Где произошла история? | В Куала-Лумпуре | В Сеуле | В Москве
+Q Что случилось по дороге на встречу? | Начался сильный ливень | Сломалась машина | Он потерял телефон
+Q Что было, когда он пришёл? | Встреча уже началась | Встречу отменили | Никого не было
+Q Чем всё закончилось? | Долгим партнёрством | Ссорой | Отменой контракта

@@ -1,0 +1,390 @@
+# A2 Elementary, модули 5–8
+
+M a2m5 | Здоровье | #5f8a4e,#2b4a25
+G should и must
+T should — совет: You should sleep more. must — сильная необходимость или правило: You must wear a seat belt. mustn't — запрет, shouldn't — «не стоит». После should и must глагол идёт без to.
+E You should see a doctor. = Тебе стоит сходить к врачу.
+E You mustn't smoke here. = Здесь нельзя курить.
+E Should I take this medicine? = Мне стоит принимать это лекарство?
+D You look tired. You ___ rest. = Ты выглядишь уставшим. Тебе стоит отдохнуть. | should | mustn't | should to
+D You ___ smoke in the hospital. = В больнице курить нельзя. | mustn't | shouldn't to | don't must
+D ___ I call a doctor? = Мне стоит вызвать врача? | Should | Must to | Do should
+D You should ___ more water. = Тебе стоит пить больше воды. | drink | to drink | drinking
+D Drivers ___ stop at a red light. = Водители обязаны останавливаться на красный. | must | shouldn't | mustn't
+D You ___ eat so much sugar. = Тебе не стоит есть так много сахара. | shouldn't | mustn't to | don't should
+D We must ___ the report today. = Мы должны закончить отчёт сегодня. | finish | to finish | finished
+D He ___ go to work with a fever. = Ему не стоит идти на работу с температурой. | shouldn't | should | must
+
+U a2u25 | Body | Тело | Голова, рука, сердце
+W body | боди | тело | Sport is good for your body. | Спорт полезен для тела.
+W head | хэд | голова | Turn your head to the left. | Поверни голову налево.
+W neck | нэк | шея | My neck hurts after work. | После работы у меня болит шея.
+W arm | ам | рука (от плеча) | I broke my arm. | Я сломал руку.
+W hand | хэнд | кисть руки | Wash your hands. | Помой руки.
+W leg | лэг | нога | My leg hurts after running. | После бега у меня болит нога.
+W foot | фут | ступня | My foot is cold. | У меня замёрзла нога.
+W stomach | стамэк | живот, желудок | My stomach hurts. | У меня болит живот.
+W tooth | тус | зуб | I have a bad tooth. | У меня болит зуб.
+W heart | хат | сердце | Running is good for your heart. | Бег полезен для сердца.
+
+U a2u26 | Ill | Болезни | Грипп, кашель, боль
+W ill | ил | больной | I feel ill today. | Сегодня я плохо себя чувствую.
+W have a cold | хэв э коулд | быть простуженным | I have a cold. | Я простыл.
+W flu | флу | грипп | She has the flu. | У неё грипп.
+W fever | фивэр | жар, высокая температура | He has a high fever. | У него высокая температура.
+W headache | хэдэйк | головная боль | I have a headache. | У меня болит голова.
+W cough | коф | кашель | I have a bad cough. | У меня сильный кашель.
+W hurt | хёрт | болеть, причинять боль | My back hurts. | У меня болит спина.
+W pain | пэйн | боль | I have a pain in my chest. | У меня боль в груди.
+W sore throat | со сроут | боль в горле | I have a sore throat. | У меня болит горло.
+W allergy | элэджи | аллергия | I have an allergy to cats. | У меня аллергия на кошек.
+
+U a2u27 | Doc | У врача | Лекарство, рецепт, страховка
+W medicine | мэдсин | лекарство | Take this medicine twice a day. | Принимай это лекарство два раза в день.
+W pill | пил | таблетка | Take one pill after meals. | Принимай одну таблетку после еды.
+W prescription | прискрипшн | рецепт (врача) | You need a prescription. | Нужен рецепт.
+W dentist | дэнтист | стоматолог | I'm going to the dentist. | Я иду к стоматологу.
+W nurse | нёрс | медсестра | The nurse was very kind. | Медсестра была очень доброй.
+W patient | пэйшнт | пациент; терпеливый | The patient feels better. | Пациенту лучше.
+W ambulance | эмбьюлэнс | скорая помощь | Call an ambulance! | Вызовите скорую!
+W emergency | имёрджэнси | экстренный случай | This is an emergency. | Это экстренный случай.
+W insurance | иншуэрэнс | страховка | Do you have health insurance? | У тебя есть медицинская страховка?
+W check-up | чек ап | осмотр, обследование | I have a check-up every year. | Я прохожу обследование каждый год.
+
+U a2u28 | Fit | Здоровый образ жизни | Диета, вес, привычка
+W healthy | хэлси | здоровый, полезный | I try to eat healthy food. | Я стараюсь есть здоровую еду.
+W diet | дайэт | диета, питание | I'm on a diet. | Я на диете.
+W exercise | эксэсайз | упражнения, тренироваться | I exercise three times a week. | Я тренируюсь три раза в неделю.
+W weight | уэйт | вес | I want to lose weight. | Я хочу похудеть.
+W smoke | смоук | курить, дым | I don't smoke. | Я не курю.
+W stress | стрэс | стресс | Work is a lot of stress. | Работа — это много стресса.
+W steps | стэпс | шаги | I walk ten thousand steps a day. | Я прохожу десять тысяч шагов в день.
+W fresh air | фрэш эа | свежий воздух | We need some fresh air. | Нам нужно подышать свежим воздухом.
+W habit | хэбит | привычка | Running is a good habit. | Бег — хорошая привычка.
+W energy | энэджи | энергия | I have a lot of energy today. | Сегодня у меня много энергии.
+
+U a2u29 | Feel | Самочувствие | Слабость, нервы, спокойствие
+W feel | фил | чувствовать (себя) | How do you feel? | Как ты себя чувствуешь?
+W well | уэл | хорошо, здоров | I don't feel well. | Я неважно себя чувствую.
+W get better | гэт бэтэр | поправляться | Get better soon! | Поправляйся скорее!
+W sleepy | слипи | сонный | I'm sleepy after lunch. | После обеда меня клонит в сон.
+W weak | уик | слабый | I feel weak. | Я чувствую слабость.
+W dizzy | дизи | с головокружением | I feel dizzy. | У меня кружится голова.
+W afraid | эфрэйд | испуганный, боящийся | I'm afraid of dentists. | Я боюсь стоматологов.
+W calm | кам | спокойный | Stay calm. | Сохраняй спокойствие.
+W nervous | нёрвэс | нервный, волнующийся | I'm nervous before presentations. | Я волнуюсь перед презентациями.
+W relaxed | рилэкст | расслабленный | I feel relaxed after the sauna. | После сауны я расслаблен.
+
+U a2u30 | Safe | Правила и безопасность | Опасно, знак, закон
+W rule | рул | правило | These are the rules. | Вот правила.
+W allowed | элауд | разрешённый | Smoking is not allowed here. | Здесь курить запрещено.
+W careful | кэафул | осторожный, внимательный | Be careful! | Будь осторожен!
+W dangerous | дэйнджэрэс | опасный | This road is dangerous. | Эта дорога опасная.
+W safe | сэйф | безопасный | Is it safe to swim here? | Здесь безопасно плавать?
+W seat belt | сит бэлт | ремень безопасности | Fasten your seat belt. | Пристегните ремень.
+W sign | сайн | знак; подписывать | Look at the sign. | Посмотри на знак.
+W warning | уонинг | предупреждение | This is your last warning. | Это твоё последнее предупреждение.
+W police | пэлис | полиция | Call the police! | Вызовите полицию!
+W law | ло | закон | It's against the law. | Это противозаконно.
+
+X У врача | Диалог
+P Doctor: Good morning. What's the problem?
+P Alex: I feel ill. I have a headache and a sore throat.
+P Doctor: Do you have a fever? — Alex: Yes, a little. Thirty-seven point eight.
+P Doctor: I think it's the flu. You should stay at home for three days and drink a lot of water.
+P Alex: Can I go to work? I have an important meeting. — Doctor: No, you shouldn't. You can have the meeting online. Take these pills twice a day after meals.
+Q Что беспокоит Алекса? | Голова и горло | Спина | Живот
+Q Какой диагноз предполагает врач? | Грипп | Аллергия | Перелом
+Q Что советует врач насчёт встречи? | Провести её онлайн | Перенести на месяц | Всё равно пойти в офис
+Q Как принимать таблетки? | Два раза в день после еды | Раз в неделю | Перед сном
+
+M a2m6 | Опыт | #8a5a9c,#43275a
+G Present Perfect: опыт и результат
+T Present Perfect — это have или has плюс третья форма глагола. Так говорят об опыте («когда-либо в жизни») и о результате, который важен сейчас. Если названо точное время в прошлом (yesterday, in 2019), нужен Past Simple.
+E I have been to Korea. = Я бывал в Корее.
+E She has finished the report. = Она закончила отчёт.
+E Have you ever tried sushi? = Ты когда-нибудь пробовал суши?
+D I ___ been to China. = Я бывал в Китае. | have | has | am
+D She ___ finished the project. = Она закончила проект. | has | have | is
+D Have you ever ___ Korean food? = Ты пробовал корейскую еду? | tried | try | trying
+D We have ___ this film. = Мы уже видели этот фильм. | seen | saw | see
+D ___ he called you yet? = Он тебе уже позвонил? | Has | Have | Did
+D I ___ never flown business class. = Я никогда не летал бизнес-классом. | have | has | am
+D They have ___ to Bali twice. = Они дважды были на Бали. | been | gone | was
+D I ___ him yesterday. = Я видел его вчера. | saw | have seen | seen
+
+U a2u31 | V3 | Три формы 1 | been, done, chosen
+W be — was — been | би — уоз — бин | быть | I have been to Seoul three times. | Я был в Сеуле три раза.
+W do — did — done | ду — дид — дан | делать | Have you done the task? | Ты сделал задачу?
+W break — broke — broken | брэйк — броук — броукэн | ломать, разбивать | I have broken my glasses. | Я разбил очки.
+W choose — chose — chosen | чуз — чоуз — чоузн | выбирать | We have chosen a hotel. | Мы выбрали отель.
+W forget — forgot — forgotten | фогэт — фогот — фоготн | забывать | I have forgotten his name. | Я забыл, как его зовут.
+W hear — heard — heard | хиа — хёрд — хёрд | слышать | Have you heard the news? | Ты слышал новости?
+W read — read — read | рид — рэд — рэд | читать | I have read this book twice. | Я прочитал эту книгу дважды.
+W run — ran — run | ран — рэн — ран | бегать | She has run a marathon. | Она пробежала марафон.
+W swim — swam — swum | суим — суэм — суам | плавать | I have never swum in the ocean. | Я никогда не плавал в океане.
+W wear — wore — worn | уэа — уо — уон | носить (одежду) | I have never worn a tie. | Я никогда не носил галстук.
+
+U a2u32 | V3b | Три формы 2 | become, brought, taught
+W become — became — become | бикам — бикэйм — бикам | становиться | He has become a manager. | Он стал менеджером.
+W bring — brought — brought | бринг — брот — брот | приносить | I have brought you a gift. | Я принёс тебе подарок.
+W build — built — built | билд — билт — билт | строить | They have built a new airport. | Они построили новый аэропорт.
+W cut — cut — cut | кат — кат — кат | резать | I have cut my finger. | Я порезал палец.
+W fall — fell — fallen | фол — фэл — фолн | падать | Prices have fallen. | Цены упали.
+W feel — felt — felt | фил — фэлт — фэлт | чувствовать | I have never felt so tired. | Я никогда так не уставал.
+W keep — kept — kept | кип — кэпт — кэпт | хранить, держать | I have kept all your letters. | Я сохранил все твои письма.
+W put — put — put | пут — пут — пут | класть | Where have you put the keys? | Куда ты положил ключи?
+W teach — taught — taught | тич — тот — тот | учить, преподавать | She has taught English for ten years. | Она преподаёт английский десять лет.
+W understand — understood — understood | андэстэнд — андэстуд — андэстуд | понимать | Have you understood the task? | Ты понял задачу?
+
+U a2u33 | Ever | Опыт | Когда-либо, только что, ещё не
+W ever | эвэр | когда-либо | Have you ever been to London? | Ты когда-нибудь был в Лондоне?
+W just | джаст | только что; просто | I have just arrived. | Я только что приехал.
+W yet | йет | ещё (не); уже (в вопросе) | I haven't finished yet. | Я ещё не закончил.
+W still | стил | всё ещё | I still live in Novosibirsk. | Я всё ещё живу в Новосибирске.
+W since | синс | с (какого-то момента) | I have worked here since 2020. | Я работаю здесь с 2020 года.
+W for | фо | в течение; для | I have known him for ten years. | Я знаю его десять лет.
+W so far | соу фа | пока что | So far, so good. | Пока всё идёт хорошо.
+W lately | лэйтли | в последнее время | I haven't slept well lately. | В последнее время я плохо сплю.
+W how long | хау лонг | как долго | How long have you lived here? | Как долго ты здесь живёшь?
+W in my life | ин май лайф | в жизни | I have never seen so much snow in my life. | Я никогда в жизни не видел столько снега.
+
+U a2u34 | Skill | Навыки и учёба | Курс, экзамен, сертификат
+W skill | скил | навык | Communication is an important skill. | Общение — важный навык.
+W ability | эбилити | способность | She has the ability to learn fast. | Она умеет быстро учиться.
+W practice | прэктис | практика, практиковаться | Practice every day. | Практикуйся каждый день.
+W talent | тэлэнт | талант | He has a talent for sales. | У него талант к продажам.
+W course | кос | курс | I have finished an online course. | Я закончил онлайн-курс.
+W lesson | лэсн | урок | My English lesson is at seven. | Мой урок английского в семь.
+W exam | игзэм | экзамен | The exam was difficult. | Экзамен был трудным.
+W pass | пас | сдать (успешно); проходить | I have passed the exam! | Я сдал экзамен!
+W certificate | сэтификэт | сертификат | I got a certificate. | Я получил сертификат.
+W knowledge | нолидж | знания | Knowledge is power. | Знание — сила.
+
+U a2u35 | Win | Достижения | Награда, рост, запуск
+W record | рэкод | рекорд, запись | This is a new record. | Это новый рекорд.
+W award | эуод | награда | Our agency won an award. | Наше агентство получило награду.
+W proud | прауд | гордый | I'm proud of my team. | Я горжусь своей командой.
+W progress | прогрэс | прогресс | You've made great progress. | Ты сильно продвинулся.
+W increase | инкрис | увеличивать(ся), рост | Sales have increased. | Продажи выросли.
+W reduce | ридьюс | уменьшать, сокращать | We have reduced costs. | Мы сократили расходы.
+W double | дабл | удвоить(ся), двойной | Our profit has doubled. | Наша прибыль удвоилась.
+W launch | лонч | запускать, запуск | We have launched a new product. | Мы запустили новый продукт.
+W complete | кэмплит | завершённый, завершать | The project is complete. | Проект завершён.
+W milestone | майлстоун | важный этап | This is an important milestone. | Это важный этап.
+
+U a2u36 | Globe | Страны мира | Япония, Франция, столица
+W Japan | джэпэн | Япония | Have you been to Japan? | Ты был в Японии?
+W Germany | джёмэни | Германия | This car is from Germany. | Эта машина из Германии.
+W France | франс | Франция | We're going to France in May. | В мае мы едем во Францию.
+W Italy | итэли | Италия | Pizza is from Italy. | Пицца родом из Италии.
+W Spain | спэйн | Испания | Spain is very hot in summer. | Летом в Испании очень жарко.
+W Turkey | тёрки | Турция | Many Russians go to Turkey. | Многие россияне ездят в Турцию.
+W Thailand | тайлэнд | Таиланд | I have been to Thailand twice. | Я был в Таиланде дважды.
+W Malaysia | мэлэйжа | Малайзия | I have lived in Malaysia. | Я жил в Малайзии.
+W Hong Kong | хонг конг | Гонконг | Hong Kong is a busy city. | Гонконг — оживлённый город.
+W capital | кэпитл | столица; капитал | Tokyo is the capital of Japan. | Токио — столица Японии.
+
+X Обо мне | Профиль для деловой сети
+P I have worked in sales and marketing for more than ten years. I have lived in four countries: Russia, Korea, Malaysia and Hong Kong.
+P I have learned a lot about different cultures and business habits.
+P In 2019 I started my own agency. Since then, we have launched more than fifty projects, and our team has grown to twelve people.
+P Last year our agency won an award for the best digital campaign. I have never stopped learning, and now I'm improving my English.
+Q Сколько лет автор работает в продажах и маркетинге? | Больше десяти | Пять | Двадцать
+Q В скольких странах он жил? | В четырёх | В двух | В шести
+Q Сколько человек сейчас в команде? | Двенадцать | Пятьдесят | Четыре
+Q Что агентство получило в прошлом году? | Награду | Новый офис | Кредит
+
+M a2m7 | Работа и карьера | #b08a3e,#5a4214
+G have to, don't have to, need to
+T have to — «приходится, нужно» из-за обстоятельств: I have to work on Saturday. don't have to — «не обязательно» (а не «нельзя»). need to — «нужно», почти то же, что have to. В прошлом — had to.
+E I have to leave at five. = Мне нужно уйти в пять.
+E You don't have to come. = Тебе не обязательно приходить.
+E We needed to change the plan. = Нам нужно было изменить план.
+D I ___ to get up early tomorrow. = Завтра мне нужно рано встать. | have | has | must
+D She ___ to finish the report today. = Ей нужно закончить отчёт сегодня. | has | have | need
+D You ___ have to pay. It's free. = Платить не нужно. Это бесплатно. | don't | mustn't | aren't
+D Yesterday I ___ to work late. = Вчера мне пришлось работать допоздна. | had | have | must
+D Do we ___ to bring anything? = Нам нужно что-то принести? | need | needs | must
+D He doesn't ___ to come to the office. = Ему не обязательно приходить в офис. | have | has | had
+D ___ you have to work on Saturday? = Тебе нужно работать в субботу? | Do | Does | Are
+D We ___ to hire a new designer. = Нам нужно нанять нового дизайнера. | need | needs | must
+
+U a2u37 | Hire | Поиск работы | Собеседование, резюме, вакансия
+W interview | интэвью | собеседование, интервью | I have an interview tomorrow. | Завтра у меня собеседование.
+W apply | эплай | подавать заявку | I applied for the job. | Я откликнулся на вакансию.
+W resume | рэзюмэй | резюме | Send me your resume. | Пришли мне резюме.
+W hire | хайэр | нанимать | We need to hire a developer. | Нам нужно нанять разработчика.
+W fire | файэр | увольнять; огонь | He was fired last month. | Его уволили в прошлом месяце.
+W candidate | кэндидэйт | кандидат | We have three candidates. | У нас три кандидата.
+W position | пэзишн | должность, позиция | What position are you applying for? | На какую должность вы претендуете?
+W vacancy | вэйкэнси | вакансия | We have a vacancy in sales. | У нас есть вакансия в отделе продаж.
+W requirement | рикуайэмэнт | требование | What are the requirements? | Какие требования?
+W employee | имплойи | сотрудник | We have twenty employees. | У нас двадцать сотрудников.
+
+U a2u38 | Dept | Работа в компании | Отдел, смена, повышение
+W department | дипатмэнт | отдел | I work in the marketing department. | Я работаю в отделе маркетинга.
+W head of | хэд ов | руководитель (отдела) | She is head of sales. | Она руководитель отдела продаж.
+W responsible | риспонсэбл | ответственный | Who is responsible for this? | Кто за это отвечает?
+W shift | шифт | смена | I work the night shift. | Я работаю в ночную смену.
+W part-time | пат тайм | неполный день | She works part-time. | Она работает неполный день.
+W full-time | фул тайм | полный день | This is a full-time job. | Это работа на полный день.
+W overtime | оувэтайм | сверхурочно | I worked overtime yesterday. | Вчера я работал сверхурочно.
+W day off | дэй оф | выходной | Tomorrow is my day off. | Завтра у меня выходной.
+W promotion | прэмоушн | повышение (в должности) | She got a promotion. | Её повысили.
+W raise | рэйз | повышение зарплаты; поднимать | I asked for a raise. | Я попросил повысить зарплату.
+
+U a2u39 | Talk | Обсуждения | Согласен, предлагаю, объясни
+W discuss | дискас | обсуждать | Let's discuss the budget. | Давай обсудим бюджет.
+W agree | эгри | соглашаться | I agree with you. | Я с тобой согласен.
+W disagree | дисэгри | не соглашаться | I disagree with this plan. | Я не согласен с этим планом.
+W suggest | сэджэст | предлагать (идею) | I suggest a short break. | Предлагаю сделать короткий перерыв.
+W explain | иксплэйн | объяснять | Can you explain this? | Можешь это объяснить?
+W present | призэнт | представлять, презентовать | I'll present the results. | Я представлю результаты.
+W presentation | прэзэнтэйшн | презентация | My presentation is ready. | Моя презентация готова.
+W note | ноут | заметка, записка | Take notes, please. | Записывайте, пожалуйста.
+W summary | самэри | краткое изложение, итог | Send me a short summary. | Пришли мне краткий итог.
+W feedback | фидбэк | обратная связь | Thanks for the feedback. | Спасибо за обратную связь.
+
+U a2u40 | Pro | Качества сотрудника | Опытный, честный, гибкий
+W hard-working | хад уёркинг | трудолюбивый | She is very hard-working. | Она очень трудолюбивая.
+W experienced | икспириэнст | опытный | We need an experienced manager. | Нам нужен опытный менеджер.
+W creative | криэйтив | творческий, креативный | Our designer is very creative. | Наш дизайнер очень креативный.
+W polite | пэлайт | вежливый | Be polite with clients. | Будь вежлив с клиентами.
+W honest | онист | честный | He is an honest partner. | Он честный партнёр.
+W organized | оргэнайзд | организованный | I'm a very organized person. | Я очень организованный человек.
+W lazy | лэйзи | ленивый | Don't be lazy! | Не ленись!
+W confident | конфидэнт | уверенный | She is confident in meetings. | На встречах она уверена в себе.
+W flexible | флэксэбл | гибкий | We have flexible hours. | У нас гибкий график.
+W independent | индипэндэнт | самостоятельный, независимый | He is very independent. | Он очень самостоятельный.
+
+U a2u41 | Biz | Бизнес | Конкурент, риск, доход
+W owner | оунэр | владелец | He is the owner of the company. | Он владелец компании.
+W competitor | кэмпэтитэр | конкурент | Our competitor is cheaper. | Наш конкурент дешевле.
+W strategy | стрэтэджи | стратегия | We need a new strategy. | Нам нужна новая стратегия.
+W growth | гроус | рост | We expect strong growth. | Мы ожидаем сильного роста.
+W loss | лос | убыток, потеря | The company had a loss last year. | В прошлом году у компании был убыток.
+W risk | риск | риск | Every business has risks. | В любом бизнесе есть риски.
+W investment | инвэстмэнт | инвестиции, вложение | We need an investment. | Нам нужны инвестиции.
+W supplier | сэплайэр | поставщик | Our supplier is in China. | Наш поставщик в Китае.
+W agreement | эгримэнт | соглашение | We signed an agreement. | Мы подписали соглашение.
+W income | инкам | доход | Our income has grown. | Наш доход вырос.
+
+U a2u42 | Line | Деловой звонок | Соедините, подождите, перезвоню
+W speak to | спик ту | поговорить с | Can I speak to Mr. Lee? | Можно поговорить с мистером Ли?
+W hold on | хоулд он | подождите (не кладите трубку) | Hold on, please. | Подождите, пожалуйста.
+W put through | пут сру | соединить (по телефону) | I'll put you through. | Я вас соединю.
+W leave a message | лив э мэсидж | оставить сообщение | Can I leave a message? | Можно оставить сообщение?
+W extension | икстэншн | добавочный номер | My extension is 205. | Мой добавочный — 205.
+W who's calling | хуз колинг | кто звонит | Who's calling, please? | Кто звонит, подскажите?
+W get back to | гэт бэк ту | связаться позже, ответить | I'll get back to you tomorrow. | Я свяжусь с вами завтра.
+W connection | кэнэкшн | связь, соединение | The connection is bad. | Плохая связь.
+W hang up | хэнг ап | повесить трубку | Don't hang up! | Не вешайте трубку!
+W spell | спэл | произносить по буквам | Can you spell your name? | Можете продиктовать имя по буквам?
+
+X Мы нанимаем | Вакансия агентства
+P We are hiring! Our marketing agency in Novosibirsk needs a creative designer.
+P This is a full-time position, but you don't have to work in the office every day: two days a week you can work from home.
+P You have to be organized, and you need to have at least two years of experience. English is a plus.
+P We offer a good salary, flexible hours and a raise after six months. Please send your resume and three examples of your work to our email. We'll get back to you within a week.
+Q Кого ищет агентство? | Дизайнера | Водителя | Бухгалтера
+Q Сколько дней в неделю можно работать из дома? | Два | Каждый день | Ни одного
+Q Сколько нужно опыта? | Минимум два года | Опыт не нужен | Десять лет
+Q Что нужно отправить? | Резюме и три примера работ | Только фото | Диплом
+
+M a2m8 | Общение и эмоции | #3f6e9e,#1b3350
+G too, enough и наречия
+T too — «слишком», стоит перед прилагательным: too expensive. enough — «достаточно», стоит после прилагательного (big enough), но перед существительным (enough time). Наречия «как?» обычно получают -ly: quick → quickly. Исключения: good → well, fast → fast, hard → hard.
+E This hotel is too expensive. = Этот отель слишком дорогой.
+E The room is big enough. = Комната достаточно большая.
+E She speaks English very well. = Она очень хорошо говорит по-английски.
+D This coffee is ___ hot. I can't drink it. = Кофе слишком горячий, не могу пить. | too | enough | very much
+D Is the room big ___? = Комната достаточно большая? | enough | too | very
+D We don't have ___ time. = У нас недостаточно времени. | enough | too | too much of
+D He drives very ___. = Он водит очень осторожно. | carefully | careful | care
+D She speaks English ___. = Она хорошо говорит по-английски. | well | good | goodly
+D It's ___ late to call him. = Слишком поздно ему звонить. | too | enough | very much
+D Please speak more ___. = Пожалуйста, говорите медленнее. | slowly | slow | slowlier
+D I'm not old ___ to drive. = Я недостаточно взрослый, чтобы водить. | enough | too | very
+
+U a2u43 | Emo | Эмоции | Злой, рад, благодарен
+W angry | энгри | злой, сердитый | The client was angry. | Клиент был зол.
+W sad | сэд | грустный | Why are you sad? | Почему ты грустишь?
+W glad | глэд | рад | I'm glad to see you. | Рад тебя видеть.
+W upset | апсэт | расстроенный | She was upset about the news. | Она расстроилась из-за новостей.
+W scared | скэад | испуганный | The children were scared. | Дети испугались.
+W jealous | джэлэс | ревнивый, завидующий | He is jealous of his friend's success. | Он завидует успеху друга.
+W lonely | лоунли | одинокий | I felt lonely abroad. | За границей мне было одиноко.
+W embarrassed | имбэрэст | смущённый | I was embarrassed by my mistake. | Мне было неловко из-за ошибки.
+W grateful | грэйтфул | благодарный | I'm grateful for your help. | Я благодарен за твою помощь.
+W mood | муд | настроение | I'm in a good mood today. | Сегодня у меня хорошее настроение.
+
+U a2u44 | Chat | Разговор | Мнение, шутка, извиниться
+W conversation | конвэсэйшн | разговор | We had a long conversation. | У нас был долгий разговор.
+W chat | чэт | болтать; чат | Let's chat after the meeting. | Давай поболтаем после встречи.
+W opinion | эпиньэн | мнение | What's your opinion? | Какое у тебя мнение?
+W argue | агью | спорить | They argue a lot. | Они много спорят.
+W joke | джоук | шутка, шутить | That's a good joke! | Хорошая шутка!
+W laugh | лаф | смеяться | We laughed a lot. | Мы много смеялись.
+W smile | смайл | улыбка, улыбаться | Smile, please! | Улыбнитесь, пожалуйста!
+W shout | шаут | кричать | Please don't shout. | Пожалуйста, не кричи.
+W whisper | уиспэр | шептать | She whispered something. | Она что-то прошептала.
+W apologize | эполэджайз | извиняться | I apologize for the delay. | Приношу извинения за задержку.
+
+U a2u45 | Rel | Отношения | Доверие, поддержка, ладить
+W relationship | рилэйшншип | отношения | We have a good relationship with our clients. | У нас хорошие отношения с клиентами.
+W boyfriend | бойфрэнд | парень, молодой человек | Her boyfriend is from Spain. | Её парень из Испании.
+W girlfriend | гёлфрэнд | девушка (подруга) | His girlfriend is a designer. | Его девушка — дизайнер.
+W husband | хазбэнд | муж | Her husband works in a bank. | Её муж работает в банке.
+W trust | траст | доверие, доверять | Trust is very important. | Доверие очень важно.
+W respect | риспэкт | уважение, уважать | I respect my boss. | Я уважаю своего начальника.
+W support | сэпот | поддержка, поддерживать | Thanks for your support. | Спасибо за поддержку.
+W get on with | гэт он уиз | ладить с | I get on well with my colleagues. | Я хорошо лажу с коллегами.
+W fall in love | фол ин лав | влюбиться | They fell in love in Paris. | Они влюбились в Париже.
+W break up | брэйк ап | расстаться | They broke up last year. | Они расстались в прошлом году.
+
+U a2u46 | -ly | Как делать | Быстро, внимательно, громко
+W quickly | куикли | быстро | Please reply quickly. | Пожалуйста, ответь быстро.
+W carefully | кэафули | внимательно, осторожно | Read the contract carefully. | Внимательно прочитай договор.
+W easily | изили | легко | You can easily book online. | Можно легко забронировать онлайн.
+W badly | бэдли | плохо | The meeting went badly. | Встреча прошла плохо.
+W clearly | клиэли | ясно, чётко | Please speak clearly. | Говорите, пожалуйста, чётко.
+W quietly | куайэтли | тихо | He closed the door quietly. | Он тихо закрыл дверь.
+W loudly | лаудли | громко | Don't talk so loudly. | Не говори так громко.
+W politely | пэлайтли | вежливо | She answered politely. | Она ответила вежливо.
+W really | риэли | действительно, очень | I really like your idea. | Мне очень нравится твоя идея.
+W hard | хад | усердно; трудный, твёрдый | We work hard. | Мы усердно работаем.
+
+U a2u47 | Degr | Насколько | Слишком, довольно, почти
+W too | ту | слишком; тоже | It's too expensive. | Это слишком дорого.
+W enough | инаф | достаточно | Is it big enough? | Это достаточно большое?
+W very | вэри | очень | The hotel is very nice. | Отель очень хороший.
+W quite | куайт | довольно | It's quite cold today. | Сегодня довольно холодно.
+W a bit | э бит | немного, чуть-чуть | I'm a bit tired. | Я немного устал.
+W almost | олмоуст | почти | I'm almost ready. | Я почти готов.
+W only | оунли | только | I have only five minutes. | У меня только пять минут.
+W also | олсоу | также | I also speak Korean. | Я также говорю по-корейски.
+W even | ивн | даже | He even works on Sunday. | Он работает даже в воскресенье.
+W extremely | икстримли | чрезвычайно | This is extremely important. | Это чрезвычайно важно.
+
+U a2u48 | SMM | Соцсети | Пост, подписчик, канал
+W social media | соушл мидиа | соцсети | We advertise on social media. | Мы рекламируемся в соцсетях.
+W post | поуст | пост, публиковать | I posted a photo. | Я опубликовал фото.
+W follower | фолоуэр | подписчик | We have five thousand followers. | У нас пять тысяч подписчиков.
+W like | лайк | нравиться; лайк | Thanks for the like! | Спасибо за лайк!
+W comment | комэнт | комментарий | Leave a comment below. | Оставьте комментарий ниже.
+W share | шэа | делиться, репостить | Please share this post. | Пожалуйста, поделитесь этим постом.
+W channel | чэнл | канал | I have a Telegram channel. | У меня есть телеграм-канал.
+W subscribe | сэбскрайб | подписываться | Subscribe to our channel! | Подписывайтесь на наш канал!
+W video | видиоу | видео | We made a short video. | Мы сделали короткое видео.
+W content | контэнт | контент, содержание | Content is king. | Контент — король.
+
+X Записка новичку | Сообщение от коллеги
+P Hi Max! I'm really glad you joined our team. Don't be nervous, everyone here is friendly.
+P Our boss can look a bit serious, but she is very kind and always supports new people.
+P One piece of advice: reply to clients quickly and politely, even when they are angry.
+P And don't worry if you make mistakes. We all made a lot of mistakes in our first month. If you're not sure about something, just ask. We usually have lunch together at one, so join us! Kate
+Q Какая, по словам Кейт, начальница? | Строгая на вид, но добрая | Злая | Равнодушная
+Q Как отвечать клиентам? | Быстро и вежливо | Только письменно | Не чаще раза в неделю
+Q Что Кейт говорит про ошибки? | Не волноваться, у всех они были | Ошибаться нельзя | О них надо сразу сообщать начальнику
+Q Когда команда обедает? | В час | В двенадцать | Каждый ест отдельно

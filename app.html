@@ -1,0 +1,503 @@
+<title>Английский с нуля</title>
+<meta name="claude:viewport-fit-sides" content="cover">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Manrope:wght@400;500;600;700;800&family=Unbounded:wght@500;600;700&display=swap">
+<style>
+/*__BASECSS__*/
+.reading p{display:block;line-height:1.6;font-size:15.5px}
+.reading p .spk{vertical-align:middle;margin-left:4px}
+.listen-all{display:flex;align-items:center;gap:10px;font-weight:700;font-size:14px;color:var(--ink-soft)}
+/* ---------- levels & modules ---------- */
+.levels{display:flex;gap:6px;flex-wrap:wrap}
+.lv{border:1.5px solid var(--line);border-radius:12px;padding:5px 11px;font-weight:800;font-size:13px;color:var(--ink-soft);display:flex;align-items:center;gap:5px}
+.lv.on{background:var(--navy);border-color:var(--navy);color:var(--on-navy)}
+.lv.passed:not(.on){color:var(--good);border-color:var(--good)}
+.lv svg{width:12px;height:12px}
+.lvl-note{margin:2px 0 10px;font-size:13px;color:var(--ink-soft);max-width:60ch}
+.mods{display:flex;flex-direction:column;gap:10px}
+.mod{background:rgba(255,255,255,.45);border:1px solid rgba(255,255,255,.7);border-radius:22px;padding:4px 14px}
+.mod-h{width:100%;display:grid;grid-template-columns:minmax(0,1fr) auto;align-items:center;gap:10px;padding:12px 0;text-align:left}
+.mod-h .eyebrow{display:block;font-size:11px;font-weight:700;letter-spacing:.06em;text-transform:uppercase;color:var(--ink-soft)}
+.mod-h b{display:block;font-family:var(--f-display);font-weight:600;font-size:16px;margin-top:2px}
+.mod-h .meta{font-size:12.5px;font-weight:700;color:var(--ink-soft);font-variant-numeric:tabular-nums;display:flex;align-items:center;gap:6px}
+.mod-h .meta.full{color:var(--good)}
+.chev{transition:transform .2s;display:inline-flex}
+.mod.open .chev{transform:rotate(180deg)}
+.mod .units{border-top:1px solid var(--line)}
+.mod.planned{opacity:.72}
+.mod.planned .mod-h{cursor:default}
+.again{font-weight:700;font-size:12.5px;color:var(--ink-soft);border:1.5px solid var(--line);border-radius:12px;padding:7px 10px;display:flex;gap:5px;align-items:center}
+.again.full{color:var(--good);border-color:#9fd3b6}
+.again svg{width:14px;height:14px}
+.badge.gr{font-family:var(--f-body);font-weight:800;font-size:12px;letter-spacing:.02em}
+.testrow{margin-top:12px;background:var(--navy);color:var(--on-navy);border-radius:22px;padding:14px;display:grid;grid-template-columns:50px minmax(0,1fr) auto;gap:14px;align-items:center}
+.testrow .badge{background:linear-gradient(160deg,var(--gold),var(--gold-deep));color:var(--gold-ink);font-family:var(--f-body);font-weight:800}
+.testrow b{display:block;font-size:15.5px}
+.testrow .s{font-size:12.5px;color:var(--on-navy-soft)}
+.testrow .ghostbtn{border:1.5px solid var(--glass-line);border-radius:14px;padding:8px 12px;font-weight:700;font-size:13px}
+.gap{display:inline-block;min-width:64px;border-bottom:3px solid var(--navy);margin:0 4px;text-align:center;color:var(--navy)}
+.gap.ok{border-color:var(--good);color:var(--good)} .gap.no{border-color:var(--bad);color:var(--bad)}
+.hint{color:var(--ink-soft);font-size:15px;margin:-4px 0 0}
+.score{font-family:var(--f-display);font-size:44px;font-weight:600;line-height:1}
+</style>
+
+<div class="app" id="app"></div>
+
+<script>
+const COURSE = /*__COURSE__*/null;
+
+/* ===================== INDEX ===================== */
+const LEVELS = COURSE.levels, PLANNED = COURSE.planned;
+const ALL_LV = [...LEVELS.map(l=>l.id), ...PLANNED.map(l=>l.id)];
+const BYID = {}, ALL = [];
+LEVELS.forEach(lv=>lv.modules.forEach((m,mi)=>{
+  m.level=lv.id; m.n=mi+1; m.bg=`linear-gradient(145deg,${m.colors[0]},${m.colors[1]})`;
+  m.units.forEach(u=>{u.mod=m; u.words.forEach(w=>{w.unit=u.id; w.mod=m.id; w.level=lv.id; BYID[w.id]=w; ALL.push(w)})});
+}));
+const GOAL=50, LESSON_SIZE=5, TEST_LEN=20, PASS=80;
+
+/* ===================== STATE ===================== */
+const KEY='english-zero-v1';
+/* ---- Telegram Mini App: облачное хранение прогресса ---- */
+const TG=(window.Telegram&&window.Telegram.WebApp&&window.Telegram.WebApp.initData)?window.Telegram.WebApp:null;
+const CLOUD=TG&&TG.CloudStorage&&TG.isVersionAtLeast&&TG.isVersionAtLeast('6.9')?TG.CloudStorage:null;
+const TG_USER=TG&&TG.initDataUnsafe&&TG.initDataUnsafe.user||null;
+function load(){try{return JSON.parse(localStorage.getItem(KEY))}catch(e){return null}}
+let cloudTimer=null;
+function save(){S.ts=Date.now();try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){} if(CLOUD){clearTimeout(cloudTimer);cloudTimer=setTimeout(cloudSave,1200)}}
+function packState(st){
+  const l=Object.entries(st.learned).map(([id,e])=>[id,e.iv,Math.round(e.ef*100),e.reps,e.due].join(':')).join(';');
+  return JSON.stringify({...st,learned:undefined,l});
+}
+function unpackState(str){
+  const o=JSON.parse(str), learned={};
+  (o.l||'').split(';').filter(Boolean).forEach(r=>{const [id,iv,ef,reps,due]=r.split(':');learned[id]={iv:+iv,ef:+ef/100,reps:+reps,due:+due}});
+  delete o.l; o.learned=learned; return o;
+}
+const cs=(fn,...a)=>new Promise(res=>{try{CLOUD[fn](...a,(err,v)=>res(err?null:v))}catch(e){res(null)}});
+let cloudChunks=0;
+async function cloudSave(){
+  const str=packState(S), parts=[];
+  for(let i=0;i<str.length;i+=3800) parts.push(str.slice(i,i+3800));
+  await Promise.all(parts.map((p,i)=>cs('setItem','p'+i,p)));
+  await cs('setItem','meta',JSON.stringify({n:parts.length,ts:S.ts}));
+  if(cloudChunks>parts.length){const old=[];for(let i=parts.length;i<cloudChunks;i++)old.push('p'+i);await cs('removeItems',old)}
+  cloudChunks=parts.length;
+}
+async function cloudLoad(){
+  const raw=await cs('getItem','meta'); if(!raw) return;
+  let meta; try{meta=JSON.parse(raw)}catch(e){return}
+  cloudChunks=meta.n;
+  if((S.ts||0)>=meta.ts) return;
+  const keys=[...Array(meta.n)].map((_,i)=>'p'+i), got=await cs('getItems',keys); if(!got) return;
+  try{
+    const st=unpackState(keys.map(k=>got[k]||'').join(''));
+    S=Object.assign({learned:{},xp:0,days:{},gram:{},texts:{},passed:{},lvl:null,open:{}},st);
+    S.learned=Object.fromEntries(Object.entries(S.learned).filter(([id])=>BYID[id]));
+    try{localStorage.setItem(KEY,JSON.stringify(S))}catch(e){}
+    if(view!=='lesson') render();
+  }catch(e){}
+}
+let S = Object.assign({learned:{},xp:0,days:{},gram:{},texts:{},passed:{},lvl:null,open:{}}, load()||{});
+S.learned = Object.fromEntries(Object.entries(S.learned).filter(([id])=>BYID[id]));
+
+function dkey(d=new Date()){return d.getFullYear()+'-'+String(d.getMonth()+1).padStart(2,'0')+'-'+String(d.getDate()).padStart(2,'0')}
+function dnum(k=dkey()){return Math.round(new Date(k+'T00:00:00').getTime()/864e5)}
+const todayXP=()=>S.days[dkey()]||0;
+function addXP(n){S.xp+=n;const k=dkey();S.days[k]=(S.days[k]||0)+n;save()}
+function streak(){let d=new Date(),n=0;if(!S.days[dkey(d)])d.setDate(d.getDate()-1);while(S.days[dkey(d)]){n++;d.setDate(d.getDate()-1)}return n}
+const learnedCount=()=>Object.keys(S.learned).length;
+const unitDone=u=>u.words.filter(w=>S.learned[w.id]).length;
+function dueIds(){const t=dnum();return Object.keys(S.learned).filter(id=>S.learned[id].due<=t)}
+
+/* course order: grammar → units for each module */
+function items(lv){return lv.modules.flatMap(m=>[{t:'grammar',m},...m.units.map(u=>({t:'unit',u,m})),...(m.text?[{t:'text',m}]:[])])}
+const itemDone=it=>it.t==='grammar'?!!S.gram[it.m.id]:it.t==='text'?!!S.texts[it.m.id]:unitDone(it.u)===it.u.words.length;
+function levelOpen(id){const i=ALL_LV.indexOf(id);return i===0||!!S.passed[ALL_LV[i-1]]}
+function currentItem(lv){return items(lv).find(it=>!itemDone(it))||null}
+function isUnlocked(lv,it){const list=items(lv),i=list.findIndex(x=>x.t===it.t&&(x.u||x.m)===(it.u||it.m));return levelOpen(lv.id)&&list.slice(0,i).every(itemDone)}
+function activeLevel(){
+  if(S.lvl&&ALL_LV.includes(S.lvl)) return S.lvl;
+  const open=LEVELS.filter(l=>levelOpen(l.id)); return (open[open.length-1]||LEVELS[0]).id;
+}
+function nextAction(){
+  for(const lv of LEVELS){ if(!levelOpen(lv.id)) break; const c=currentItem(lv); if(c) return {lv,it:c}; if(!S.passed[lv.id]) return {lv,it:{t:'test'}}; }
+  return null;
+}
+
+/* ===================== HELPERS ===================== */
+const esc=s=>String(s).replace(/[&<>"']/g,c=>({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;',"'":'&#39;'}[c]));
+const shuffle=a=>{a=a.slice();for(let i=a.length-1;i>0;i--){const j=Math.floor(Math.random()*(i+1));[a[i],a[j]]=[a[j],a[i]]}return a};
+function plural(n,a,b,c){const m=n%10,h=n%100;return (m===1&&h!==11)?a:(m>=2&&m<=4&&(h<10||h>=20))?b:c}
+const TTS='speechSynthesis' in window;
+function speak(t){
+  if(!TTS) return;
+  try{speechSynthesis.cancel();const u=new SpeechSynthesisUtterance(t);u.lang='en-US';u.rate=.85;
+    const v=speechSynthesis.getVoices().find(v=>/^en[-_]US/i.test(v.lang));if(v)u.voice=v;speechSynthesis.speak(u)}catch(e){}
+}
+const svg=(p,s=20,w=2.2)=>`<svg width="${s}" height="${s}" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="${w}" stroke-linecap="round" stroke-linejoin="round">${p}</svg>`;
+const SPK='<path d="M4 9h4l5-4v14l-5-4H4z"/><path d="M16.5 8.5a5 5 0 0 1 0 7M19 6a8.5 8.5 0 0 1 0 12"/>';
+const I={
+ back:svg('<path d="M19 12H5M11 6l-6 6 6 6"/>'), spk:svg(SPK,18), spkXL:svg(SPK,38,2),
+ loop:svg('<path d="M20 11a8 8 0 0 0-14.5-4.5L4 8M4 4v4h4M4 13a8 8 0 0 0 14.5 4.5L20 16M20 20v-4h-4"/>'),
+ lock:svg('<rect x="5" y="11" width="14" height="10" rx="2.5"/><path d="M8 11V8a4 4 0 0 1 8 0v3"/>',18),
+ check:svg('<path d="M5 12.5l4.5 4.5L19 7.5"/>',18,2.6),
+ chev:svg('<path d="M6 9l6 6 6-6"/>',18),
+ star:'<svg width="40" height="40" viewBox="0 0 24 24" fill="currentColor"><path d="M12 2.8l2.8 5.8 6.3.9-4.6 4.4 1.1 6.3L12 17.2l-5.6 3 1.1-6.3L2.9 9.5l6.3-.9z"/></svg>'
+};
+const spkBtn=(t,cls='')=>TTS?`<button class="spk ${cls}" data-act="say" data-t="${esc(t)}" aria-label="Послушать">${cls==='xl'?I.spkXL:I.spk}</button>`:'';
+
+/* ===================== ROUTER ===================== */
+const app=document.getElementById('app');
+let view='home', L=null, R=null, confirmReset=false;
+function go(v){view=v;if(v==='review')R=null;confirmReset=false;render();window.scrollTo(0,0)}
+function tgBack(){if(!TG||!TG.BackButton)return;try{(view==='lesson'||view==='done')?TG.BackButton.show():TG.BackButton.hide()}catch(e){}}
+function render(){tgBack();
+  if(view==='lesson') app.innerHTML=lessonHTML();
+  else if(view==='done') app.innerHTML=doneHTML();
+  else app.innerHTML=(view==='home'?homeHTML():view==='review'?reviewHTML():statsHTML())+navHTML();
+  const st=L&&view==='lesson'&&L.steps[L.i];
+  if(st&&st.t==='listen'&&!st.played){st.played=true;setTimeout(()=>speak(st.w.en),250)}
+}
+function navHTML(){
+  const d=dueIds().length, b=(v,t,x='')=>`<button class="${view===v?'on':''}" data-act="tab" data-v="${v}"><span>${t}${x}</span></button>`;
+  return `<nav class="nav">${b('home','Главная')}${b('review','Повторение',d?`<span class="dotn">${d}</span>`:'')}${b('stats','Прогресс')}</nav>`;
+}
+
+/* ===================== HOME ===================== */
+function rowHTML(lv,it,cur){
+  const m=it.m, lock=!isUnlocked(lv,it), done=itemDone(it), isCur=cur&&cur.t===it.t&&(cur.u||cur.m)===(it.u||it.m);
+  if(it.t==='grammar'){
+    const right=isCur?`<button class="pill" data-act="grammar" data-m="${m.id}">Начать</button>`
+      :done?`<button class="again full" data-act="grammar" data-m="${m.id}">${I.check}Ещё раз</button>`:`<span class="cnt">${I.lock}</span>`;
+    return `<li class="unit ${lock&&!done?'locked':''}"><span class="badge gr" style="background:${m.bg}">Gr</span>
+      <div><b>Грамматика</b><span class="s">${esc(m.grammar.title)}</span></div>${right}</li>`;
+  }
+  if(it.t==='text'){
+    const tx=m.text, right=isCur?`<button class="pill" data-act="text" data-m="${m.id}">Читать</button>`
+      :done?`<button class="again full" data-act="text" data-m="${m.id}">${I.check}Ещё раз</button>`:`<span class="cnt">${I.lock}</span>`;
+    return `<li class="unit ${lock&&!done?'locked':''}"><span class="badge gr" style="background:${m.bg}">Txt</span>
+      <div><b>Текст: ${esc(tx.title)}</b><span class="s">${esc(tx.sub)} · ${tx.qs.length} вопроса</span></div>${right}</li>`;
+  }
+  const u=it.u, d=unitDone(u), n=u.words.length;
+  const right=isCur?`<button class="pill" data-act="unit" data-u="${u.id}">${d?'Дальше':'Начать'}</button>`
+    :done?`<button class="again full" data-act="unit" data-u="${u.id}">${I.check}${d}/${n}</button>`
+    :lock?`<span class="cnt">${I.lock}</span>`:`<button class="again" data-act="unit" data-u="${u.id}">${d}/${n}</button>`;
+  return `<li class="unit ${lock&&!d?'locked':''}"><span class="badge" style="background:${m.bg}">${esc(u.tag)}</span>
+    <div><b>${esc(u.title)}</b><span class="s">${esc(u.sub)}</span><div class="bar"><i style="width:${d/n*100}%"></i></div></div>${right}</li>`;
+}
+function courseHTML(lvId){
+  const lv=LEVELS.find(l=>l.id===lvId);
+  if(!lv){
+    const p=PLANNED.find(l=>l.id===lvId), i=ALL_LV.indexOf(lvId);
+    return `<p class="lvl-note">${p.name} · около ${p.words} новых слов. Уровень сейчас в разработке и откроется после теста ${ALL_LV[i-1]}.</p>
+    <div class="mods">${p.modules.map((m,k)=>`<div class="mod planned"><div class="mod-h"><span><span class="eyebrow">Модуль ${k+1}</span><b>${esc(m.title)}</b></span><span class="meta">${I.lock}</span></div>
+      <p style="margin:0 0 12px;font-size:13px;color:var(--ink-soft)">Грамматика: ${esc(m.grammar)}</p></div>`).join('')}</div>`;
+  }
+  const cur=levelOpen(lv.id)?currentItem(lv):null, list=items(lv);
+  const total=lv.modules.reduce((s,m)=>s+m.units.length*10,0), got=ALL.filter(w=>w.level===lv.id&&S.learned[w.id]).length;
+  const curMod=cur?cur.m.id:null;
+  const mods=lv.modules.map(m=>{
+    const its=list.filter(x=>x.m===m), dn=its.filter(itemDone).length, open=S.open[m.id]??(m.id===curMod);
+    return `<div class="mod ${open?'open':''}">
+      <button class="mod-h" data-act="toggle" data-m="${m.id}" aria-expanded="${open}"><span><span class="eyebrow">Модуль ${m.n}</span><b>${esc(m.title)}</b></span>
+      <span class="meta ${dn===its.length?'full':''}">${dn}/${its.length}<span class="chev">${I.chev}</span></span></button>
+      ${open?`<ul class="units">${its.map(it=>rowHTML(lv,it,cur)).join('')}</ul>`:''}</div>`;
+  }).join('');
+  const passed=S.passed[lv.id], allDone=!cur;
+  const testBtn=passed?`<span class="cnt full" style="color:#8fe0b4">${I.check}${passed}%</span>`
+    :allDone?`<button class="pill" data-act="test" data-l="${lv.id}">Пройти</button>`
+    :`<button class="ghostbtn" data-act="test" data-l="${lv.id}">Проверить</button>`;
+  return `<p class="lvl-note">${lv.name} · ${got}/${total} слов. ${levelOpen(lv.id)?'':'Откроется после теста предыдущего уровня.'}</p>
+    <div class="mods">${mods}</div>
+    ${levelOpen(lv.id)?`<div class="testrow"><span class="badge">${lv.id}</span><div><b>Тест уровня ${lv.id}</b><span class="s">${passed?'Сдан. Следующий уровень открыт.':allDone?`${TEST_LEN} вопросов, нужно ${PASS}%`:'Уже знаешь? Сдай тест и перейди дальше'}</span></div>${testBtn}</div>`:''}`;
+}
+function homeHTML(){
+  const st=streak(), tx=todayXP(), due=dueIds().length, lvId=activeLevel(), next=nextAction();
+  const chips=ALL_LV.map(id=>`<button class="lv ${id===lvId?'on':''} ${S.passed[id]?'passed':''}" data-act="lvl" data-l="${id}">${levelOpen(id)?'':I.lock}${id}</button>`).join('');
+  const nxtLv=next?next.lv.id:LEVELS[LEVELS.length-1].id, after=ALL_LV[ALL_LV.indexOf(nxtLv)+1];
+  return `
+  <header class="top pad">
+    <div class="hello"><div class="ava">${esc(TG_USER&&TG_USER.first_name?TG_USER.first_name[0].toUpperCase():'EN')}</div><p class="muted">${TG_USER&&TG_USER.first_name?`Привет, ${esc(TG_USER.first_name)}!`:'Привет!'}</p><h1>Английский с нуля</h1></div>
+    <div class="glass streak"><span class="lbl">Серия</span>
+      <span class="big">${st} <small>${plural(st,'день','дня','дней')}</small></span>
+      <span class="sub">${tx?`+${tx} XP сегодня`:'Сегодня ещё не занимался'}</span>
+      <span class="vert">${nxtLv}${after?' → '+after:''}</span></div>
+  </header>
+  <div class="row pad">
+    <button class="glass review-btn ${due?'has':''}" data-act="tab" data-v="review"><span class="circ">${I.loop}</span>
+      <span><b>Повторить</b><small>${due?`${due} ${plural(due,'слово','слова','слов')}`:'пока нечего'}</small></span></button>
+    <div class="glass goal"><div><span class="lbl">Слов</span><b>${learnedCount()}</b></div><div class="sep"></div>
+      <div><span class="lbl">Цель дня</span><b>${Math.min(tx,GOAL)}/${GOAL}</b></div></div>
+  </div>
+  <section class="sheet"><div class="pad">
+    <div class="sheet-head" style="padding:0"><h2>Курс</h2><div class="levels">${chips}</div></div>
+    ${courseHTML(lvId)}
+  </div></section>`;
+}
+
+/* ===================== EXERCISES ===================== */
+const root=s=>s.toLowerCase().split(/[ ,(]/)[0];
+function distract(w,field,n=3){
+  const ok=x=>x.id!==w.id&&x.en!==w.en&&root(x.ru)!==root(w.ru);
+  const pool=shuffle(ALL.filter(ok));
+  const near=pool.filter(x=>x.unit===w.unit), mod=pool.filter(x=>x.mod===w.mod&&x.unit!==w.unit), far=pool.filter(x=>x.mod!==w.mod);
+  const out=[], seen=new Set([root(w.ru),w[field].toLowerCase()]);
+  for(const x of [...near,...mod,...far]){const k1=root(x.ru),k2=x[field].toLowerCase();if(seen.has(k1)||seen.has(k2))continue;seen.add(k1);seen.add(k2);out.push(x[field]);if(out.length===n)break}
+  return out;
+}
+function makeEx(t,w){
+  if(t==='listen'&&!TTS) t='pick';
+  if(t==='build'){
+    const toks=w.exEn.split(' ');
+    if(toks.length<3||toks.length>8) t='pick';
+    else{let o=shuffle(toks.map((x,i)=>i));if(o.every((x,i)=>x===i))o.reverse();return {t,w,toks,order:o,ans:[]}}
+  }
+  const field=t==='pick'?'ru':'en', right=w[field];
+  return {t,w,opts:shuffle([right,...distract(w,field)]),right};
+}
+const makeGap=d=>({t:'gap',d,opts:shuffle([d.right,...d.wrong]),right:d.right});
+const reEsc=s=>s.replace(/[.*+?^${}()|[\]\\]/g,'\\$&');
+function clozeOf(w){const re=new RegExp('(^|[^A-Za-z])('+reEsc(w.en)+')(?![A-Za-z])','i');const m=w.exEn.match(re);return m?w.exEn.replace(re,'$1___'):null}
+function makeCloze(w){const q=w.level!=='A1'&&clozeOf(w);if(!q)return makeEx('reverse',w);return {t:'cloze',w,q,opts:shuffle([w.en,...distract(w,'en')]),right:w.en}}
+function startText(mid){
+  const m=ALL_MODS[mid], tx=m.text;
+  const qs=tx.qs.map(q=>({t:'tq',q:q.q,opts:shuffle([q.right,...q.wrong]),right:q.right}));
+  L={kind:'text',title:'Текст',m,words:[],steps:[{t:'read',m},...qs],i:0,state:null,correct:0,asked:0,xp:0};
+  go('lesson');
+}
+
+function startUnit(uid){
+  const u=ALL_UNITS[uid], fresh=u.words.filter(w=>!S.learned[w.id]).slice(0,LESSON_SIZE);
+  const practice=!fresh.length, words=practice?shuffle(u.words).slice(0,6):fresh;
+  const steps=practice?[]:fresh.map(w=>({t:'learn',w}));
+  const ex=[]; words.forEach((w,i)=>{ex.push(makeEx('pick',w));ex.push(i%2?makeEx('listen',w):(w.level==='A1'?makeEx('reverse',w):makeCloze(w)))});
+  shuffle(words).slice(0,2).forEach(w=>ex.push(makeEx('build',w)));
+  steps.push(...shuffle(ex));
+  L={kind:practice?'practice':'unit',title:u.title,u,words:fresh,steps,i:0,state:null,correct:0,asked:0,xp:0};
+  go('lesson');
+}
+function startGrammar(mid){
+  const m=ALL_MODS[mid];
+  L={kind:'grammar',title:'Грамматика',m,words:[],steps:[{t:'rule',m},...shuffle(m.grammar.drills).map(makeGap)],i:0,state:null,correct:0,asked:0,xp:0};
+  go('lesson');
+}
+function startTest(lid){
+  const lv=LEVELS.find(l=>l.id===lid), ws=shuffle(ALL.filter(w=>w.level===lid)).slice(0,14);
+  const ds=shuffle(lv.modules.flatMap(m=>m.grammar.drills)).slice(0,TEST_LEN-ws.length);
+  const steps=shuffle([...ws.map(w=>makeEx(Math.random()<.5?'pick':'reverse',w)),...ds.map(makeGap)]);
+  L={kind:'test',title:'Тест '+lid,lv,words:[],steps,i:0,state:null,correct:0,asked:0,xp:0,noRetry:true};
+  go('lesson');
+}
+const ALL_UNITS={}, ALL_MODS={};
+LEVELS.forEach(l=>l.modules.forEach(m=>{ALL_MODS[m.id]=m;m.units.forEach(u=>ALL_UNITS[u.id]=u)}));
+
+/* ===================== LESSON VIEW ===================== */
+function lessonHTML(){
+  const st=L.steps[L.i];
+  return `<header class="pad">
+    <div class="shead"><button class="circle-btn" data-act="exit" aria-label="Выйти">${I.back}</button><h1>${esc(L.title)}</h1><span class="chip">${L.i+1}/${L.steps.length}</span></div>
+    <div class="progress"><i style="width:${L.i/L.steps.length*100}%"></i></div></header>
+    <section class="sheet flex"><div class="stage pad">${stepHTML(st)}</div></section>`;
+}
+function footHTML(st){
+  if(st.t==='rule') return `<div class="foot"><button class="btn gold" data-act="next">К упражнениям</button></div>`;
+  if(st.t==='learn') return `<div class="foot"><button class="btn gold" data-act="next">Дальше</button></div>`;
+  if(st.t==='read') return `<div class="foot"><button class="btn gold" data-act="next">К вопросам</button></div>`;
+  if(!L.state) return st.t==='build'?`<div class="foot"><button class="btn gold" data-act="checkBuild" ${st.ans.length?'':'disabled'}>Проверить</button></div>`:'';
+  const ok=L.state==='ok';
+  let detail;
+  if(st.t==='gap') detail=st.d.q.replace('___',st.d.right);
+  else if(st.t==='cloze') detail=st.w.exEn+' — '+st.w.ru;
+  else if(st.t==='tq') detail=st.right;
+  else if(st.t==='build') detail=st.w.exEn;
+  else detail=st.w.en+' — '+st.w.ru;
+  const xp=L.kind==='test'?'':` +${st.retry?5:10} XP`;
+  return `<div class="foot"><div class="fb ${ok?'ok':'no'}">${ok?'Верно!'+xp:'Почти. Правильно так:'}<small>${esc(detail)}</small></div>
+    <button class="btn ${ok?'gold':'navy'}" data-act="next">Дальше</button></div>`;
+}
+function optsHTML(st){
+  return `<div class="opts">${st.opts.map(o=>{let c='';if(L.state){if(o===st.right)c='ok';else if(o===st.chosen)c='no'}
+    return `<button class="opt ${c}" data-act="answer" data-o="${esc(o)}" ${L.state?'disabled':''}>${esc(o)}</button>`}).join('')}</div>`;
+}
+function stepHTML(st){
+  if(st.t==='rule'){
+    const g=st.m.grammar;
+    return `<p class="q-label">Модуль ${st.m.n} · ${esc(st.m.title)}</p>
+    <div class="gram"><h3>${esc(g.title)}</h3><p>${esc(g.text)}</p>
+      <ul>${g.ex.map(e=>`<li><b>${esc(e[0])} ${spkBtn(e[0],'sm')}</b><span>${esc(e[1])}</span></li>`).join('')}</ul></div>${footHTML(st)}`;
+  }
+  if(st.t==='read'){
+    const tx=st.m.text, all=tx.paras.join(' ');
+    return `<p class="q-label">Текст · ${esc(st.m.title)}</p><div class="gram reading"><h3>${esc(tx.title)}</h3>
+      <div class="listen-all">${spkBtn(all)}<span>${TTS?'Слушать весь текст':''}</span></div>
+      ${tx.paras.map(p=>`<p>${esc(p)} ${spkBtn(p,'sm')}</p>`).join('')}</div>
+      <p class="hint">Прочитай или прослушай, а потом ответь на ${tx.qs.length} вопроса.</p>${footHTML(st)}`;
+  }
+  if(st.t==='cloze'){
+    const [a,b]=st.q.split('___'), fill=L.state?`<span class="gap ${L.state}">${esc(st.chosen)}</span>`:'<span class="gap">&nbsp;</span>';
+    return `<p class="q-label">Вставь слово</p><p class="prompt" style="font-size:22px;display:block">${esc(a)}${fill}${esc(b)}</p>
+      <p class="hint">${esc(st.w.exRu)}</p>${optsHTML(st)}${footHTML(st)}`;
+  }
+  if(st.t==='tq'){
+    return `<p class="q-label">Вопрос по тексту · ${esc(L.m.text.title)}</p><p class="prompt" style="font-size:21px">${esc(st.q)}</p>
+      <div class="opts" style="grid-template-columns:1fr">${optsHTML(st).replace('<div class="opts">','').replace(/<\/div>$/,'')}</div>${footHTML(st)}`;
+  }
+  if(st.t==='learn'){
+    const w=st.w;
+    return `<p class="q-label">Новое слово</p><div class="wcard">
+      <div class="word">${esc(w.en)} ${spkBtn(w.en)}</div>${w.tr?`<div class="tr">[${esc(w.tr)}] · примерное звучание</div>`:`<div class="tr">${TTS?'Нажми на динамик, чтобы послушать':''}</div>`}
+      <div class="ru">${esc(w.ru)}</div>
+      <div class="ex"><span class="en">${esc(w.exEn)} ${spkBtn(w.exEn,'sm')}</span><span class="rus">${esc(w.exRu)}</span></div></div>${footHTML(st)}`;
+  }
+  if(st.t==='gap'){
+    const [a,b]=st.d.q.split('___'), fill=L.state?`<span class="gap ${L.state}">${esc(st.chosen)}</span>`:'<span class="gap">&nbsp;</span>';
+    return `<p class="q-label">Вставь пропуск</p><p class="prompt" style="font-size:23px;display:block">${esc(a)}${fill}${esc(b)}</p>
+      <p class="hint">${esc(st.d.ru)}</p>${optsHTML(st)}${footHTML(st)}`;
+  }
+  if(st.t==='build'){
+    const ans=st.ans.map((ti,k)=>`<button class="tok" data-act="unpick" data-k="${k}" ${L.state?'disabled':''}>${esc(st.toks[ti])}</button>`).join('');
+    const bank=st.order.map(ti=>`<button class="tok ${st.ans.includes(ti)?'used':''}" data-act="pickTok" data-ti="${ti}" ${L.state?'disabled':''}>${esc(st.toks[ti])}</button>`).join('');
+    return `<p class="q-label">Собери фразу</p><p class="prompt" style="font-size:22px">${esc(st.w.exRu)}</p>
+      <div class="answer">${ans}</div><div class="bank">${bank}</div>${footHTML(st)}`;
+  }
+  const label={pick:'Как переводится?',reverse:'Выбери перевод',listen:'Что прозвучало?'}[st.t];
+  const head=st.t==='pick'?`<p class="prompt">${esc(st.w.en)} ${L.kind==='test'?'':spkBtn(st.w.en)}</p>`
+    :st.t==='reverse'?`<p class="prompt">${esc(st.w.ru)}</p>`:spkBtn(st.w.en,'xl');
+  return `<p class="q-label">${label}</p>${head}${optsHTML(st)}${footHTML(st)}`;
+}
+function grade(ok){
+  const st=L.steps[L.i];
+  L.asked++; L.state=ok?'ok':'no';
+  if(TG&&TG.HapticFeedback){try{TG.HapticFeedback.notificationOccurred(ok?'success':'error')}catch(e){}}
+  if(ok){L.correct++; if(L.kind!=='test'){const g=st.retry?5:10;L.xp+=g;addXP(g)} if(st.w&&st.t!=='build'&&L.kind!=='test')speak(st.t==='cloze'?st.w.exEn:st.w.en)}
+  else if(!L.noRetry&&!st.retry){const c=st.t==='gap'?makeGap(st.d):st.t==='tq'?{...st,opts:shuffle(st.opts),chosen:null}:st.t==='cloze'?makeCloze(st.w):makeEx(st.t,st.w);c.retry=true;L.steps.push(c)}
+  render();
+}
+function nextStep(){
+  L.state=null; L.i++;
+  if(L.i>=L.steps.length) return finish();
+  render(); window.scrollTo(0,0);
+}
+function finish(){
+  const t=dnum();
+  if(L.kind==='unit') L.words.forEach(w=>{if(!S.learned[w.id])S.learned[w.id]={iv:1,ef:2.5,reps:1,due:t+1}});
+  if(L.kind==='grammar') S.gram[L.m.id]=true;
+  if(L.kind==='text') S.texts[L.m.id]=true;
+  if(L.kind==='test'){
+    L.score=Math.round(L.correct/L.asked*100);
+    if(L.score>=PASS){S.passed[L.lv.id]=Math.max(S.passed[L.lv.id]||0,L.score);addXP(50);L.xp=50}
+  } else {const b=L.kind==='practice'?5:20;addXP(b);L.xp+=b}
+  save(); view='done'; render(); window.scrollTo(0,0);
+}
+function doneHTML(){
+  const acc=L.asked?Math.round(L.correct/L.asked*100):100, next=nextAction();
+  const nextBtn=next?`<button class="btn gold" data-act="${next.it.t==='unit'?'unit':next.it.t}" data-m="${next.it.m?next.it.m.id:''}" data-u="${next.it.u?next.it.u.id:''}" data-l="${next.lv.id}">Следующий шаг</button>`:'';
+  let title, sub, body='';
+  if(L.kind==='test'){
+    const pass=L.score>=PASS, nx=ALL_LV[ALL_LV.indexOf(L.lv.id)+1];
+    title=pass?`Уровень ${L.lv.id} сдан`:'Пока не хватает';
+    sub=pass?(nx?`Открыт уровень ${nx}.`:'Это последний готовый уровень.'):`Нужно ${PASS}%. Повтори слабые модули и попробуй снова.`;
+    body=`<div class="empty" style="margin-bottom:18px"><span class="score">${L.score}%</span><p>${L.correct} из ${L.asked} верно</p></div>`;
+  } else if(L.kind==='grammar'){ title='Правило разобрано'; sub=`${esc(L.m.grammar.title)} · ${acc}% верно`; }
+  else if(L.kind==='text'){ title='Текст прочитан'; sub=`${esc(L.m.text.title)} · ${acc}% верно`; }
+  else if(L.kind==='practice'){ title='Повторено'; sub=`${esc(L.u.title)} · ${acc}% верно`; }
+  else { title='Урок пройден'; sub=`${L.words.length} ${plural(L.words.length,'новое слово','новых слова','новых слов')} уже в повторении на завтра`;
+    body=`<ul class="wlist">${L.words.map(w=>`<li>${spkBtn(w.en,'sm')||'<span></span>'}<div><b>${esc(w.en)}</b><span>${esc(w.ru)}</span></div></li>`).join('')}</ul>`; }
+  return `<header class="pad done-hero"><div class="medal">${I.star}</div><h1>${title}</h1><p class="muted" style="margin:0">${sub}</p></header>
+  ${L.kind==='test'?'':`<div class="tiles pad"><div class="glass tile"><span class="lbl">Получено</span><b>+${L.xp} XP</b></div><div class="glass tile"><span class="lbl">Точность</span><b>${acc}%</b></div></div>`}
+  <section class="sheet"><div class="pad">${body}
+    <div style="display:flex;flex-direction:column;gap:10px">${nextBtn}<button class="btn ghost" data-act="tab" data-v="home">На главную</button></div>
+  </div></section>`;
+}
+
+/* ===================== REVIEW (SM-2) ===================== */
+function nextIv(e,g){if(g===0)return 0;if(g===1)return Math.max(1,Math.round(e.iv*1.2));if(g===2)return e.reps<=1?3:Math.round(e.iv*e.ef);return Math.round((e.reps<=1?4:e.iv*e.ef)*1.3)}
+const ivLabel=n=>n===0?'сейчас':n<30?`${n} д`:`${Math.round(n/30)} мес`;
+function reviewHTML(){
+  if(!R) R={q:shuffle(dueIds()).slice(0,30),shown:false,done:0,flip:Math.random()<.5};
+  const next=nextAction(); let body;
+  const nextBtn=next?`<button class="btn gold" style="margin-top:8px" data-act="tab" data-v="home">К курсу</button>`:'';
+  if(!R.q.length){
+    const ids=Object.keys(S.learned);
+    if(!ids.length) body=`<div class="empty"><h3>Здесь появятся твои слова</h3><p>Пройди первый урок. Каждое новое слово вернётся сюда в нужный день.</p>${nextBtn}</div>`;
+    else{const nx=Math.min(...ids.map(id=>S.learned[id].due))-dnum();
+      body=`<div class="empty"><h3>${R.done?`Повторено: ${R.done}`:'На сегодня всё'}</h3><p>Следующее повторение ${nx<=1?'завтра':`через ${nx} ${plural(nx,'день','дня','дней')}`}. А пока можно пройти новый урок.</p>${nextBtn}</div>`}
+  } else {
+    const w=BYID[R.q[0]], e=S.learned[w.id];
+    const back=`<div class="ex"><span class="en">${esc(w.en)} ${spkBtn(w.en,'sm')}</span><span class="rus">${w.tr?`[${esc(w.tr)}] · `:''}${esc(w.ru)}</span>
+      <span class="en" style="margin-top:8px;font-size:15px">${esc(w.exEn)}</span><span class="rus">${esc(w.exRu)}</span></div>`;
+    body=`<p class="q-label">${R.flip?'Вспомни по-английски':'Вспомни перевод'} · осталось ${R.q.length}</p>
+      <div class="flash"><div class="word" style="justify-content:center">${R.flip?esc(w.ru):esc(w.en)} ${R.flip?'':spkBtn(w.en)}</div>${R.shown?back:''}</div>
+      <div class="foot">${R.shown?`<div class="grades">${['Забыл','Трудно','Хорошо','Легко'].map((t,g)=>`<button class="grade g${g}" data-act="rate" data-g="${g}">${t}<small>${ivLabel(nextIv(e,g))}</small></button>`).join('')}</div>`
+        :`<button class="btn gold" data-act="show">Показать ответ</button>`}</div>`;
+  }
+  return `<header class="pad"><div class="shead"><span></span><h1>Повторение</h1><span class="chip">${dueIds().length}</span></div></header>
+    <section class="sheet flex"><div class="stage pad">${body}</div></section>`;
+}
+function rate(g){
+  const id=R.q.shift(), e=S.learned[id], t=dnum();
+  if(g===0){e.ef=Math.max(1.3,e.ef-.2);e.iv=1;e.reps=0;e.due=t;R.q.push(id)}
+  else{e.iv=nextIv(e,g);if(g===1)e.ef=Math.max(1.3,e.ef-.15);if(g===3)e.ef+=.15;e.reps++;e.due=t+e.iv;R.done++;addXP(5)}
+  save();R.shown=false;R.flip=Math.random()<.5;render();
+}
+
+/* ===================== STATS ===================== */
+function statsHTML(){
+  const n=learnedCount(), strong=Object.values(S.learned).filter(e=>e.iv>=21).length;
+  const days=[...Array(7)].map((_,i)=>{const d=new Date();d.setDate(d.getDate()-6+i);return d});
+  const vals=days.map(d=>S.days[dkey(d)]||0), max=Math.max(GOAL,...vals), names=['Вс','Пн','Вт','Ср','Чт','Пт','Сб'];
+  const lv=LEVELS.find(l=>l.id===activeLevel())||LEVELS[0], list=items(lv);
+  return `<header class="pad"><div class="shead"><span></span><h1>Прогресс</h1><span></span></div></header>
+  <div class="tiles pad">
+    <div class="glass tile"><span class="lbl">Всего XP</span><b>${S.xp}</b></div>
+    <div class="glass tile"><span class="lbl">Серия</span><b>${streak()} ${plural(streak(),'день','дня','дней')}</b></div>
+    <div class="glass tile"><span class="lbl">Выучено слов</span><b>${n}</b></div>
+    <div class="glass tile"><span class="lbl">Закреплено</span><b>${strong}</b></div>
+  </div>
+  <section class="sheet"><div class="pad">
+    <div class="week"><h3>XP за неделю · цель ${GOAL} в день</h3>
+      <div class="bars">${vals.map((v,i)=>`<div class="${i===6?'today':''}"><span>${v||''}</span><i style="height:${v/max*85}%"></i></div>`).join('')}</div>
+      <div class="days">${days.map(d=>`<span>${names[d.getDay()]}</span>`).join('')}</div></div>
+    <div class="ulist"><h3>Уровень ${lv.id} по модулям</h3>${lv.modules.map(m=>{const its=list.filter(x=>x.m===m),d=its.filter(itemDone).length;
+      return `<div class="urow"><b>${m.n}. ${esc(m.title)}</b><span>${d}/${its.length}</span><div class="bar"><i style="width:${d/its.length*100}%"></i></div></div>`}).join('')}</div>
+    <div class="reset">${confirmReset?`<div class="confirm"><span>Стереть весь прогресс?</span><button class="btn navy" style="width:auto" data-act="doReset">Да, стереть</button><button style="width:auto" class="btn ghost" data-act="cancelReset">Отмена</button></div>`
+      :`<button data-act="askReset">Сбросить прогресс</button>`}</div>
+    <p style="text-align:center;font-size:12px;color:var(--ink-soft);margin:14px 0 0">«Закреплено» — слова с интервалом повторения от 21 дня</p>
+  </div></section>`;
+}
+
+/* ===================== EVENTS ===================== */
+app.addEventListener('click',ev=>{
+  const b=ev.target.closest('[data-act]'); if(!b||b.disabled) return;
+  const a=b.dataset.act, st=L&&L.steps[L.i];
+  if(a==='say') return speak(b.dataset.t);
+  if(a==='tab') return go(b.dataset.v);
+  if(a==='lvl'){S.lvl=b.dataset.l;save();return render()}
+  if(a==='toggle'){const m=b.dataset.m,cur=b.parentElement.classList.contains('open');S.open[m]=!cur;save();return render()}
+  if(a==='unit') return startUnit(b.dataset.u);
+  if(a==='grammar') return startGrammar(b.dataset.m);
+  if(a==='text') return startText(b.dataset.m);
+  if(a==='test') return startTest(b.dataset.l);
+  if(a==='exit'){L=null;return go('home')}
+  if(a==='next') return nextStep();
+  if(a==='answer'){st.chosen=b.dataset.o;return grade(st.chosen===st.right)}
+  if(a==='pickTok'){st.ans.push(+b.dataset.ti);return render()}
+  if(a==='unpick'){st.ans.splice(+b.dataset.k,1);return render()}
+  if(a==='checkBuild') return grade(st.ans.map(i=>st.toks[i]).join(' ')===st.toks.join(' '));
+  if(a==='show'){R.shown=true;if(R.flip)speak(BYID[R.q[0]].en);return render()}
+  if(a==='rate') return rate(+b.dataset.g);
+  if(a==='askReset'){confirmReset=true;return render()}
+  if(a==='cancelReset'){confirmReset=false;return render()}
+  if(a==='doReset'){S={learned:{},xp:0,days:{},gram:{},texts:{},passed:{},lvl:null,open:{}};save();return go('home')}
+});
+if(TTS){try{speechSynthesis.getVoices()}catch(e){}}
+if(TG){
+  try{TG.ready();TG.expand();TG.setHeaderColor('#1d3760');TG.setBackgroundColor('#0f1f3a')}catch(e){}
+  try{if(TG.isVersionAtLeast('7.7'))TG.disableVerticalSwipes()}catch(e){}
+  try{TG.BackButton.onClick(()=>{L=null;go('home')})}catch(e){}
+}
+render();
+if(CLOUD) cloudLoad();
+</script>

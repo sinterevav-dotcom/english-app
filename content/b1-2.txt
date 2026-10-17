@@ -1,0 +1,493 @@
+# B1 Intermediate, модули 5–8
+
+M b1m5 | Технологии и медиа | #5f8a4e,#2b4a25
+G Пассивный залог
+T Пассивный залог нужен, когда важны действие или результат, а не тот, кто это сделал. Формула: to be в нужном времени + третья форма глагола. The app is used by 10,000 people. The website was launched in 2023. The report will be sent tomorrow. Исполнителя при необходимости вводим через by.
+E English is spoken all over the world. = На английском говорят по всему миру.
+E Our office was opened in 2019. = Наш офис открылся в 2019 году.
+E The results will be announced on Monday. = Результаты объявят в понедельник.
+D The app ___ by thousands of people every day. = Приложением пользуются тысячи людей каждый день. | is used | uses | is using
+D This website ___ in 2023. = Этот сайт был запущен в 2023 году. | was launched | launched | is launched
+D The new version ___ next week. = Новая версия выйдет на следующей неделе. | will be released | will release | is releasing
+D The emails ___ automatically. = Письма отправляются автоматически. | are sent | send | are sending
+D The meeting ___ cancelled because of the storm. = Встречу отменили из-за шторма. | was | is being | has
+D Our product ___ in China. = Наш продукт производится в Китае. | is made | makes | is making
+D Has the invoice ___ yet? = Счёт уже оплачен? | been paid | paid | being paid
+D The office ___ cleaned every evening. = Офис убирают каждый вечер. | is | was being | has
+
+U b1u29 | Web | Интернет и устройства | Войти, уведомление, резервная копия
+W browser | браузер | Open the link in your browser. | Открой ссылку в браузере.
+W search engine | поисковик | Google is the most popular search engine. | Google — самый популярный поисковик.
+W log in | войти (в аккаунт) | I can't log in to my account. | Не могу войти в аккаунт.
+W sign up | зарегистрироваться | Sign up for free. | Зарегистрируйтесь бесплатно.
+W settings | настройки | Change it in the settings. | Поменяй это в настройках.
+W notification | уведомление | I turned off notifications. | Я отключил уведомления.
+W install | устанавливать | Install the latest version. | Установи последнюю версию.
+W screenshot | скриншот | Send me a screenshot. | Пришли мне скриншот.
+W backup | резервная копия | Always make a backup. | Всегда делай резервную копию.
+W storage | хранилище, место для хранения | I need more cloud storage. | Мне нужно больше места в облаке.
+W wireless | беспроводной | These are wireless headphones. | Это беспроводные наушники.
+W battery | батарея, аккумулятор | My battery is almost dead. | У меня почти сел телефон.
+
+U b1u30 | Press | СМИ | Статья, заголовок, источник
+W newspaper | газета | I rarely read newspapers. | Я редко читаю газеты.
+W journalist | журналист | A journalist called our office. | В наш офис позвонил журналист.
+W article | статья | I read an interesting article about AI. | Я прочитал интересную статью про ИИ.
+W headline | заголовок | The headline was very loud. | Заголовок был очень громким.
+W broadcast | транслировать, трансляция | The match is broadcast live. | Матч транслируют в прямом эфире.
+W audience | аудитория | Who is your target audience? | Кто ваша целевая аудитория?
+W source | источник | Always check the source. | Всегда проверяй источник.
+W fake news | фейковые новости | Fake news spreads fast. | Фейки распространяются быстро.
+W publish | публиковать | The interview was published yesterday. | Интервью опубликовали вчера.
+W editor | редактор | The editor changed the title. | Редактор поменял заголовок.
+W podcast | подкаст | I listen to podcasts in the car. | Я слушаю подкасты в машине.
+W coverage | освещение (в СМИ) | The event got a lot of media coverage. | Событие широко освещали в СМИ.
+
+U b1u31 | Sec | Безопасность в сети | Хакер, мошенничество, доступ
+W hacker | хакер | A hacker got into the system. | Хакер проник в систему.
+W virus | вирус | My laptop has a virus. | В моём ноутбуке вирус.
+W secure | защищённый, надёжный | Is this website secure? | Этот сайт защищён?
+W privacy | конфиденциальность | We respect your privacy. | Мы уважаем вашу конфиденциальность.
+W personal data | персональные данные | Never share your personal data. | Никогда не делитесь персональными данными.
+W scam | мошенничество, развод | This email is a scam. | Это письмо — мошенничество.
+W spam | спам | The message went to spam. | Сообщение попало в спам.
+W block | блокировать; квартал | I blocked that number. | Я заблокировал этот номер.
+W delete | удалять | Delete the old files. | Удали старые файлы.
+W encrypt | шифровать | All messages are encrypted. | Все сообщения зашифрованы.
+W verify | проверять, подтверждать | Please verify your email address. | Подтвердите, пожалуйста, адрес почты.
+W access | доступ, получать доступ | I don't have access to this folder. | У меня нет доступа к этой папке.
+
+U b1u32 | Make | Производство | Завод, оборудование, изобретение
+W produce | производить | The factory produces furniture. | Фабрика производит мебель.
+W manufacture | производить (на заводе) | These parts are manufactured in Korea. | Эти детали производятся в Корее.
+W factory | фабрика, завод | We visited the factory. | Мы побывали на заводе.
+W equipment | оборудование | The equipment is very expensive. | Оборудование очень дорогое.
+W process | процесс | The process takes two weeks. | Процесс занимает две недели.
+W material | материал | We use natural materials. | Мы используем натуральные материалы.
+W design | дизайн, проектировать | We designed the logo ourselves. | Мы сами разработали логотип.
+W prototype | прототип | The prototype is ready. | Прототип готов.
+W test | тестировать, тест | We tested the app with real users. | Мы протестировали приложение на реальных пользователях.
+W invent | изобретать | Who invented the telephone? | Кто изобрёл телефон?
+W invention | изобретение | It's a useful invention. | Это полезное изобретение.
+W patent | патент | The company has ten patents. | У компании десять патентов.
+
+U b1u33 | Dev | Разработка продукта | Функция, баг, автоматизировать
+W feature | функция, особенность | The app has a new feature. | В приложении новая функция.
+W bug | ошибка (в программе), баг | We found a bug. | Мы нашли баг.
+W release | выпускать, релиз | The update was released today. | Обновление вышло сегодня.
+W user-friendly | удобный для пользователя | The interface is very user-friendly. | Интерфейс очень удобный.
+W interface | интерфейс | We changed the interface. | Мы поменяли интерфейс.
+W code | код | The code is clean. | Код чистый.
+W beta | бета-версия | The beta is open for testing. | Бета-версия открыта для тестирования.
+W workflow | рабочий процесс | AI has changed our workflow. | ИИ изменил наш рабочий процесс.
+W integrate | интегрировать | We integrated the bot with our CRM. | Мы интегрировали бота с CRM.
+W automate | автоматизировать | Let's automate this task. | Давай автоматизируем эту задачу.
+W platform | платформа | Which platform do you use? | Какой платформой вы пользуетесь?
+W tool | инструмент | This is a great tool for marketers. | Это отличный инструмент для маркетологов.
+
+U b1u34 | Sci | Наука | Учёный, открытие, вывод
+W science | наука | I love popular science books. | Я люблю научно-популярные книги.
+W scientist | учёный | Scientists have found a new planet. | Учёные нашли новую планету.
+W experiment | эксперимент | Let's do a small experiment. | Давай проведём небольшой эксперимент.
+W discover | открывать, обнаруживать | We discovered a new market. | Мы открыли для себя новый рынок.
+W discovery | открытие | It was an important discovery. | Это было важное открытие.
+W laboratory | лаборатория | She works in a laboratory. | Она работает в лаборатории.
+W prove | доказывать | Can you prove it? | Можешь это доказать?
+W analyze | анализировать | We analyzed the data. | Мы проанализировали данные.
+W method | метод | This method works well. | Этот метод хорошо работает.
+W conclusion | вывод, заключение | What's your conclusion? | Какой твой вывод?
+W space | космос; пространство | I'd love to fly to space. | Я бы хотел полететь в космос.
+W planet | планета | We have only one planet. | У нас только одна планета.
+
+U b1u35 | Ads | Реклама | Кампания, аудитория, охват
+W advertise | рекламировать | We advertise on Telegram. | Мы рекламируемся в Телеграме.
+W advertisement | рекламное объявление | We saw your advertisement online. | Мы увидели вашу рекламу в интернете.
+W commercial | рекламный ролик; коммерческий | The commercial was very funny. | Рекламный ролик был очень смешным.
+W campaign | кампания | The campaign starts in May. | Кампания стартует в мае.
+W target audience | целевая аудитория | Our target audience is small business owners. | Наша целевая аудитория — владельцы малого бизнеса.
+W slogan | слоган | We need a short slogan. | Нам нужен короткий слоган.
+W banner | баннер | The banner is on the main page. | Баннер на главной странице.
+W promote | продвигать | We promote brands online. | Мы продвигаем бренды в интернете.
+W sponsor | спонсор, спонсировать | The bank sponsored the festival. | Банк спонсировал фестиваль.
+W influencer | блогер, инфлюенсер | We work with local influencers. | Мы работаем с местными блогерами.
+W reach | охват; достигать | The post had a reach of fifty thousand. | Охват поста — пятьдесят тысяч.
+W click | клик, кликать | Click the link below. | Нажмите на ссылку ниже.
+
+X Как делается подкаст | Рассказ о проекте компании
+P Our company podcast was launched two years ago. Today it is listened to by about fifteen thousand people every month.
+P Each episode is planned two weeks in advance. Guests are invited from different industries, and the questions are prepared by our editor.
+P The interviews are recorded in a small studio in our office and then edited by a freelancer. After that, short clips are published on social media to promote the episode.
+P Last month our podcast was mentioned in a big business magazine. We were thrilled: we had never been noticed by national media before.
+Q Сколько человек слушают подкаст в месяц? | Около пятнадцати тысяч | Около тысячи | Около ста тысяч
+Q Кто готовит вопросы? | Редактор | Гости | Фрилансер
+Q Где записывают интервью? | В небольшой студии в офисе | Дома у гостей | В радиостудии
+Q Что случилось в прошлом месяце? | Подкаст упомянули в крупном деловом журнале | Подкаст закрыли | Сменился редактор
+
+M b1m6 | Продажи и переговоры | #8a5a9c,#43275a
+G Косвенная речь
+T Когда передаём чужие слова, время обычно «сдвигается» на шаг назад: "I am busy" → He said (that) he was busy. "We will call" → They said they would call. Вопрос превращается в утверждение: "Do you need help?" → She asked if I needed help. Просьба — через to: He asked me to send the file. said — без адресата, told — с адресатом: told me.
+E He said he was interested. = Он сказал, что ему интересно.
+E She told me the price had changed. = Она сказала мне, что цена изменилась.
+E The client asked if we could start in May. = Клиент спросил, можем ли мы начать в мае.
+D "I'm busy." → He said he ___ busy. = Он сказал, что занят. | was | is | will be
+D "We will send it." → They said they ___ send it. = Они сказали, что отправят. | would | will | are
+D She ___ me that the meeting was cancelled. = Она сказала мне, что встречу отменили. | told | said | asked
+D He ___ that he liked our offer. = Он сказал, что ему нравится наше предложение. | said | told | asked
+D The client asked ___ we could give a discount. = Клиент спросил, можем ли мы дать скидку. | if | that | what
+D "Call me tomorrow." → He asked me ___ him the next day. = Он попросил позвонить ему на следующий день. | to call | call | calling
+D "We have signed the contract." → They said they ___ the contract. = Они сказали, что подписали договор. | had signed | have signed | signs
+D She asked me where I ___. = Она спросила, где я работаю. | worked | did work | do work
+
+U b1u36 | Sales | Продажи | Лид, питч, воронка
+W lead | потенциальный клиент, лид | We got twenty new leads this week. | На этой неделе у нас двадцать новых лидов.
+W prospect | перспективный клиент; перспектива | He is a good prospect. | Он перспективный клиент.
+W pitch | презентация продукта, питч | I have five minutes for my pitch. | У меня пять минут на питч.
+W cold call | холодный звонок | I hate making cold calls. | Терпеть не могу холодные звонки.
+W close a deal | закрыть сделку | We closed a deal with a big client. | Мы закрыли сделку с крупным клиентом.
+W deal | сделка | It's a good deal. | Это выгодная сделка.
+W target | цель, план (продаж) | We hit our sales target. | Мы выполнили план продаж.
+W commission | комиссия, процент | Sales managers get a commission. | Менеджеры по продажам получают процент.
+W upsell | допродажа, допродавать | Try to upsell a premium package. | Попробуй допродать премиум-пакет.
+W objection | возражение | How do you handle objections? | Как ты работаешь с возражениями?
+W conversion | конверсия | Our conversion rate is three percent. | Наша конверсия — три процента.
+W pipeline | воронка (сделок) | We have a strong pipeline for next month. | На следующий месяц у нас хорошая воронка.
+
+U b1u37 | Nego | Переговоры | Компромисс, уступка, отклонить
+W negotiate | вести переговоры | We negotiated for three hours. | Мы вели переговоры три часа.
+W negotiation | переговоры | The negotiation went well. | Переговоры прошли хорошо.
+W compromise | компромисс | We found a compromise. | Мы нашли компромисс.
+W counteroffer | встречное предложение | They made a counteroffer. | Они сделали встречное предложение.
+W concession | уступка | We made a small concession on price. | Мы немного уступили в цене.
+W bargain | торговаться; выгодная покупка | It's normal to bargain at the market. | На рынке принято торговаться.
+W agree on | договориться о | We agreed on the price. | Мы договорились о цене.
+W win-win | взаимовыгодный | Let's find a win-win solution. | Давайте найдём взаимовыгодное решение.
+W walk away | отказаться от сделки, уйти | Be ready to walk away. | Будь готов отказаться от сделки.
+W bottom line | минимальная цена; итог | What's your bottom line? | Какая ваша минимальная цена?
+W propose | предлагать (официально) | I propose a six-month contract. | Предлагаю контракт на полгода.
+W reject | отклонять | They rejected our offer. | Они отклонили наше предложение.
+
+U b1u38 | Price | Цены и условия | Доступный, разумный, рассрочка
+W affordable | доступный по цене | We offer affordable prices. | У нас доступные цены.
+W reasonable | разумный | The price is reasonable. | Цена разумная.
+W overpriced | слишком дорогой | This hotel is overpriced. | Этот отель неоправданно дорогой.
+W value for money | соотношение цены и качества | It's good value for money. | Хорошее соотношение цены и качества.
+W fee | плата, гонорар | There's a small fee for delivery. | За доставку небольшая плата.
+W charge | брать плату | We don't charge for consultations. | Мы не берём плату за консультации.
+W installment | платёж в рассрочку | You can pay in installments. | Можно оплатить в рассрочку.
+W total | итого, общий | The total is five thousand. | Итого пять тысяч.
+W VAT | НДС | Prices include VAT. | Цены включают НДС.
+W price list | прайс-лист | Here is our price list. | Вот наш прайс-лист.
+W wholesale | оптовый, оптом | We sell wholesale. | Мы продаём оптом.
+W retail | розничный, розница | The retail price is higher. | Розничная цена выше.
+
+U b1u39 | Said | Глаголы речи | Упомянуть, признать, настаивать
+W mention | упоминать | He mentioned your name. | Он упомянул твоё имя.
+W claim | утверждать | They claim they're the best. | Они утверждают, что они лучшие.
+W admit | признавать | I admit it was my mistake. | Признаю, это была моя ошибка.
+W deny | отрицать | He denied everything. | Он всё отрицал.
+W insist | настаивать | She insisted on paying. | Она настояла на том, чтобы заплатить.
+W announce | объявлять | They announced a new product. | Они объявили о новом продукте.
+W inform | сообщать, информировать | Please inform us about any changes. | Пожалуйста, сообщайте нам о любых изменениях.
+W point out | указывать на | She pointed out a mistake. | Она указала на ошибку.
+W add | добавлять | He added that the price was final. | Он добавил, что цена окончательная.
+W refer to | ссылаться на | I'm referring to your last email. | Я ссылаюсь на ваше последнее письмо.
+W state | заявлять; состояние | The contract clearly states the price. | В договоре чётко указана цена.
+W express | выражать | It's hard to express in words. | Это трудно выразить словами.
+
+U b1u40 | CRM | Работа с клиентом | Потребности, удержать, репутация
+W account manager | менеджер по работе с клиентами | Your account manager is Maria. | Ваш менеджер — Мария.
+W needs | потребности | We start by studying the client's needs. | Мы начинаем с изучения потребностей клиента.
+W tailor | адаптировать под | We tailor every offer to the client. | Мы адаптируем каждое предложение под клиента.
+W long-term | долгосрочный | We want long-term relationships. | Мы хотим долгосрочных отношений.
+W retain | удерживать | It's cheaper to retain clients than to find new ones. | Удерживать клиентов дешевле, чем искать новых.
+W attract | привлекать | How do you attract customers? | Как вы привлекаете клиентов?
+W personal approach | индивидуальный подход | Clients value a personal approach. | Клиенты ценят индивидуальный подход.
+W reputation | репутация | Reputation is everything. | Репутация — это всё.
+W word of mouth | сарафанное радио | Most clients come by word of mouth. | Большинство клиентов приходят по сарафанному радио.
+W testimonial | отзыв-рекомендация | Can we use your testimonial on our website? | Можно разместить ваш отзыв на сайте?
+W case study | кейс | Here is a case study from our work. | Вот кейс из нашей работы.
+W partnership | партнёрство | We're proud of our partnership. | Мы гордимся нашим партнёрством.
+
+U b1u41 | Win | Убеждение | Выгода, преимущество, подчеркнуть
+W persuade | уговаривать | She persuaded me to stay. | Она уговорила меня остаться.
+W convince | убеждать (в правоте) | You've convinced me. | Ты меня убедил.
+W argument | аргумент; спор | That's a strong argument. | Это сильный аргумент.
+W benefit | выгода, польза | What are the benefits for the client? | Какая выгода для клиента?
+W advantage | преимущество | Speed is our main advantage. | Скорость — наше главное преимущество.
+W disadvantage | недостаток | The only disadvantage is the price. | Единственный недостаток — цена.
+W unique | уникальный | Our approach is unique. | Наш подход уникален.
+W competitive | конкурентный, конкурентоспособный | We offer competitive prices. | У нас конкурентные цены.
+W emphasize | подчёркивать | I want to emphasize one point. | Хочу подчеркнуть один момент.
+W highlight | выделять, главный момент | Let me highlight the main results. | Позвольте выделить главные результаты.
+W impress | впечатлять | The demo impressed the client. | Демонстрация впечатлила клиента.
+W appeal to | привлекать, нравиться | This offer appeals to young people. | Это предложение нравится молодёжи.
+
+U b1u42 | Dial | Звонки и автообзвон | Скрипт, диктор, отклик
+W script | сценарий, скрипт | The script is thirty seconds long. | Скрипт длится тридцать секунд.
+W caller | звонящий | The caller didn't leave a name. | Звонивший не оставил имени.
+W recording | запись | Listen to the recording. | Послушай запись.
+W announcer | диктор | The announcer has a warm voice. | У диктора тёплый голос.
+W voicemail | голосовая почта | I left a voicemail. | Я оставил голосовое сообщение.
+W dial | набирать номер | Dial zero for the operator. | Наберите ноль, чтобы связаться с оператором.
+W call back | перезвонить | Can you call back in an hour? | Можете перезвонить через час?
+W press | нажимать; пресса | Press one to learn more. | Нажмите один, чтобы узнать больше.
+W response rate | процент отклика | The response rate was four percent. | Отклик составил четыре процента.
+W database | база данных | We clean the database before each campaign. | Мы чистим базу перед каждой кампанией.
+W opt out | отказаться (от рассылки) | Customers can opt out at any time. | Клиенты могут отказаться в любой момент.
+W robocall | автоматический звонок | Nobody likes long robocalls. | Никто не любит длинные автозвонки.
+
+X Отчёт о встрече | Переговоры с логистической компанией
+P Yesterday I met the director of a logistics company. At first, he said he wasn't interested in an autodial campaign because he had tried one before and it hadn't worked.
+P I asked him what had gone wrong. He told me that the script had been too long and the announcer had sounded like a robot.
+P I explained that we write short scripts and work with professional announcers. I also showed him a case study with a response rate of four percent.
+P In the end, he said he would think about it and asked me to send a proposal by Friday. He also mentioned that the budget was limited, so we might need to compromise on the price.
+Q Почему директор сначала отказался? | Прошлый автообзвон не сработал | Ему не нужны клиенты | Он не любит рекламу
+Q Что пошло не так в прошлый раз? | Скрипт был длинным, диктор звучал как робот | Звонили ночью | Не было базы номеров
+Q Что показал Алекс? | Кейс с откликом 4% | Рекламное видео | Отзывы в соцсетях
+Q О чём попросил директор? | Прислать предложение до пятницы | Позвонить через год | Снизить цену вдвое
+
+M b1m7 | Деньги и бизнес | #b08a3e,#5a4214
+G who, which, that, whose, where
+T Придаточные определительные уточняют, о ком или о чём речь. who — для людей, which — для вещей, that — для тех и других в разговорной речи, whose — «чей», where — «где». The client who called yesterday… The app which we launched… The city where I grew up…
+E She's the manager who hired me. = Это менеджер, который меня нанял.
+E This is the report that you asked for. = Вот отчёт, который ты просил.
+E That's the company whose CEO spoke at the conference. = Это компания, чей гендиректор выступал на конференции.
+D The man ___ called you is my partner. = Человек, который тебе звонил, — мой партнёр. | who | which | whose
+D This is the app ___ we developed last year. = Это приложение, которое мы разработали в прошлом году. | which | who | where
+D That's the office ___ I work. = Это офис, где я работаю. | where | which | who
+D She's the designer ___ work won an award. = Это дизайнер, чья работа получила награду. | whose | who | which
+D The product ___ we sell most is a chatbot. = Продукт, который мы продаём чаще всего, — чат-бот. | that | who | where
+D I know a person ___ can help you. = Я знаю человека, который может тебе помочь. | who | which | whose
+D Novosibirsk is the city ___ I live. = Новосибирск — город, где я живу. | where | which | that
+D The money ___ we earned went into marketing. = Деньги, которые мы заработали, ушли в маркетинг. | that | who | whose
+
+U b1u43 | Fin | Финансы компании | Выручка, маржа, квартал
+W revenue | выручка | Our revenue grew by twenty percent. | Наша выручка выросла на двадцать процентов.
+W expense | расход | Rent is our biggest expense. | Аренда — наш самый большой расход.
+W cash flow | денежный поток | Cash flow is more important than profit. | Денежный поток важнее прибыли.
+W turnover | оборот; текучка (кадров) | The company has a turnover of ten million. | Оборот компании — десять миллионов.
+W margin | маржа | The margin on this product is low. | Маржа на этом продукте низкая.
+W break even | выйти на безубыточность | We broke even in the first year. | Мы вышли в ноль в первый год.
+W profitable | прибыльный | The project is very profitable. | Проект очень прибыльный.
+W balance sheet | баланс (бухгалтерский) | The accountant prepared the balance sheet. | Бухгалтер подготовил баланс.
+W accountant | бухгалтер | Our accountant works remotely. | Наш бухгалтер работает удалённо.
+W audit | аудит, проверка | The audit is next month. | Аудит в следующем месяце.
+W quarter | квартал; четверть | Sales were strong in the last quarter. | Продажи в прошлом квартале были высокими.
+W annual | годовой, ежегодный | Here is our annual report. | Вот наш годовой отчёт.
+
+U b1u44 | Pay | Банк и платежи | Перевод, выписка, банкомат
+W transfer | перевод, переводить | I'll make a bank transfer today. | Я сделаю банковский перевод сегодня.
+W withdraw | снимать (деньги) | I need to withdraw some cash. | Мне нужно снять наличные.
+W balance | остаток, баланс | Check your balance. | Проверь остаток на счёте.
+W payment | платёж, оплата | We received your payment. | Мы получили ваш платёж.
+W transaction | операция, транзакция | The transaction failed. | Операция не прошла.
+W credit card | кредитная карта | Can I pay by credit card? | Можно оплатить кредитной картой?
+W ATM | банкомат | Is there an ATM nearby? | Здесь есть банкомат рядом?
+W online banking | онлайн-банк | I do everything through online banking. | Я всё делаю через онлайн-банк.
+W statement | выписка; заявление | Can I get a bank statement? | Можно получить выписку по счёту?
+W overdraft | овердрафт | We use an overdraft in difficult months. | В трудные месяцы мы пользуемся овердрафтом.
+W branch | отделение, филиал | The bank has a branch near my office. | У банка есть отделение рядом с моим офисом.
+W PIN | ПИН-код | Never tell anyone your PIN. | Никогда никому не сообщай свой ПИН-код.
+
+U b1u45 | Corp | Структура компании | Штаб-квартира, акционер, слияние
+W headquarters | штаб-квартира | The headquarters is in Singapore. | Штаб-квартира в Сингапуре.
+W subsidiary | дочерняя компания | We are a subsidiary of a big group. | Мы дочерняя компания крупной группы.
+W CEO | гендиректор | The CEO will speak first. | Первым выступит гендиректор.
+W board | совет директоров; доска | The board approved the plan. | Совет директоров одобрил план.
+W shareholder | акционер | The shareholders are happy. | Акционеры довольны.
+W stake | доля | He has a ten percent stake in the company. | У него десять процентов в компании.
+W merger | слияние | The merger was announced yesterday. | О слиянии объявили вчера.
+W acquisition | приобретение (компании) | It was their biggest acquisition. | Это было их крупнейшее приобретение.
+W founder | основатель | She is the founder of the agency. | Она основательница агентства.
+W co-founder | сооснователь | My co-founder handles finance. | Мой сооснователь отвечает за финансы.
+W hierarchy | иерархия | The company has a flat hierarchy. | В компании плоская иерархия.
+W management | руководство, управление | Management decided to cut costs. | Руководство решило сократить расходы.
+
+U b1u46 | Econ | Экономика | Инфляция, спрос, отрасль
+W economy | экономика | The economy is growing slowly. | Экономика растёт медленно.
+W economic | экономический | It was an economic crisis. | Это был экономический кризис.
+W inflation | инфляция | Inflation is about eight percent. | Инфляция около восьми процентов.
+W crisis | кризис | We survived the crisis. | Мы пережили кризис.
+W recession | рецессия, спад | Many companies closed during the recession. | Во время рецессии многие компании закрылись.
+W demand | спрос; требовать | There's high demand for AI services. | На услуги ИИ высокий спрос.
+W industry | отрасль, промышленность | I work in the advertising industry. | Я работаю в рекламной отрасли.
+W sector | сектор | The IT sector is growing. | IT-сектор растёт.
+W import | импорт, импортировать | We import equipment from China. | Мы импортируем оборудование из Китая.
+W export | экспорт, экспортировать | Russia exports a lot of oil. | Россия экспортирует много нефти.
+W unemployment | безработица | Unemployment is low in the region. | В регионе низкая безработица.
+W GDP | ВВП | GDP grew by two percent. | ВВП вырос на два процента.
+
+U b1u47 | SME | Малый бизнес | Подрядчик, ниша, масштабировать
+W registration | регистрация | Company registration takes a week. | Регистрация компании занимает неделю.
+W license | лицензия | You need a license for this. | Для этого нужна лицензия.
+W contractor | подрядчик | We hired a contractor for the website. | Мы наняли подрядчика для сайта.
+W outsource | передавать на аутсорс | We outsource accounting. | Мы отдаём бухгалтерию на аутсорс.
+W in-house | внутри компании, свой штат | We have an in-house designer. | У нас есть штатный дизайнер.
+W overhead | накладные расходы | Our overhead is very low. | У нас очень низкие накладные расходы.
+W scale | масштабировать; масштаб | How can we scale the business? | Как нам масштабировать бизнес?
+W niche | ниша | We work in a narrow niche. | Мы работаем в узкой нише.
+W franchise | франшиза | He bought a coffee franchise. | Он купил франшизу кофейни.
+W brand awareness | узнаваемость бренда | The campaign increased brand awareness. | Кампания повысила узнаваемость бренда.
+W customer base | клиентская база | Our customer base is growing. | Наша клиентская база растёт.
+W break into | выйти на (рынок), проникнуть | It's hard to break into this market. | На этот рынок трудно выйти.
+
+U b1u48 | ROI | Инвестиции | Окупаемость, актив, оценка
+W investor | инвестор | We are looking for an investor. | Мы ищем инвестора.
+W invest | инвестировать, вкладывать | I invest in my education. | Я вкладываю в своё образование.
+W return on investment | окупаемость инвестиций | What's the return on investment? | Какова окупаемость?
+W stock market | фондовый рынок | The stock market fell today. | Фондовый рынок сегодня упал.
+W dividend | дивиденд | The company pays dividends every year. | Компания платит дивиденды каждый год.
+W portfolio | портфель; портфолио | Show me your portfolio. | Покажи мне своё портфолио.
+W fund | фонд; финансировать | The project is funded by a bank. | Проект финансирует банк.
+W asset | актив | Our team is our main asset. | Команда — наш главный актив.
+W cryptocurrency | криптовалюта | He invests in cryptocurrency. | Он вкладывает в криптовалюту.
+W venture capital | венчурный капитал | The startup raised venture capital. | Стартап привлёк венчурный капитал.
+W valuation | оценка (стоимости компании) | The valuation is ten million dollars. | Компанию оценили в десять миллионов долларов.
+W pitch deck | презентация для инвесторов | Send me your pitch deck. | Пришли мне свою презентацию для инвесторов.
+
+U b1u49 | Ethic | Этика бизнеса | Честный, прозрачный, благотворительность
+W ethics | этика | Business ethics matter. | Деловая этика важна.
+W responsibility | ответственность | It's my responsibility. | Это моя ответственность.
+W fair | справедливый, честный; ярмарка | It's a fair price. | Это честная цена.
+W transparent | прозрачный | We want transparent pricing. | Мы хотим прозрачное ценообразование.
+W corruption | коррупция | Corruption hurts business. | Коррупция вредит бизнесу.
+W bribe | взятка | He refused to take a bribe. | Он отказался брать взятку.
+W charity | благотворительность | We give one percent to charity. | Мы отдаём один процент на благотворительность.
+W donate | жертвовать | We donated books to a school. | Мы пожертвовали книги школе.
+W sustainable | экологичный, устойчивый | We use sustainable packaging. | Мы используем экологичную упаковку.
+W obligation | обязательство | We have obligations to our clients. | У нас есть обязательства перед клиентами.
+W principle | принцип | It's a matter of principle. | Это дело принципа.
+W integrity | честность, порядочность | He is a man of integrity. | Он порядочный человек.
+
+X Кофейня, которая выжила | История малого бизнеса
+P My friend Olga owns a small coffee shop in the center of Novosibirsk. It's the place where I usually have meetings with clients.
+P Two years ago the business was in trouble. The rent, which went up every year, was eating all the profit, and the coffee supplier who had worked with her for years suddenly raised his prices.
+P Olga didn't give up. She found a local roaster whose coffee was cheaper and better, and she started selling coffee beans online. Customers who had loved the café became loyal online buyers.
+P Today the online shop brings in forty percent of the revenue, and the café has finally broken even.
+Q Кто такая Ольга? | Владелица кофейни | Бухгалтер | Клиентка Алекса
+Q Почему бизнес был в беде? | Росла аренда и поставщик поднял цены | Ушли сотрудники | Закрыли улицу
+Q Что сделала Ольга? | Нашла местного обжарщика и начала продавать зерно онлайн | Закрыла кафе | Взяла кредит
+Q Какую часть выручки даёт интернет-магазин? | Сорок процентов | Десять процентов | Всю выручку
+
+M b1m8 | Мнения | #3f6e9e,#1b3350
+G Герундий или инфинитив
+T После одних глаголов идёт форма с -ing: enjoy, avoid, finish, mind, suggest, keep. I enjoy working with people. После других — to + глагол: want, decide, plan, hope, agree, afford. We decided to expand. После предлогов всегда -ing: interested in learning, good at selling. У stop смысл меняется: stop smoking — бросить курить, stop to smoke — остановиться, чтобы покурить.
+E I enjoy meeting new people. = Мне нравится знакомиться с новыми людьми.
+E We decided to hire a designer. = Мы решили нанять дизайнера.
+E She's good at negotiating. = Она хорошо ведёт переговоры.
+D I enjoy ___ with clients. = Мне нравится работать с клиентами. | working | to work | work
+D We decided ___ a new office. = Мы решили открыть новый офис. | to open | opening | open
+D He's interested in ___ Korean. = Ему интересно учить корейский. | learning | to learn | learn
+D They agreed ___ the price. = Они согласились снизить цену. | to reduce | reducing | reduce
+D Have you finished ___ the report? = Ты закончил писать отчёт? | writing | to write | write
+D I can't afford ___ a new car. = Я не могу позволить себе новую машину. | to buy | buying | buy
+D She suggested ___ the meeting. = Она предложила перенести встречу. | postponing | to postpone | postpone
+D He stopped ___ two years ago. = Он бросил курить два года назад. | smoking | to smoke | smoke
+
+U b1u50 | IMO | Своё мнение | По-моему, честно говоря, с другой стороны
+W in my opinion | по-моему | In my opinion, the price is too high. | По-моему, цена слишком высокая.
+W from my point of view | с моей точки зрения | From my point of view, it's a good idea. | С моей точки зрения, это хорошая идея.
+W as far as I know | насколько я знаю | As far as I know, he's on vacation. | Насколько я знаю, он в отпуске.
+W I believe | я считаю | I believe we can do it. | Я считаю, мы справимся.
+W to be honest | честно говоря | To be honest, I don't like it. | Честно говоря, мне это не нравится.
+W personally | лично (я) | Personally, I prefer tea. | Лично я предпочитаю чай.
+W it seems to me | мне кажется | It seems to me that he's tired. | Мне кажется, он устал.
+W I'm not sure | я не уверен | I'm not sure it will work. | Я не уверен, что это сработает.
+W on the one hand | с одной стороны | On the one hand, it's cheap. | С одной стороны, это дёшево.
+W on the other hand | с другой стороны | On the other hand, the quality is low. | С другой стороны, качество низкое.
+W that's true | это правда | That's true, but it's too late. | Это правда, но уже слишком поздно.
+W I see your point | понимаю вашу мысль | I see your point, but I disagree. | Понимаю вашу мысль, но не согласен.
+
+U b1u51 | Yes/No | Согласие и спор | Абсолютно, напротив, спорный
+W absolutely | абсолютно, безусловно | Absolutely, let's do it. | Безусловно, давай сделаем.
+W fair point | справедливое замечание | Fair point, I hadn't thought of that. | Справедливо, я об этом не подумал.
+W I couldn't agree more | полностью согласен | I couldn't agree more. | Полностью согласен.
+W I'm not so sure | я не так уверен | I'm not so sure about that. | Я в этом не так уверен.
+W I see what you mean | понимаю, о чём ты | I see what you mean, but there's a problem. | Понимаю, о чём ты, но есть проблема.
+W that's not the case | это не так | Actually, that's not the case. | На самом деле это не так.
+W partly | частично | You're partly right. | Ты отчасти прав.
+W on the contrary | напротив | On the contrary, sales have grown. | Напротив, продажи выросли.
+W debate | дебаты, обсуждать | There was a long debate about the budget. | Был долгий спор о бюджете.
+W controversial | спорный | It's a controversial decision. | Это спорное решение.
+W consensus | консенсус, общее согласие | We reached a consensus. | Мы пришли к согласию.
+W object to | возражать против | I object to this plan. | Я возражаю против этого плана.
+
+U b1u52 | -ing | Глаголы с -ing | Избегать, бросить, откладывать
+W enjoy | наслаждаться, получать удовольствие | I enjoy working with people. | Мне нравится работать с людьми.
+W avoid | избегать | Avoid making promises you can't keep. | Не давай обещаний, которые не сможешь выполнить.
+W keep | продолжать (keep doing); хранить | Keep trying! | Продолжай пытаться!
+W give up | бросить, сдаться | Don't give up! | Не сдавайся!
+W can't stand | терпеть не могу | I can't stand waiting. | Терпеть не могу ждать.
+W feel like | хотеться | I feel like going out tonight. | Мне хочется куда-нибудь сходить вечером.
+W be used to | быть привычным к | I'm used to working late. | Я привык работать допоздна.
+W it's worth | стоит (делать) | It's worth visiting this museum. | В этот музей стоит сходить.
+W no point in | нет смысла | There's no point in waiting. | Нет смысла ждать.
+W spend time | проводить время | I spend a lot of time reading. | Я много времени провожу за чтением.
+W carry on | продолжать | Carry on working, I'll be back soon. | Продолжайте работать, я скоро вернусь.
+W put off | откладывать | Don't put off calling him. | Не откладывай звонок ему.
+
+U b1u53 | To | Глаголы с to | Намереваться, ожидать, заслуживать
+W intend | намереваться | I intend to expand the team. | Я намерен расширить команду.
+W expect | ожидать | We expect to finish in May. | Мы рассчитываем закончить в мае.
+W tend | иметь склонность | Clients tend to choose the cheapest option. | Клиенты склонны выбирать самый дешёвый вариант.
+W pretend | притворяться | He pretended to be busy. | Он сделал вид, что занят.
+W seem | казаться | She seems to be tired. | Она, кажется, устала.
+W deserve | заслуживать | You deserve a holiday. | Ты заслуживаешь отпуск.
+W aim | стремиться; цель | We aim to double sales. | Мы стремимся удвоить продажи.
+W threaten | угрожать | They threatened to cancel the contract. | Они пригрозили расторгнуть договор.
+W struggle | с трудом справляться, бороться | I struggled to understand him. | Я с трудом его понимал.
+W volunteer | вызваться; волонтёр | She volunteered to help. | Она вызвалась помочь.
+W can't wait | не терпится | I can't wait to see you. | Не терпится тебя увидеть.
+W would rather | предпочёл бы | I'd rather stay at home. | Я бы лучше остался дома.
+
+U b1u54 | Soc | Общество | Население, выборы, права
+W society | общество | Technology changes society. | Технологии меняют общество.
+W community | сообщество | We have a strong local community. | У нас сильное местное сообщество.
+W population | население | The population of Novosibirsk is about 1.6 million. | Население Новосибирска — около 1,6 миллиона.
+W citizen | гражданин | Every citizen can vote. | Каждый гражданин может голосовать.
+W government | правительство | The government announced new rules. | Правительство объявило новые правила.
+W election | выборы | The election is in September. | Выборы в сентябре.
+W vote | голосовать, голос | Did you vote? | Ты голосовал?
+W rights | права | Customers have rights. | У покупателей есть права.
+W freedom | свобода | I value my freedom. | Я ценю свою свободу.
+W equality | равенство | They fight for equality. | Они борются за равенство.
+W public | общественный, публика | The park is open to the public. | Парк открыт для всех.
+W local authorities | местные власти | The local authorities repaired the road. | Местные власти отремонтировали дорогу.
+
+U b1u55 | Life | Образ жизни | Баланс, выгорание, мотивация
+W lifestyle | образ жизни | I have a very active lifestyle. | У меня очень активный образ жизни.
+W work-life balance | баланс работы и жизни | Work-life balance is important. | Баланс работы и жизни важен.
+W routine | распорядок, рутина | I have a morning routine. | У меня есть утренний ритуал.
+W priority | приоритет | My family is my priority. | Семья — мой приоритет.
+W burnout | выгорание | Too much work leads to burnout. | Слишком много работы ведёт к выгоранию.
+W productive | продуктивный | I'm most productive in the morning. | Утром я продуктивнее всего.
+W procrastinate | откладывать на потом | Stop procrastinating! | Хватит откладывать!
+W focus | сосредоточиться; фокус | I can't focus today. | Сегодня не могу сосредоточиться.
+W distraction | отвлечение | My phone is a big distraction. | Телефон сильно отвлекает.
+W motivation | мотивация | Where do you find motivation? | Где ты берёшь мотивацию?
+W discipline | дисциплина | Discipline beats motivation. | Дисциплина важнее мотивации.
+W well-being | благополучие | We care about our employees' well-being. | Мы заботимся о благополучии сотрудников.
+
+U b1u56 | Taste | Вкусы | Предпочитать, увлечён, модный
+W prefer | предпочитать | I prefer working in the morning. | Я предпочитаю работать утром.
+W fond of | любящий, неравнодушный к | I'm fond of jazz. | Я люблю джаз.
+W keen on | увлечённый | He's keen on cycling. | Он увлекается велоспортом.
+W crazy about | без ума от | She's crazy about K-pop. | Она без ума от кей-попа.
+W into | увлечён (разг.) | I'm really into podcasts right now. | Сейчас я очень увлечён подкастами.
+W taste | вкус | We have the same taste in music. | У нас одинаковый вкус в музыке.
+W style | стиль | I like your style. | Мне нравится твой стиль.
+W fan | фанат, болельщик | I'm a big fan of this team. | Я большой болельщик этой команды.
+W genre | жанр | What's your favorite film genre? | Какой твой любимый жанр кино?
+W trendy | модный | It's a trendy place. | Это модное место.
+W old-fashioned | старомодный | This design looks old-fashioned. | Этот дизайн выглядит старомодно.
+W mainstream | массовый, мейнстрим | It's not mainstream music. | Это не массовая музыка.
+
+X Офис или дом? | Колонка о работе
+P Personally, I enjoy working from home. I avoid wasting two hours a day in traffic, and I find it easier to focus on difficult tasks.
+P On the other hand, I miss talking to colleagues. Some ideas only appear when people are in the same room, and new employees struggle to learn the company culture online.
+P In my opinion, the best solution is a hybrid model. Our team decided to meet in the office twice a week and work remotely the rest of the time.
+P To be honest, it took a few months to get used to it, but now nobody wants to go back. It's worth trying if your work allows it.
+Q Что автору нравится в работе из дома? | Нет пробок и легче сосредоточиться | Можно дольше спать | Выше зарплата
+Q Чего ему не хватает? | Общения с коллегами | Кофе в офисе | Быстрого интернета
+Q Какое решение он считает лучшим? | Гибридную модель | Только офис | Только удалёнку
+Q Как часто команда встречается в офисе? | Два раза в неделю | Каждый день | Раз в месяц

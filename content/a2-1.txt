@@ -1,0 +1,390 @@
+# A2 Elementary, модули 1–4. Формат как в a1.txt, плюс текст модуля:
+# X заголовок | подзаголовок ; P абзац или реплика ; Q вопрос | верно | неверно | неверно
+
+M a2m1 | Вчера и раньше | #4c78ba,#213f6d
+G Past Simple: правильные глаголы
+T О законченных событиях в прошлом говорим в Past Simple. У правильных глаголов окончание -ed: work → worked. Вопрос: Did you…? Отрицание: didn't, и после него глагол снова без -ed. Глагол to be в прошлом: was (I, he, she, it) и were (you, we, they).
+E I worked late yesterday. = Вчера я работал допоздна.
+E Did you call him? = Ты ему звонил?
+E We were at the conference. = Мы были на конференции.
+D I ___ my mother yesterday. = Вчера я позвонил маме. | called | call | calls
+D ___ you watch the match? = Ты смотрел матч? | Did | Do | Were
+D She didn't ___ the email. = Она не открыла письмо. | open | opened | opens
+D We ___ in a small office last year. = В прошлом году мы работали в маленьком офисе. | worked | work | working
+D They ___ arrive on time. = Они не приехали вовремя. | didn't | don't | weren't
+D He ___ at home last week. = На прошлой неделе он был дома. | was | were | did
+D ___ they at the meeting? = Они были на встрече? | Were | Was | Did
+D I ___ tired yesterday. = Вчера я устал. | was | were | did
+
+U a2u01 | Past | Когда это было | Вчера, назад, наконец
+W yesterday | йестэдэй | вчера | I called him yesterday. | Я звонил ему вчера.
+W ago | эгоу | назад | I started two years ago. | Я начал два года назад.
+W last | ласт | прошлый, последний | Last week was busy. | Прошлая неделя была загруженной.
+W already | олрэди | уже | I already know this. | Я уже это знаю.
+W once | уанс | однажды, один раз | I was there once. | Я был там однажды.
+W twice | туайс | дважды | We met twice. | Мы встречались дважды.
+W recently | рисэнтли | недавно | I recently started a project. | Я недавно начал проект.
+W at first | эт фёрст | сначала | At first it was difficult. | Сначала было трудно.
+W finally | файнэли | наконец | Finally, we finished! | Наконец-то мы закончили!
+W until | антил | до (какого-то времени) | I worked until midnight. | Я работал до полуночи.
+
+U a2u02 | -ed | Глаголы на -ed | Решить, попробовать, переехать
+W decide | дисайд | решать | We decided to start a business. | Мы решили начать бизнес.
+W try | трай | пытаться, пробовать | I tried a new app. | Я попробовал новое приложение.
+W change | чейндж | менять, изменение | We changed the plan. | Мы изменили план.
+W move | мув | переезжать, двигать | I moved to Novosibirsk in 2015. | Я переехал в Новосибирск в 2015 году.
+W happen | хэпэн | случаться | What happened? | Что случилось?
+W learn | лёрн | учить, узнавать | I learned English at school. | Я учил английский в школе.
+W study | стади | изучать, учиться | She studied in London. | Она училась в Лондоне.
+W use | юз | использовать | We used this app last year. | Мы пользовались этим приложением в прошлом году.
+W remember | римэмбэр | помнить | I remember this day. | Я помню этот день.
+W return | ритёрн | возвращаться, возврат | We returned home late. | Мы вернулись домой поздно.
+
+U a2u03 | Life | Биография | Родился, вырос, окончил
+W born | бон | рождённый | I was born in 1990. | Я родился в 1990 году.
+W grow up | гроу ап | вырастать | I grew up in Siberia. | Я вырос в Сибири.
+W university | юнивёрсити | университет | I studied at university. | Я учился в университете.
+W graduate | грэджуэйт | окончить вуз | She graduated in 2012. | Она окончила вуз в 2012 году.
+W degree | дигри | диплом, степень; градус | He has a degree in economics. | У него диплом экономиста.
+W childhood | чайлдхуд | детство | I had a happy childhood. | У меня было счастливое детство.
+W get married | гэт мэрид | пожениться | They got married last year. | Они поженились в прошлом году.
+W retire | ритайэр | выйти на пенсию | My father retired in 2020. | Мой папа вышел на пенсию в 2020 году.
+W experience | икспириэнс | опыт | I have five years of experience. | У меня пять лет опыта.
+W career | кэриэр | карьера | My career started in sales. | Моя карьера началась в продажах.
+
+U a2u04 | Event | События | Конференция, свадьба, выставка
+W event | ивэнт | событие, мероприятие | The event was great. | Мероприятие было отличным.
+W conference | конфэрэнс | конференция | I was at a conference in Moscow. | Я был на конференции в Москве.
+W wedding | уэдинг | свадьба | Their wedding was in June. | Их свадьба была в июне.
+W concert | консэрт | концерт | We went to a concert. | Мы ходили на концерт.
+W festival | фэстивэл | фестиваль | The festival was very busy. | На фестивале было очень много людей.
+W celebrate | сэлэбрэйт | праздновать | We celebrated our first contract. | Мы отпраздновали первый контракт.
+W anniversary | энивёрсэри | годовщина | Today is our anniversary. | Сегодня наша годовщина.
+W prize | прайз | приз | She won a prize. | Она выиграла приз.
+W exhibition | экзибишн | выставка | We visited an exhibition. | Мы сходили на выставку.
+W crowd | крауд | толпа | There was a big crowd. | Там была большая толпа.
+
+U a2u05 | Feel | Как прошло | Отлично, ужасно, странно
+W great | грэйт | отличный | It was a great trip. | Это была отличная поездка.
+W terrible | тэрэбл | ужасный | The weather was terrible. | Погода была ужасной.
+W amazing | эмэйзинг | потрясающий | The view was amazing. | Вид был потрясающий.
+W awful | офул | отвратительный | The food was awful. | Еда была отвратительной.
+W perfect | пёрфикт | идеальный | Everything was perfect. | Всё было идеально.
+W strange | стрэйндж | странный | It was a strange day. | Это был странный день.
+W surprised | сэпрайзд | удивлённый | I was surprised. | Я был удивлён.
+W excited | иксайтид | воодушевлённый | We were very excited. | Мы были очень воодушевлены.
+W disappointed | дисэпойнтид | разочарованный | The client was disappointed. | Клиент был разочарован.
+W worried | уарид | обеспокоенный | I was worried about the deadline. | Я переживал из-за срока.
+
+U a2u06 | Oops | Ошибки и проблемы | Ошибка, сломать, забыть
+W mistake | мистэйк | ошибка | I made a mistake. | Я ошибся.
+W fix | фикс | исправлять, чинить | We fixed the problem. | Мы решили проблему.
+W break | брэйк | ломать; перерыв | Let's take a short break. | Давай сделаем короткий перерыв.
+W forget | фогэт | забывать | Don't forget your passport. | Не забудь паспорт.
+W miss | мис | опоздать на; скучать | I missed the train. | Я опоздал на поезд.
+W sorry | сори | извини, жаль | Sorry, it was my mistake. | Извини, это была моя ошибка.
+W accident | эксидэнт | авария, случайность | There was an accident on the road. | На дороге была авария.
+W damage | дэмидж | повреждение | The damage was small. | Повреждение было небольшим.
+W broken | броукэн | сломанный | The printer is broken. | Принтер сломан.
+W complain | кэмплэйн | жаловаться | The customer complained about the price. | Клиент пожаловался на цену.
+
+X Первый клиент | История о начале бизнеса
+P Five years ago I worked in a big company. I was a sales manager. One day I decided to start my own business.
+P At first it was difficult. I didn't have any clients, and I worked until midnight every day.
+P Then a friend called me. His company needed a new website and some advertising. I was very excited. We finished the project in two months.
+P The client was happy, and he invited me to a conference in Moscow. There I met three new clients. That was the start of my business.
+Q Кем автор работал пять лет назад? | Менеджером по продажам | Дизайнером | Директором
+Q Каким было начало бизнеса? | Трудным | Лёгким | Скучным
+Q Что было нужно компании друга? | Сайт и реклама | Новый офис | Бухгалтер
+Q Где автор нашёл трёх новых клиентов? | На конференции в Москве | В интернете | Через соседа
+
+M a2m2 | Истории и поездки | #3d8a8f,#1d4a5a
+G Past Simple: неправильные глаголы
+T У неправильных глаголов форму прошедшего времени нужно запомнить: go → went, have → had, see → saw, buy → bought. В вопросах и отрицаниях всё равно используем did, а глагол ставим в обычную форму: Did you go? I didn't see.
+E We went to Bali last year. = В прошлом году мы ездили на Бали.
+E I bought a new laptop. = Я купил новый ноутбук.
+E Did you see the email? = Ты видел письмо?
+D Last year we ___ to Korea. = В прошлом году мы ездили в Корею. | went | goed | go
+D I ___ a new phone yesterday. = Вчера я купил новый телефон. | bought | buyed | buy
+D Did you ___ the news? = Ты видел новости? | see | saw | seen
+D She ___ a great idea. = У неё была отличная идея. | had | haved | has
+D We ___ dinner at a nice restaurant. = Мы ужинали в хорошем ресторане. | ate | eated | eat
+D He didn't ___ the report. = Он не написал отчёт. | write | wrote | written
+D They ___ home at midnight. = Они пришли домой в полночь. | came | comed | come
+D I ___ him at the airport. = Я встретил его в аэропорту. | met | meeted | meet
+
+U a2u07 | Irr1 | Неправильные глаголы 1 | went, had, saw, bought
+W go — went | гоу — уэнт | идти, ехать — пошёл, поехал | We went to the sea last summer. | Прошлым летом мы ездили на море.
+W have — had | хэв — хэд | иметь — имел | I had a busy week. | У меня была загруженная неделя.
+W see — saw | си — со | видеть — увидел | I saw a great film yesterday. | Вчера я посмотрел отличный фильм.
+W buy — bought | бай — бот | покупать — купил | She bought a new car. | Она купила новую машину.
+W eat — ate | ит — эйт | есть — съел | We ate fish for dinner. | На ужин мы ели рыбу.
+W come — came | кам — кэйм | приходить — пришёл | He came to the office at nine. | Он пришёл в офис в девять.
+W get — got | гэт — гот | получать — получил | I got your message. | Я получил твоё сообщение.
+W make — made | мэйк — мэйд | делать — сделал | We made a new website. | Мы сделали новый сайт.
+W take — took | тэйк — тук | брать — взял | I took a taxi to the hotel. | Я взял такси до отеля.
+W give — gave | гив — гэйв | давать — дал | My boss gave me a day off. | Начальник дал мне выходной.
+
+U a2u08 | Irr2 | Неправильные глаголы 2 | said, told, knew, found
+W say — said | сэй — сэд | сказать — сказал | She said yes. | Она сказала «да».
+W tell — told | тэл — тоулд | рассказать — рассказал | He told me a funny story. | Он рассказал мне смешную историю.
+W think — thought | синк — сот | думать — подумал | I thought it was a good idea. | Я думал, что это хорошая идея.
+W know — knew | ноу — нью | знать — знал | I knew the answer. | Я знал ответ.
+W find — found | файнд — фаунд | находить — нашёл | I found a good hotel. | Я нашёл хороший отель.
+W leave — left | лив — лэфт | уходить — ушёл | We left at six. | Мы ушли в шесть.
+W meet — met | мит — мэт | встречать — встретил | I met a new client today. | Сегодня я встретился с новым клиентом.
+W write — wrote | райт — роут | писать — написал | I wrote a long email. | Я написал длинное письмо.
+W speak — spoke | спик — споук | говорить — говорил | We spoke for an hour. | Мы говорили час.
+W send — sent | сэнд — сэнт | отправлять — отправил | I sent you the file. | Я отправил тебе файл.
+
+U a2u09 | Irr3 | Неправильные глаголы 3 | paid, spent, lost, flew
+W begin — began | бигин — бигэн | начинать — начал | The meeting began at ten. | Встреча началась в десять.
+W pay — paid | пэй — пэйд | платить — заплатил | I paid by card. | Я заплатил картой.
+W sell — sold | сэл — соулд | продавать — продал | We sold a hundred tickets. | Мы продали сто билетов.
+W spend — spent | спэнд — спэнт | тратить — потратил | I spent too much money. | Я потратил слишком много денег.
+W lose — lost | луз — лост | терять — потерял | I lost my wallet. | Я потерял кошелёк.
+W win — won | уин — уан | выигрывать — выиграл | Our team won the match. | Наша команда выиграла матч.
+W drink — drank | дринк — дрэнк | пить — выпил | We drank coffee in the hotel. | Мы пили кофе в отеле.
+W fly — flew | флай — флу | летать — летел | I flew to Hong Kong last year. | В прошлом году я летал в Гонконг.
+W drive — drove | драйв — дроув | водить — вёл машину | We drove to the mountains. | Мы поехали в горы на машине.
+W sleep — slept | слип — слэпт | спать — спал | I slept badly last night. | Прошлой ночью я плохо спал.
+
+U a2u10 | Tour | В поездке | Гид, местный, граница
+W journey | джёрни | поездка, путь | The journey was long. | Путь был долгим.
+W sightseeing | сайтсиинг | осмотр достопримечательностей | We went sightseeing. | Мы осматривали достопримечательности.
+W guide | гайд | гид, путеводитель | Our guide spoke English. | Наш гид говорил по-английски.
+W tour | туэр | тур, экскурсия | We booked a city tour. | Мы забронировали экскурсию по городу.
+W local | лоукэл | местный | We ate local food. | Мы ели местную еду.
+W culture | калчэр | культура | I love Korean culture. | Я люблю корейскую культуру.
+W foreign | форин | иностранный | I speak a foreign language. | Я говорю на иностранном языке.
+W border | бодэр | граница | We crossed the border at night. | Мы пересекли границу ночью.
+W backpack | бэкпэк | рюкзак | I travel with a backpack. | Я путешествую с рюкзаком.
+W hostel | хостэл | хостел | We stayed in a cheap hostel. | Мы жили в дешёвом хостеле.
+
+U a2u11 | Then | Как рассказать историю | Сначала, вдруг, в итоге
+W suddenly | саднли | вдруг | Suddenly, the lights went out. | Вдруг погас свет.
+W first | фёрст | сначала, первый | First, we went to the hotel. | Сначала мы поехали в отель.
+W next | нэкст | затем, следующий | Next, we visited the museum. | Затем мы сходили в музей.
+W after that | афтэр зэт | после этого | After that, we had lunch. | После этого мы пообедали.
+W in the end | ин зи энд | в итоге | In the end, everything was fine. | В итоге всё было хорошо.
+W luckily | лакили | к счастью | Luckily, I had an umbrella. | К счастью, у меня был зонт.
+W unfortunately | анфочэнэтли | к сожалению | Unfortunately, the flight was late. | К сожалению, рейс задержался.
+W actually | экчуэли | на самом деле | Actually, it was my idea. | Вообще-то это была моя идея.
+W because | бикоз | потому что | I was late because of the traffic. | Я опоздал из-за пробок.
+W so | соу | поэтому, так | It rained, so we stayed home. | Шёл дождь, поэтому мы остались дома.
+
+U a2u12 | Wild | Природа в поездке | Лес, озеро, закат
+W forest | форист | лес | We walked in the forest. | Мы гуляли в лесу.
+W lake | лэйк | озеро | The lake was very cold. | Озеро было очень холодным.
+W hill | хил | холм | There is a small hill near the hotel. | Рядом с отелем есть небольшой холм.
+W desert | дэзэрт | пустыня | It was hot in the desert. | В пустыне было жарко.
+W waterfall | уотэфол | водопад | The waterfall was amazing. | Водопад был потрясающим.
+W sunset | сансэт | закат | We watched the sunset. | Мы смотрели на закат.
+W sunrise | санрайз | рассвет | I got up for the sunrise. | Я встал ради рассвета.
+W coast | коуст | побережье | We drove along the coast. | Мы ехали вдоль побережья.
+W village | вилидж | деревня | My grandmother lives in a village. | Моя бабушка живёт в деревне.
+W field | филд | поле | There are big fields near the city. | Рядом с городом большие поля.
+
+X Поездка в Сеул | Командировка на конференцию
+P Last spring I flew to Seoul for a conference. The journey was long, but the hotel was great.
+P On the first day I went sightseeing with a local guide. We visited an old palace and ate amazing street food.
+P Unfortunately, on the second day it rained all day, so I stayed in the hotel and wrote my presentation.
+P The conference began on Friday. I spoke for twenty minutes, and after that three people asked me for my card. In the end, it was a very good trip.
+Q Зачем автор полетел в Сеул? | На конференцию | В отпуск | К друзьям
+Q Что автор делал в первый день? | Осматривал город с гидом | Писал презентацию | Выступал
+Q Почему во второй день он остался в отеле? | Весь день шёл дождь | Он заболел | Гид был занят
+Q Что случилось после выступления? | Три человека попросили его визитку | Он потерял карту | Конференцию отменили
+
+M a2m3 | Планы | #6a63b0,#2e2c6a
+G going to и will
+T going to — план, который уже решён заранее: I'm going to visit Moscow. will — решение, принятое прямо сейчас, обещание или прогноз: I'll call you back. I think it will rain. После will глагол без to.
+E I'm going to learn English this year. = В этом году я собираюсь выучить английский.
+E OK, I'll send it now. = Хорошо, сейчас отправлю.
+E I think prices will go up. = Думаю, цены вырастут.
+D We ___ going to open a new office. = Мы собираемся открыть новый офис. | are | will | is
+D I'm going to ___ a new car. = Я собираюсь купить новую машину. | buy | buying | bought
+D Don't worry, I ___ help you. = Не волнуйся, я помогу (обещание). | will | am going | going
+D She is going ___ study in London. = Она собирается учиться в Лондоне. | to | for | will
+D I think it ___ be a good year. = Думаю, год будет хорошим (прогноз). | will | is going | are
+D ___ you going to call him? = Ты собираешься ему звонить? | Are | Will | Do
+D The phone is ringing. I ___ answer it. = Телефон звонит. Я отвечу (решение сейчас). | 'll | am going | going
+D They ___ not going to come. = Они не собираются приходить. | are | will | do
+
+U a2u13 | Plan | Планы | Скоро, может быть, надеяться
+W future | фьючэр | будущее | I often think about the future. | Я часто думаю о будущем.
+W next year | нэкст йиэр | в следующем году | Next year I'm going to travel more. | В следующем году я собираюсь больше путешествовать.
+W soon | сун | скоро | See you soon! | До скорого!
+W maybe | мэйби | может быть | Maybe I'll come. | Может быть, я приду.
+W probably | пробэбли | вероятно | It will probably rain. | Вероятно, пойдёт дождь.
+W hope | хоуп | надеяться, надежда | I hope you're well. | Надеюсь, у тебя всё хорошо.
+W dream | дрим | мечта, мечтать | My dream is to live by the sea. | Моя мечта — жить у моря.
+W prepare | припэа | готовить(ся) | We're preparing for the conference. | Мы готовимся к конференции.
+W organize | оргэнайз | организовывать | I'm going to organize a meeting. | Я собираюсь организовать встречу.
+W schedule | скэджул | расписание, график | What's your schedule for tomorrow? | Какой у тебя план на завтра?
+
+U a2u14 | Goal | Цели | Улучшить, копить, успех
+W improve | импрув | улучшать | I want to improve my English. | Я хочу улучшить свой английский.
+W achieve | эчив | достигать | We achieved our goal. | Мы достигли своей цели.
+W save | сэйв | копить, экономить, сохранять | I'm saving money for a car. | Я коплю на машину.
+W grow | гроу | расти | Our business will grow. | Наш бизнес будет расти.
+W success | сэксэс | успех | Good luck and success! | Удачи и успехов!
+W fail | фэйл | провалиться, не суметь | Don't be afraid to fail. | Не бойся ошибиться.
+W chance | чанс | шанс | This is a good chance. | Это хороший шанс.
+W decision | дисижн | решение | It was a difficult decision. | Это было трудное решение.
+W choose | чуз | выбирать | Choose a good hotel. | Выбери хороший отель.
+W promise | промис | обещать, обещание | I promise I'll call you. | Обещаю, я позвоню.
+
+U a2u15 | RSVP | Приглашения | Принять, отказаться, как насчёт
+W invitation | инвитэйшн | приглашение | Thank you for the invitation. | Спасибо за приглашение.
+W accept | эксэпт | принимать | I accept your offer. | Я принимаю ваше предложение.
+W refuse | рифьюз | отказываться | He refused to come. | Он отказался прийти.
+W would like | вуд лайк | хотел бы | Would you like some tea? | Хотите чаю?
+W join | джойн | присоединяться | Can I join you? | Можно к вам присоединиться?
+W let's | лэтс | давай(те) | Let's meet at six. | Давай встретимся в шесть.
+W how about | хау эбаут | как насчёт | How about Friday? | Как насчёт пятницы?
+W sure | шуэ | конечно, уверенный | Sure, no problem. | Конечно, без проблем.
+W I'm afraid | айм эфрэйд | боюсь, что (вежливый отказ) | I'm afraid I can't come. | Боюсь, я не смогу прийти.
+W arrange | эрэйндж | договариваться, устраивать | We need to arrange a call. | Нам нужно договориться о созвоне.
+
+U a2u16 | Book | Записи и брони | Отменить, перенести, заранее
+W appointment | эпойнтмэнт | запись, назначенная встреча | I have a doctor's appointment. | У меня запись к врачу.
+W cancel | кэнсл | отменять | We cancelled the meeting. | Мы отменили встречу.
+W postpone | поустпоун | откладывать, переносить | Let's postpone the call. | Давай перенесём созвон.
+W confirm | кэнфёрм | подтверждать | Please confirm your booking. | Пожалуйста, подтвердите бронь.
+W booking | букинг | бронирование | I made a booking online. | Я забронировал онлайн.
+W deposit | дипозит | предоплата, депозит | You need to pay a deposit. | Нужно внести предоплату.
+W agenda | эджэнда | повестка | What's on the agenda? | Что на повестке?
+W reminder | римайндэр | напоминание | I'll send you a reminder. | Я пришлю тебе напоминание.
+W on time | он тайм | вовремя | Please be on time. | Пожалуйста, приходи вовремя.
+W in advance | ин эдванс | заранее | Book the tickets in advance. | Бронируй билеты заранее.
+
+U a2u17 | Cast | Прогноз | Шторм, туман, жара
+W forecast | фокаст | прогноз | The forecast says it will snow. | По прогнозу пойдёт снег.
+W temperature | тэмпричэр | температура | The temperature is minus twenty. | Сейчас минус двадцать.
+W storm | стом | шторм, гроза | There will be a storm tonight. | Сегодня ночью будет гроза.
+W fog | фог | туман | The flight is late because of fog. | Рейс задерживается из-за тумана.
+W ice | айс | лёд | Be careful, there's ice on the road. | Осторожно, на дороге лёд.
+W wet | уэт | мокрый | The streets are wet. | Улицы мокрые.
+W dry | драй | сухой | Tomorrow will be dry. | Завтра будет сухо.
+W heat | хит | жара | I can't sleep in this heat. | Я не могу спать в такую жару.
+W freezing | фризинг | ледяной, очень холодный | It's freezing outside! | На улице очень холодно!
+W outside | аутсайд | снаружи, на улице | Let's eat outside. | Давай поедим на улице.
+
+U a2u18 | AI | Технологии | ИИ, данные, обновление
+W technology | тэкнолэджи | технологии | Technology changes fast. | Технологии быстро меняются.
+W AI | эй-ай | искусственный интеллект | AI will change marketing. | ИИ изменит маркетинг.
+W robot | роубот | робот | Robots will do this work. | Эту работу будут делать роботы.
+W device | дивайс | устройство | This device is very small. | Это устройство очень маленькое.
+W download | даунлоуд | скачивать | Download the app. | Скачай приложение.
+W update | апдэйт | обновлять, обновление | I'm going to update the website. | Я собираюсь обновить сайт.
+W digital | диджитл | цифровой | We sell digital products. | Мы продаём цифровые продукты.
+W data | дэйта | данные | We need more data. | Нам нужно больше данных.
+W software | софтуэа | программное обеспечение | This software is free. | Эта программа бесплатная.
+W user | юзэр | пользователь | The app has a thousand users. | У приложения тысяча пользователей.
+
+X Письмо Анне | Перенос встречи
+P Hi Anna, thank you for your invitation to the conference in May. I'd like to join, but I'm afraid I can't come on Monday.
+P I'm going to fly to Kazan on Sunday for a meeting with a client. I'll arrive in Moscow on Tuesday morning.
+P How about we meet on Tuesday at lunch? I'm going to bring my new presentation about AI in marketing.
+P Please confirm the time, and I'll book a table. Best regards, Alex.
+Q Почему Алекс не может прийти в понедельник? | Он летит на встречу в Казань | Он болеет | У него отпуск
+Q Когда Алекс будет в Москве? | Во вторник утром | В понедельник вечером | В воскресенье
+Q Что он предлагает Анне? | Встретиться во вторник за обедом | Отменить конференцию | Созвониться в мае
+Q Что Алекс возьмёт с собой? | Новую презентацию про ИИ | Договор | Подарок
+
+M a2m4 | Сравнения и покупки | #b0745a,#5e3426
+G Сравнение: bigger, the biggest
+T Короткие прилагательные получают -er и -est: cheap → cheaper → the cheapest. Длинные — more и the most: expensive → more expensive → the most expensive. Исключения: good → better → the best, bad → worse → the worst. «Чем» по-английски — than.
+E This hotel is cheaper than that one. = Этот отель дешевле того.
+E It's the best café in the city. = Это лучшее кафе в городе.
+E The new app is more convenient. = Новое приложение удобнее.
+D Moscow is ___ than Novosibirsk. = Москва больше Новосибирска. | bigger | more big | biggest
+D This is the ___ phone in the shop. = Это самый дорогой телефон в магазине. | most expensive | more expensive | expensivest
+D Your idea is ___ than mine. = Твоя идея лучше моей. | better | gooder | best
+D Today is ___ than yesterday. = Сегодня холоднее, чем вчера. | colder | more cold | coldest
+D It was the ___ day of my life. = Это был худший день в моей жизни. | worst | baddest | worse
+D The train is faster ___ the bus. = Поезд быстрее автобуса. | than | then | that
+D This course is ___ interesting than the first one. = Этот курс интереснее первого. | more | most | much
+D He is the ___ person in our team. = Он самый молодой в нашей команде. | youngest | younger | most young
+
+U a2u19 | Comp | Сравнить | Лучше, хуже, такой же
+W compare | кэмпэа | сравнивать | Let's compare the prices. | Давай сравним цены.
+W better | бэтэр | лучше | This one is better. | Этот лучше.
+W best | бэст | лучший | It's the best offer. | Это лучшее предложение.
+W worse | уёрс | хуже | The weather is worse today. | Сегодня погода хуже.
+W worst | уёрст | худший | That was the worst meeting. | Это была худшая встреча.
+W than | зэн | чем | She is older than me. | Она старше меня.
+W same | сэйм | такой же, одинаковый | We have the same phone. | У нас одинаковые телефоны.
+W different | дифрэнт | другой, разный | This is a different price. | Это другая цена.
+W similar | симилэр | похожий | Our products are similar. | Наши продукты похожи.
+W quality | куолити | качество | The quality is very good. | Качество очень хорошее.
+
+U a2u20 | Spec | Характеристики | Удобный, надёжный, простой
+W comfortable | камфтэбл | удобный (физически) | These shoes are very comfortable. | Эти ботинки очень удобные.
+W convenient | кэнвиниэнт | удобный (по времени, месту) | Is Monday convenient for you? | Тебе удобно в понедельник?
+W modern | модэн | современный | We have a modern office. | У нас современный офис.
+W popular | попьюлэр | популярный | This model is very popular. | Эта модель очень популярна.
+W useful | юсфул | полезный | This app is very useful. | Это приложение очень полезное.
+W reliable | рилайэбл | надёжный | We need a reliable partner. | Нам нужен надёжный партнёр.
+W simple | симпл | простой | The design is simple. | Дизайн простой.
+W strong | стронг | сильный, прочный | This bag is strong. | Эта сумка прочная.
+W soft | софт | мягкий | The bed is very soft. | Кровать очень мягкая.
+W wide | уайд | широкий | We have a wide choice. | У нас широкий выбор.
+
+U a2u21 | Mall | Шопинг | Размер, примерить, чек
+W mall | мол | торговый центр | Let's go to the mall. | Пойдём в торговый центр.
+W sale | сэйл | распродажа, продажа | There's a big sale this weekend. | В эти выходные большая распродажа.
+W size | сайз | размер | What size do you need? | Какой размер вам нужен?
+W try on | трай он | примерять | Can I try it on? | Можно примерить?
+W fit | фит | подходить по размеру | The jacket doesn't fit. | Куртка не подходит по размеру.
+W receipt | рисит | чек | Can I have a receipt? | Можно чек?
+W refund | рифанд | возврат денег | I'd like a refund. | Я бы хотел вернуть деньги.
+W exchange | иксчейндж | обменивать, обмен | Can I exchange this shirt? | Можно обменять эту рубашку?
+W line | лайн | очередь, линия | There was a long line. | Была длинная очередь.
+W deliver | диливэр | доставлять | They will deliver it tomorrow. | Это доставят завтра.
+
+U a2u22 | Cart | Покупки онлайн | Отзыв, корзина, посылка
+W delivery | диливэри | доставка | Delivery is free. | Доставка бесплатная.
+W review | ривью | отзыв, обзор | I read the reviews first. | Сначала я читаю отзывы.
+W rating | рэйтинг | рейтинг | This hotel has a high rating. | У этого отеля высокий рейтинг.
+W cart | кат | корзина (в магазине) | Add it to the cart. | Добавь это в корзину.
+W checkout | чекаут | оформление заказа | Go to checkout. | Перейдите к оформлению.
+W parcel | пасл | посылка | My parcel arrived today. | Моя посылка пришла сегодня.
+W track | трэк | отслеживать | You can track your order. | Можно отслеживать заказ.
+W in stock | ин сток | в наличии | Is this in stock? | Это есть в наличии?
+W brand-new | брэнд нью | совершенно новый | The phone is brand-new. | Телефон совершенно новый.
+W seller | сэлэр | продавец | The seller answered quickly. | Продавец быстро ответил.
+
+U a2u23 | Qty | Сколько | Много, несколько, оба
+W tiny | тайни | крошечный | We have a tiny kitchen. | У нас крошечная кухня.
+W huge | хьюдж | огромный | It's a huge market. | Это огромный рынок.
+W a lot of | э лот ов | много | We have a lot of clients. | У нас много клиентов.
+W a few | э фью | несколько | I have a few questions. | У меня есть несколько вопросов.
+W a little | э литл | немного | I speak a little Korean. | Я немного говорю по-корейски.
+W most | моуст | большинство, больше всего | Most people use phones. | Большинство людей пользуются телефонами.
+W all | ол | все, весь | All my friends are here. | Все мои друзья здесь.
+W both | боус | оба | Both options are good. | Оба варианта хороши.
+W none | нан | ни один | None of them answered. | Никто из них не ответил.
+W pair | пэа | пара | I bought a pair of shoes. | Я купил пару обуви.
+
+U a2u24 | Rent | Дом и быт | Аренда, мебель, ремонт
+W rent | рэнт | аренда, снимать | The rent is high in the center. | В центре высокая аренда.
+W own | оун | собственный, владеть | I'd like to own a house. | Я бы хотел иметь свой дом.
+W furniture | фёрничэр | мебель | We need new furniture. | Нам нужна новая мебель.
+W sofa | соуфа | диван | The sofa is very comfortable. | Диван очень удобный.
+W fridge | фридж | холодильник | The fridge is empty. | Холодильник пустой.
+W washing machine | уошинг мэшин | стиральная машина | The washing machine is broken. | Стиральная машина сломалась.
+W repair | рипэа | ремонт, ремонтировать | We need to repair the roof. | Нам нужно починить крышу.
+W neighborhood | нэйбэхуд | район | It's a quiet neighborhood. | Это тихий район.
+W quiet | куайэт | тихий | Please be quiet. | Пожалуйста, тише.
+W noisy | нойзи | шумный | The street is very noisy. | Улица очень шумная.
+
+X Новый ноутбук | Как я выбирал технику
+P I need a new laptop for work, so I compared two models. The first one is cheaper and lighter, but the screen is smaller.
+P The second one is more expensive, but it's faster and the quality is better. I read a lot of reviews. Most users said the second laptop is more reliable.
+P The seller also offered free delivery and a two-year guarantee.
+P In the end, I chose the more expensive one. I think it's the best choice for my business.
+Q Чем лучше первый ноутбук? | Он дешевле и легче | У него больше экран | Он быстрее
+Q Что писали в отзывах про второй? | Что он надёжнее | Что он слишком тяжёлый | Что он медленный
+Q Что ещё предложил продавец? | Бесплатную доставку и гарантию | Скидку 50% | Второй ноутбук в подарок
+Q Какой ноутбук выбрал автор? | Более дорогой | Более дешёвый | Решил не покупать

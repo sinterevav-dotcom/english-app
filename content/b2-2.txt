@@ -1,0 +1,577 @@
+# B2 Upper-Intermediate, модули 5–8
+
+M b2m5 | Аргументация | #5f8a4e,#2b4a25
+G must have, might have, can't have
+T Выводы о настоящем: must be — наверняка, might, may или could be — возможно, can't be — не может быть. О прошлом — те же модальные глаголы + have + третья форма: He must have forgotten. She might have missed the email. They can't have finished already. should have done — «надо было сделать», это упрёк или сожаление.
+E She must be in a meeting. = Она, наверное, на встрече.
+E He might have missed the train. = Возможно, он опоздал на поезд.
+E You shouldn't have sent that email. = Не стоило отправлять то письмо.
+D He's not answering. He ___ be in a meeting. = Он не отвечает. Наверняка он на встрече. | must | can't | should
+D They ___ have finished already, it's a huge project. = Не может быть, чтобы они уже закончили, это огромный проект. | can't | must | should
+D She ___ have missed my email; it went to spam. = Возможно, она не увидела моё письмо, оно попало в спам. | might | mustn't | can
+D You ___ have told me earlier! = Надо было сказать мне раньше! | should | must | might
+D The office is dark. Everyone ___ gone home. = В офисе темно. Все, должно быть, ушли домой. | must have | can't have | should
+D I'm not sure where he is. He ___ be at lunch. = Не знаю, где он. Может быть, на обеде. | might | must | can't
+D We ___ have hired him; he was terrible. = Не стоило его нанимать, он был ужасен. | shouldn't | can't | mustn't
+D He ___ have been there; I saw him in Moscow that day. = Его не могло там быть: я видел его в тот день в Москве. | can't | must | should
+
+U b2u29 | Logic | Логика | Рассуждение, противоречие, предвзятость
+W logical | логичный | It's the logical next step. | Это логичный следующий шаг.
+W reasoning | рассуждение, логика | I don't follow your reasoning. | Я не понимаю хода твоих рассуждений.
+W premise | предпосылка, исходное положение | The whole plan is based on a false premise. | Весь план основан на ложной предпосылке.
+W deduce | делать вывод | What can we deduce from the data? | Какой вывод можно сделать из данных?
+W infer | заключать, подразумевать | I infer from his email that he's unhappy. | Из его письма я заключаю, что он недоволен.
+W contradict | противоречить | The figures contradict your claim. | Цифры противоречат твоему утверждению.
+W contradiction | противоречие | There's a contradiction in the report. | В отчёте есть противоречие.
+W coherent | связный, последовательный | We need a coherent strategy. | Нам нужна последовательная стратегия.
+W flawed | ошибочный, с изъяном | The research is flawed. | Исследование содержит ошибки.
+W fallacy | заблуждение, ложное суждение | It's a common fallacy. | Это распространённое заблуждение.
+W bias | предвзятость, перекос | Be aware of your own bias. | Помни о собственной предвзятости.
+W objective | объективный; цель | Try to be objective. | Постарайся быть объективным.
+W subjective | субъективный | Taste is subjective. | Вкус — дело субъективное.
+W generalization | обобщение | That's a sweeping generalization. | Это слишком широкое обобщение.
+W correlation | корреляция, взаимосвязь | Correlation doesn't mean causation. | Корреляция не означает причинность.
+
+U b2u30 | Odds | Вероятность | Скорее всего, якобы, неизбежный
+W bound to | обязательно (случится) | Prices are bound to go up. | Цены обязательно вырастут.
+W chances are | скорее всего | Chances are he's already left. | Скорее всего, он уже ушёл.
+W odds | шансы | The odds are against us. | Шансы не в нашу пользу.
+W there's a good chance | велика вероятность | There's a good chance we'll win the tender. | Велика вероятность, что мы выиграем тендер.
+W highly unlikely | крайне маловероятно | It's highly unlikely that they'll agree. | Крайне маловероятно, что они согласятся.
+W presumably | предположительно, вероятно | Presumably, the price includes VAT. | Предположительно, в цену входит НДС.
+W supposedly | якобы | The app is supposedly free. | Приложение якобы бесплатное.
+W allegedly | предположительно (без доказательств) | The company allegedly hid its losses. | Компания якобы скрывала убытки.
+W conceivably | вполне возможно, теоретически | We could conceivably finish by Friday. | Теоретически мы можем закончить к пятнице.
+W inevitable | неизбежный | Change is inevitable. | Перемены неизбежны.
+W uncertain | неопределённый, неуверенный | The future of the project is uncertain. | Будущее проекта неопределённо.
+W unpredictable | непредсказуемый | The market is unpredictable. | Рынок непредсказуем.
+W foreseeable | предсказуемый, обозримый | Nothing will change in the foreseeable future. | В обозримом будущем ничего не изменится.
+W doubtful | маловероятный, сомнительный | It's doubtful that we'll get the money. | Сомнительно, что мы получим деньги.
+W no wonder | неудивительно | No wonder you're tired. | Неудивительно, что ты устал.
+
+U b2u31 | Facts | Факты | Точный, преувеличивать, опровергать
+W fact-check | проверять факты | Always fact-check before posting. | Всегда проверяй факты перед публикацией.
+W credible | заслуживающий доверия | Is the source credible? | Источник заслуживает доверия?
+W misleading | вводящий в заблуждение | The headline is misleading. | Заголовок вводит в заблуждение.
+W accurate | точный | The forecast was accurate. | Прогноз оказался точным.
+W inaccurate | неточный | The data is inaccurate. | Данные неточные.
+W exaggerate | преувеличивать | Don't exaggerate the results. | Не преувеличивай результаты.
+W distort | искажать | The media distorted his words. | СМИ исказили его слова.
+W substantiate | обосновать, подтвердить | Can you substantiate that claim? | Можете подтвердить это утверждение?
+W anecdotal | основанный на частных случаях | The evidence is only anecdotal. | Доказательства основаны лишь на частных случаях.
+W proof | доказательство | Do you have proof? | У тебя есть доказательство?
+W disprove | опровергать | The study disproved the theory. | Исследование опровергло теорию.
+W myth | миф | It's a myth that cold calls don't work. | То, что холодные звонки не работают, — миф.
+W misconception | заблуждение | It's a common misconception. | Это распространённое заблуждение.
+W debunk | развенчать | The article debunks five marketing myths. | Статья развенчивает пять мифов о маркетинге.
+W out of context | вырванный из контекста | The quote was taken out of context. | Цитату вырвали из контекста.
+
+U b2u32 | Crit | Критика и оценка | Сильные стороны, изъян, перевешивать
+W criticism | критика | We welcome criticism. | Мы рады критике.
+W criticize | критиковать | Don't criticize people in public. | Не критикуй людей публично.
+W assess | оценивать | We need to assess the risks. | Нам нужно оценить риски.
+W evaluate | оценивать, анализировать | Let's evaluate the results. | Давайте оценим результаты.
+W judgment | суждение, мнение | Use your own judgment. | Полагайся на собственное суждение.
+W strength | сильная сторона; сила | Patience is her main strength. | Терпение — её главная сильная сторона.
+W weakness | слабая сторона | Every plan has weaknesses. | У любого плана есть слабые места.
+W shortcoming | слабое место, недочёт | Despite its shortcomings, the app is popular. | Несмотря на недостатки, приложение популярно.
+W flaw | изъян | There's a flaw in the design. | В дизайне есть изъян.
+W merit | достоинство | The idea has some merit. | В идее есть рациональное зерно.
+W praise | хвалить, похвала | The client praised our work. | Клиент похвалил нашу работу.
+W acknowledge | признавать официально, подтверждать | We acknowledge the problem. | Мы признаём проблему.
+W outweigh | перевешивать | The benefits outweigh the risks. | Выгоды перевешивают риски.
+W valid point | веский довод | That's a valid point. | Это веский довод.
+W harsh | резкий, суровый | The feedback was harsh but fair. | Отзыв был резким, но справедливым.
+
+U b2u33 | Debate | Дискуссия | Контраргумент, в целом, притянуто
+W standpoint | точка зрения | From a legal standpoint, it's risky. | С юридической точки зрения это рискованно.
+W counterargument | контраргумент | What's your counterargument? | Какой у тебя контраргумент?
+W rebut | опровергать (довод) | She calmly rebutted every point. | Она спокойно опровергла каждый довод.
+W firmly believe | твёрдо верить | I firmly believe in our product. | Я твёрдо верю в наш продукт.
+W strongly disagree | категорически не согласен | I strongly disagree with this decision. | Я категорически не согласен с этим решением.
+W to some extent | в какой-то степени | I agree with you to some extent. | В какой-то степени я с тобой согласен.
+W by and large | в целом, по большому счёту | By and large, the clients are happy. | По большому счёту клиенты довольны.
+W it goes without saying | само собой разумеется | It goes without saying that quality matters. | Само собой разумеется, что качество важно.
+W arguably | пожалуй, можно утверждать | It's arguably the best café in town. | Это, пожалуй, лучшее кафе в городе.
+W undeniably | бесспорно | The results are undeniably impressive. | Результаты бесспорно впечатляют.
+W questionable | сомнительный | The figures are questionable. | Цифры вызывают сомнения.
+W far-fetched | притянутый за уши | The idea sounds far-fetched. | Идея звучит неправдоподобно.
+W sound | разумный, обоснованный; звук | It's a sound investment. | Это разумное вложение.
+W one-sided | однобокий | The article is very one-sided. | Статья очень однобокая.
+W devil's advocate | адвокат дьявола | Let me play devil's advocate. | Позвольте мне побыть адвокатом дьявола.
+
+U b2u34 | Cause | Причины и следствия | Приводить к, спровоцировать, первопричина
+W cause | причина; вызывать | What caused the delay? | Что стало причиной задержки?
+W effect | эффект, воздействие | The campaign had a positive effect. | Кампания дала положительный эффект.
+W result in | иметь результатом, приводить к | The mistake resulted in a big loss. | Ошибка привела к крупному убытку.
+W lead to | приводить к | Stress can lead to burnout. | Стресс может привести к выгоранию.
+W stem from | проистекать из | The problem stems from poor planning. | Проблема вытекает из плохого планирования.
+W trigger | спровоцировать; триггер | The news triggered panic. | Новость спровоцировала панику.
+W contribute to | способствовать | Many factors contributed to our success. | Нашему успеху способствовало многое.
+W give rise to | порождать | The decision gave rise to many questions. | Решение породило много вопросов.
+W root cause | первопричина | We need to find the root cause. | Нужно найти первопричину.
+W side effect | побочный эффект | Lower prices had an unexpected side effect. | У снижения цен был неожиданный побочный эффект.
+W impact | влияние, воздействие | AI has a huge impact on marketing. | ИИ сильно влияет на маркетинг.
+W knock-on effect | цепная реакция, эффект домино | The delay had a knock-on effect on other projects. | Задержка ударила и по другим проектам.
+W owing to | из-за, вследствие | Owing to high demand, we're hiring. | Из-за высокого спроса мы нанимаем людей.
+W account for | составлять (долю); объяснять | Online sales account for half of our revenue. | Онлайн-продажи составляют половину выручки.
+W bring about | вызывать, приводить к (изменениям) | Technology brought about big changes. | Технологии привели к большим переменам.
+
+U b2u35 | Solve | Решение проблем | Узкое место, препятствие, смягчить
+W troubleshoot | искать и устранять неполадки | Let me troubleshoot the problem. | Дай мне найти причину неполадки.
+W bottleneck | узкое место | Approval is our main bottleneck. | Согласование — наше главное узкое место.
+W workaround | обходной путь | We found a workaround. | Мы нашли обходной путь.
+W setback | неудача, откат назад | It was a temporary setback. | Это была временная неудача.
+W obstacle | препятствие | The main obstacle is money. | Главное препятствие — деньги.
+W dilemma | дилемма | We face a difficult dilemma. | Перед нами трудная дилемма.
+W prioritize | расставлять приоритеты | You need to prioritize your tasks. | Тебе нужно расставить приоритеты в задачах.
+W tackle | браться за (проблему) | Let's tackle the biggest problem first. | Давай сначала возьмёмся за самую большую проблему.
+W mitigate | смягчать, снижать (риск) | How can we mitigate the risk? | Как мы можем снизить риск?
+W contingency plan | план на случай непредвиденного | Do we have a contingency plan? | У нас есть план на непредвиденный случай?
+W trial and error | метод проб и ошибок | We learned it by trial and error. | Мы научились этому методом проб и ошибок.
+W quick fix | быстрое решение (временное) | There's no quick fix for this. | Быстрого решения здесь нет.
+W pinpoint | точно определить | We pinpointed the cause of the problem. | Мы точно определили причину проблемы.
+W pragmatic | прагматичный | Let's take a pragmatic approach. | Давай подойдём к этому прагматично.
+W hands-on | практический, непосредственный | He's a very hands-on manager. | Он руководитель, который сам во всё вникает.
+
+X Куда делись заявки? | Разбор одного понедельника
+P On Monday morning our sales team noticed something strange: the number of new leads had dropped by eighty percent over the weekend, although the advertising budget hadn't changed.
+P At first, everyone had a theory. The designer thought the ads must have been blocked. The sales manager said competitors might have lowered their prices. Someone even suggested that the market must be saturated.
+P But the analytics told a different story. Traffic hadn't changed at all, so the ads can't have been blocked. People were visiting the landing page and leaving. The root cause turned out to be simple: a developer had updated the website on Friday, and the contact form had stopped working.
+P We should have tested the form after the update. Now every release goes through a short checklist, and we get an alert if leads drop by more than thirty percent in a day.
+Q Что случилось с заявками? | Упали на 80% за выходные | Выросли вдвое | Перестали приходить на почту клиента
+Q Почему рекламу не могли заблокировать? | Трафик не изменился | Дизайнер это проверил | Бюджет вырос
+Q В чём была настоящая причина? | После обновления сайта перестала работать форма заявки | Конкуренты снизили цены | Рынок насытился
+Q Что команда делает теперь? | Проверяет каждый релиз по чек-листу и следит за падением заявок | Больше не обновляет сайт | Увеличила бюджет
+
+M b2m6 | Команда и лидерство | #8a5a9c,#43275a
+G wish и if only
+T wish + Past Simple — сожаление о настоящем: I wish I had more time. wish + Past Perfect — сожаление о прошлом: I wish I had hired her. wish + would — раздражение от чужого поведения или желание, чтобы кто-то изменился: I wish he would reply. If only — то же самое, только эмоциональнее. В формальной речи после wish говорят were: I wish I were there.
+E I wish I spoke Korean better. = Жаль, что я не говорю по-корейски лучше.
+E If only we had started earlier! = Если бы только мы начали раньше!
+E I wish my colleagues would stop being late. = Хоть бы коллеги перестали опаздывать.
+D I wish I ___ more time for sport. = Жаль, что у меня мало времени на спорт. | had | have | would have
+D I wish I ___ that job offer last year. = Жаль, что я не принял то предложение в прошлом году. | had accepted | accepted | would accept
+D If only he ___ answer my emails! = Хоть бы он отвечал на мои письма! | would | will | had
+D She wishes she ___ in Moscow now. = Ей хотелось бы сейчас быть в Москве. | were | is | would be
+D We wish we ___ a bigger office. = Жаль, что у нас не больше офис. | had | have had | will have
+D If only I ___ listened to your advice! = Если бы только я послушал твой совет! | had | have | would
+D I wish my team ___ more often. = Хотелось бы, чтобы команда общалась чаще. | would communicate | will communicate | communicates
+D I wish I ___ to the conference; everyone says it was great. = Жаль, что я не поехал на конференцию, все говорят, было здорово. | had gone | went | would go
+
+U b2u36 | Lead | Лидерство | Вдохновлять, делегировать, личный пример
+W leadership | лидерство, руководство | Leadership is about trust. | Лидерство основано на доверии.
+W leader | лидер, руководитель | A good leader listens. | Хороший лидер умеет слушать.
+W inspire | вдохновлять | She inspires the whole team. | Она вдохновляет всю команду.
+W empower | давать полномочия, наделять силой | We empower employees to make decisions. | Мы даём сотрудникам право принимать решения.
+W delegate | делегировать | Learn to delegate. | Научись делегировать.
+W vision | видение | The founder has a clear vision. | У основателя чёткое видение.
+W decisive | решительный | We need a decisive leader. | Нам нужен решительный руководитель.
+W charismatic | харизматичный | He's a charismatic speaker. | Он харизматичный оратор.
+W role model | образец для подражания | My father is my role model. | Мой отец — мой пример для подражания.
+W micromanage | мелочно контролировать | Please don't micromanage me. | Пожалуйста, не контролируй каждый мой шаг.
+W lead by example | вести личным примером | The best managers lead by example. | Лучшие руководители ведут личным примером.
+W authority | власть, авторитет, полномочия | She has the authority to sign contracts. | У неё есть полномочия подписывать договоры.
+W influence | влияние, влиять | He has a lot of influence in the company. | У него большое влияние в компании.
+W hands-off | невмешивающийся, дающий свободу | My boss has a hands-off style. | Мой начальник не вмешивается в мелочи.
+W set the tone | задавать тон | The first meeting sets the tone. | Первая встреча задаёт тон.
+
+U b2u37 | Team | Команда | Командный игрок, боевой дух, адаптация
+W teamwork | командная работа | Teamwork makes the difference. | Командная работа решает всё.
+W collaborate | сотрудничать | We collaborate with other agencies. | Мы сотрудничаем с другими агентствами.
+W collaboration | сотрудничество | Thanks for the great collaboration. | Спасибо за отличное сотрудничество.
+W team player | командный игрок | We're looking for a team player. | Мы ищем командного игрока.
+W morale | боевой дух | Team morale is high. | Боевой дух команды высокий.
+W synergy | синергия | There's real synergy between the two teams. | Между двумя командами настоящая синергия.
+W diverse | разнообразный | We have a diverse team. | У нас разнообразная команда.
+W diversity | разнообразие | Diversity brings new ideas. | Разнообразие приносит новые идеи.
+W inclusive | инклюзивный, включающий всех | We want an inclusive workplace. | Мы хотим рабочую среду, открытую для всех.
+W remote team | удалённая команда | Managing a remote team is a skill. | Управлять удалённой командой — это навык.
+W onboarding | адаптация новичков | Our onboarding takes two weeks. | Адаптация новичков у нас занимает две недели.
+W team-building | тимбилдинг | We went on a team-building trip. | Мы съездили на тимбилдинг.
+W cross-functional | кросс-функциональный | It's a cross-functional project. | Это кросс-функциональный проект.
+W silo | изолированный отдел, разобщённость | Departments work in silos. | Отделы работают разобщённо.
+W one-on-one | встреча один на один | I have weekly one-on-ones with each person. | Каждую неделю я встречаюсь один на один с каждым.
+
+U b2u38 | HR | Управление людьми | Премия, льгота, сокращение
+W performance review | оценка эффективности | My performance review is next week. | Оценка моей эффективности на следующей неделе.
+W recruit | набирать (персонал) | We're recruiting sales managers. | Мы набираем менеджеров по продажам.
+W headhunter | хедхантер | A headhunter called me yesterday. | Вчера мне позвонил хедхантер.
+W incentive | стимул | We offer incentives for good results. | Мы поощряем за хорошие результаты.
+W bonus | премия, бонус | Everyone got a bonus at New Year. | На Новый год все получили премию.
+W perk | льгота, бонус | Free lunch is a nice perk. | Бесплатный обед — приятная льгота.
+W reward | вознаграждение, награждать | Hard work should be rewarded. | Упорный труд должен вознаграждаться.
+W recognition | признание | People want recognition, not just money. | Людям нужно признание, а не только деньги.
+W career path | карьерный путь | We discuss career paths with every employee. | Мы обсуждаем карьерный путь с каждым сотрудником.
+W upskill | повышать квалификацию | We upskill our team every year. | Мы ежегодно повышаем квалификацию команды.
+W resign | уволиться (по собственному) | She resigned to start her own business. | Она уволилась, чтобы начать свой бизнес.
+W resignation | заявление об уходе | He handed in his resignation. | Он подал заявление об уходе.
+W dismiss | уволить; отвергнуть | He was dismissed for misconduct. | Его уволили за нарушение.
+W redundancy | сокращение (штата) | There were fifty redundancies. | Сократили пятьдесят человек.
+W exit interview | беседа при увольнении | We learned a lot from exit interviews. | Беседы с уходящими сотрудниками многому нас научили.
+
+U b2u39 | PM | Управление проектами | Внедрять, сроки, нагрузка
+W assign | назначать, поручать | I assigned the task to Anna. | Я поручил задачу Анне.
+W oversee | курировать | She oversees all marketing projects. | Она курирует все маркетинговые проекты.
+W coordinate | координировать | Who coordinates the launch? | Кто координирует запуск?
+W monitor | контролировать, отслеживать | We monitor the results daily. | Мы ежедневно отслеживаем результаты.
+W implement | внедрять | We implemented a new CRM. | Мы внедрили новую CRM.
+W execute | исполнять, реализовывать | A plan is nothing without good execution. | План ничего не стоит без хорошего исполнения.
+W streamline | оптимизировать, упростить | We streamlined the approval process. | Мы упростили процесс согласования.
+W allocate | распределять, выделять | We allocated more budget to video. | Мы выделили больше бюджета на видео.
+W deliverable | результат (этапа проекта) | What are the deliverables for this stage? | Какие результаты на этом этапе?
+W scope | объём (работ), рамки | That's outside the scope of the project. | Это за рамками проекта.
+W timeline | график, сроки | The timeline is very tight. | Сроки очень сжатые.
+W status update | отчёт о статусе | Send me a short status update on Friday. | Пришли в пятницу короткий отчёт о статусе.
+W accountability | ответственность (за результат) | We need more accountability. | Нам нужно больше ответственности за результат.
+W ownership | ответственность, причастность; собственность | Take ownership of your projects. | Бери на себя ответственность за свои проекты.
+W workload | нагрузка (по работе) | My workload is too heavy this month. | В этом месяце у меня слишком большая нагрузка.
+
+U b2u40 | Fdbk | Обратная связь | Прямолинейный, откровенный, в точку
+W constructive feedback | конструктивная обратная связь | Thanks for the constructive feedback. | Спасибо за конструктивную обратную связь.
+W blunt | прямолинейный, резкий | Sorry to be blunt, but it's not good enough. | Простите за прямоту, но это недостаточно хорошо.
+W sugarcoat | приукрашивать | Don't sugarcoat it, tell me the truth. | Не приукрашивай, скажи правду.
+W tactfully | тактично | She tactfully pointed out the mistake. | Она тактично указала на ошибку.
+W frank | откровенный, прямой | Let me be frank with you. | Позвольте мне быть с вами откровенным.
+W candid | откровенный, честный | Thank you for your candid opinion. | Спасибо за честное мнение.
+W to be fair | справедливости ради | To be fair, he had very little time. | Справедливости ради, у него было очень мало времени.
+W with all due respect | при всём уважении | With all due respect, I disagree. | При всём уважении, я не согласен.
+W take it personally | принимать на свой счёт | Don't take it personally. | Не принимай это на свой счёт.
+W thick-skinned | толстокожий, невосприимчивый к критике | In sales you have to be thick-skinned. | В продажах нужно быть толстокожим.
+W area for improvement | зона роста | Time management is my area for improvement. | Тайм-менеджмент — моя зона роста.
+W well done | молодец, отлично сделано | Well done, team! | Отличная работа, команда!
+W keep it up | так держать | Great results, keep it up! | Отличные результаты, так держать!
+W not up to standard | не соответствует уровню | The design is not up to standard. | Дизайн не дотягивает до нужного уровня.
+W spot on | в точку, абсолютно верно | Your analysis was spot on. | Твой анализ попал в точку.
+
+U b2u41 | Wish | Сожаления и желания | Жаль, что; если бы только; отпустить
+W I wish | жаль, что; хотел бы | I wish I knew the answer. | Жаль, что я не знаю ответа.
+W if only | если бы только | If only I had more time! | Если бы только у меня было больше времени!
+W should have | надо было | I should have called you. | Надо было тебе позвонить.
+W wishful thinking | принятие желаемого за действительное | That's just wishful thinking. | Это просто выдавание желаемого за действительное.
+W would have liked | хотелось бы (о прошлом) | I would have liked more time to prepare. | Мне бы хотелось больше времени на подготовку.
+W miss out on | упустить | Don't miss out on this opportunity. | Не упусти эту возможность.
+W dwell on | зацикливаться на | Don't dwell on the past. | Не зацикливайся на прошлом.
+W move on | двигаться дальше | It's time to move on. | Пора двигаться дальше.
+W let go | отпустить | Sometimes you have to let go. | Иногда нужно отпустить.
+W make amends | загладить вину | He tried to make amends for his mistake. | Он пытался загладить вину за ошибку.
+W second chance | второй шанс | Everyone deserves a second chance. | Каждый заслуживает второго шанса.
+W it's no use | бесполезно | It's no use complaining. | Жаловаться бесполезно.
+W what's done is done | что сделано, то сделано | What's done is done; let's fix it. | Что сделано, то сделано, давай исправлять.
+W learn from mistakes | учиться на ошибках | The best teams learn from mistakes. | Лучшие команды учатся на ошибках.
+W turn back the clock | повернуть время вспять | I wish I could turn back the clock. | Хотел бы я повернуть время вспять.
+
+U b2u42 | Culture | Корпоративная культура | Ценности, бюрократия, смысл
+W corporate culture | корпоративная культура | Corporate culture eats strategy for breakfast. | Корпоративная культура важнее стратегии.
+W values | ценности | Our values are honesty and speed. | Наши ценности — честность и скорость.
+W transparency | прозрачность | We believe in transparency. | Мы за прозрачность.
+W flexibility | гибкость | Employees value flexibility. | Сотрудники ценят гибкость.
+W open-door policy | политика открытых дверей | The CEO has an open-door policy. | У гендиректора политика открытых дверей.
+W dress code | дресс-код | There's no dress code in our office. | В нашем офисе нет дресс-кода.
+W hybrid work | гибридная работа | Hybrid work is the new normal. | Гибридная работа — новая норма.
+W toxic | токсичный | It was a toxic work environment. | Это была токсичная рабочая среда.
+W office politics | офисные интриги | I hate office politics. | Терпеть не могу офисные интриги.
+W red tape | бюрократия, волокита | There's too much red tape. | Слишком много бюрократии.
+W work ethic | трудовая этика | She has a strong work ethic. | У неё сильная трудовая этика.
+W overworked | перегруженный работой | The team is overworked. | Команда перегружена.
+W underpaid | недооплачиваемый | Many designers are underpaid. | Многим дизайнерам недоплачивают.
+W job satisfaction | удовлетворённость работой | Job satisfaction is more than money. | Удовлетворённость работой — это не только деньги.
+W sense of purpose | ощущение смысла | People need a sense of purpose. | Людям нужно ощущение смысла.
+
+X Ошибки основателя | Колонка руководителя
+P When I started my agency, I tried to do everything myself. I wrote the scripts, met the clients and checked every banner. I wish someone had told me back then that micromanaging doesn't scale.
+P After a year, the team's morale was low, two people had resigned, and I was close to burnout. If only I had learned to delegate earlier, I could have kept them.
+P Things changed when I started weekly one-on-ones and gave people real ownership of their projects. I set clear deliverables and then stepped back. To be fair, it was hard at first: I still wish I could check everything.
+P Today the team is twelve people, and most decisions are made without me. My only regret is that I didn't build this culture from day one.
+Q Какую ошибку автор совершал вначале? | Пытался делать всё сам | Нанимал слишком много людей | Не встречался с клиентами
+Q Что произошло через год? | Упал боевой дух, двое уволились | Агентство закрылось | Удвоилась выручка
+Q Что изменило ситуацию? | Встречи один на один и реальная ответственность сотрудников | Повышение зарплат всем | Переезд в новый офис
+Q О чём автор сожалеет? | Что не выстроил такую культуру с первого дня | Что открыл агентство | Что нанял двенадцать человек
+
+M b2m7 | Медиа и общество | #b08a3e,#5a4214
+G Глаголы косвенной речи
+T Вместо said и told используем точные глаголы, и у каждого своя конструкция. + to: agree, refuse, promise, offer, threaten. + кого-то + to: advise, warn, persuade, encourage, remind. + -ing: suggest, recommend, deny, admit. С предлогом: apologize for, accuse of, blame on или blame for.
+E He promised to send the contract. = Он пообещал прислать договор.
+E She advised me to wait. = Она посоветовала мне подождать.
+E They denied breaking the rules. = Они отрицали, что нарушили правила.
+D He promised ___ the report by Monday. = Он пообещал прислать отчёт к понедельнику. | to send | sending | send
+D She advised me ___ the offer. = Она посоветовала мне принять предложение. | to accept | accepting | accept
+D They denied ___ the data. = Они отрицали, что слили данные. | leaking | to leak | leak
+D He apologized ___ being late. = Он извинился за опоздание. | for | of | about
+D The client accused us ___ missing the deadline. = Клиент обвинил нас в срыве срока. | of | for | in
+D I suggested ___ a short video. = Я предложил снять короткое видео. | making | to make | make
+D She refused ___ the document. = Она отказалась подписывать документ. | to sign | signing | sign
+D They blamed the delay ___ the supplier. = Они свалили задержку на поставщика. | on | for | of
+
+U b2u43 | Verbs | Глаголы передачи речи | Обвинять, заверять, намекать
+W accuse | обвинять | They accused us of copying their design. | Они обвинили нас в копировании их дизайна.
+W blame | винить | Don't blame the team. | Не вини команду.
+W encourage | поощрять, побуждать | I encourage you to apply. | Советую вам подать заявку.
+W urge | настоятельно призывать | Experts urge caution. | Эксперты призывают к осторожности.
+W reassure | успокаивать, разубеждать | She reassured the client that everything was fine. | Она успокоила клиента, что всё в порядке.
+W assure | заверять | I assure you it won't happen again. | Уверяю вас, это не повторится.
+W boast | хвастаться | He likes to boast about his car. | Он любит хвастаться своей машиной.
+W confess | признаться | I confess I forgot. | Признаюсь, я забыл.
+W hint | намекать, намёк | He hinted that prices would rise. | Он намекнул, что цены вырастут.
+W imply | подразумевать | What are you implying? | На что ты намекаешь?
+W remark | заметить, замечание | She remarked that the office looked empty. | Она заметила, что офис выглядит пустым.
+W observe | заметить, наблюдать | The researcher observed an interesting trend. | Исследователь заметил интересную тенденцию.
+W allege | утверждать (без доказательств) | They allege that the data was stolen. | Они утверждают, что данные украли.
+W grumble | ворчать | He always grumbles about the coffee. | Он вечно ворчит на кофе.
+W caution | предостерегать, осторожность | I cautioned him against signing too quickly. | Я предостерёг его от поспешной подписи.
+
+U b2u44 | News | Медиа сегодня | Кликбейт, цензура, сенсация
+W news outlet | СМИ, издание | Several news outlets covered the story. | Несколько изданий осветили эту историю.
+W tabloid | таблоид, жёлтая пресса | I don't trust tabloids. | Я не доверяю жёлтой прессе.
+W clickbait | кликбейт | The headline is pure clickbait. | Заголовок — чистый кликбейт.
+W echo chamber | эхо-камера (круг единомышленников) | Social media can become an echo chamber. | Соцсети могут превратиться в эхо-камеру.
+W filter bubble | информационный пузырь | We all live in a filter bubble. | Все мы живём в информационном пузыре.
+W misinformation | ложная информация (по ошибке) | Misinformation spreads faster than facts. | Ложная информация распространяется быстрее фактов.
+W disinformation | дезинформация (намеренная) | It was a disinformation campaign. | Это была кампания по дезинформации.
+W censorship | цензура | The film faced censorship. | Фильм столкнулся с цензурой.
+W freedom of speech | свобода слова | Freedom of speech has limits. | У свободы слова есть границы.
+W viewership | зрительская аудитория | The show's viewership doubled. | Аудитория шоу удвоилась.
+W breaking news | срочные новости | Breaking news: the deal is done. | Срочная новость: сделка заключена.
+W investigative journalism | журналистские расследования | Investigative journalism is expensive. | Журналистские расследования стоят дорого.
+W op-ed | колонка мнений | He wrote an op-ed about AI. | Он написал колонку про ИИ.
+W sensational | сенсационный | The story was too sensational. | История была слишком сенсационной.
+W mainstream media | традиционные СМИ | Mainstream media ignored the story. | Традиционные СМИ проигнорировали историю.
+
+U b2u45 | Society | Общественные вопросы | Неравенство, жильё, качество жизни
+W inequality | неравенство | Income inequality is growing. | Неравенство доходов растёт.
+W poverty | бедность | Education helps to fight poverty. | Образование помогает бороться с бедностью.
+W welfare | социальное обеспечение, благополучие | Welfare spending has increased. | Расходы на соцобеспечение выросли.
+W healthcare | здравоохранение | Healthcare is free in many countries. | Во многих странах здравоохранение бесплатное.
+W housing | жильё | Housing is expensive in big cities. | В больших городах жильё дорогое.
+W aging population | стареющее население | Japan has an aging population. | В Японии стареющее население.
+W urbanization | урбанизация | Urbanization is changing the region. | Урбанизация меняет регион.
+W migration | миграция | Migration to big cities continues. | Миграция в крупные города продолжается.
+W infrastructure | инфраструктура | The city is investing in infrastructure. | Город вкладывается в инфраструктуру.
+W public transport | общественный транспорт | Public transport in Seoul is excellent. | Общественный транспорт в Сеуле отличный.
+W affordable housing | доступное жильё | Young families need affordable housing. | Молодым семьям нужно доступное жильё.
+W social mobility | социальная мобильность | Education increases social mobility. | Образование повышает социальную мобильность.
+W cost of living | стоимость жизни | The cost of living keeps rising. | Стоимость жизни продолжает расти.
+W quality of life | качество жизни | We moved for a better quality of life. | Мы переехали ради лучшего качества жизни.
+W pension | пенсия | My parents live on a pension. | Мои родители живут на пенсию.
+
+U b2u46 | Tech | Технологии и общество | Дипфейк, слежка, устаревший
+W automation | автоматизация | Automation saves us hours every week. | Автоматизация экономит нам часы каждую неделю.
+W machine learning | машинное обучение | The app uses machine learning. | Приложение использует машинное обучение.
+W deepfake | дипфейк | The video was a deepfake. | Это видео было дипфейком.
+W surveillance | слежка, наблюдение | People worry about online surveillance. | Людей беспокоит слежка в интернете.
+W digital divide | цифровое неравенство | The digital divide between cities and villages is real. | Цифровое неравенство между городом и деревней реально.
+W screen time | экранное время | I'm trying to reduce my screen time. | Я стараюсь меньше сидеть в телефоне.
+W addictive | вызывающий зависимость | Social media is designed to be addictive. | Соцсети специально делают затягивающими.
+W cyberbullying | кибербуллинг, травля в сети | Schools fight cyberbullying. | Школы борются с травлей в сети.
+W tech giant | технологический гигант | Tech giants control a lot of data. | Техногиганты контролируют массу данных.
+W innovation | инновация | Innovation drives growth. | Инновации двигают рост.
+W obsolete | устаревший | This technology is obsolete. | Эта технология устарела.
+W cutting-edge | передовой | We use cutting-edge tools. | Мы используем передовые инструменты.
+W ethical | этичный, этический | Is it ethical to use AI voices? | Этично ли использовать голоса ИИ?
+W regulate | регулировать | Governments want to regulate AI. | Правительства хотят регулировать ИИ.
+W job displacement | вытеснение рабочих мест | Job displacement is a real concern. | Вытеснение рабочих мест — реальная проблема.
+
+U b2u47 | Trend | Тренды | Появляться, повсеместный, мимолётный
+W paradigm shift | смена парадигмы | AI is a paradigm shift for marketing. | ИИ — смена парадигмы для маркетинга.
+W emerge | появляться, возникать | New platforms emerge every year. | Каждый год появляются новые платформы.
+W evolve | развиваться, эволюционировать | The company evolved from a small studio. | Компания выросла из небольшой студии.
+W phenomenon | явление, феномен | Remote work is a global phenomenon. | Удалённая работа — глобальное явление.
+W widespread | широко распространённый | Online shopping is now widespread. | Покупки онлайн сейчас повсеместны.
+W prevalent | преобладающий | This view is prevalent among young people. | Эта точка зрения преобладает среди молодёжи.
+W growing | растущий | There's growing interest in AI. | Интерес к ИИ растёт.
+W declining | снижающийся | TV has a declining audience. | Аудитория телевидения сокращается.
+W unprecedented | беспрецедентный | The growth was unprecedented. | Рост был беспрецедентным.
+W take hold | укорениться | The new habit took hold quickly. | Новая привычка быстро прижилась.
+W fade | угасать, тускнеть | The hype faded after a month. | Ажиотаж угас через месяц.
+W short-lived | недолговечный | The trend was short-lived. | Тренд оказался недолгим.
+W fad | мимолётное увлечение | Is it a trend or just a fad? | Это тренд или просто мода на месяц?
+W keep up with | успевать за | It's hard to keep up with technology. | Трудно успевать за технологиями.
+W go mainstream | стать массовым | Voice assistants have gone mainstream. | Голосовые помощники стали массовыми.
+
+U b2u48 | View | Убеждения и взгляды | Установка, предрассудок, скептичный
+W belief | убеждение, вера | It's a common belief. | Это распространённое убеждение.
+W attitude | отношение, позиция | I like her positive attitude. | Мне нравится её позитивный настрой.
+W mindset | образ мышления, установка | Success starts with the right mindset. | Успех начинается с правильного мышления.
+W prejudice | предрассудок | We should fight prejudice. | С предрассудками нужно бороться.
+W stereotype | стереотип | It's just a stereotype. | Это просто стереотип.
+W open-minded | открытый (к новому) | She's very open-minded. | Она очень открыта новому.
+W narrow-minded | узколобый, ограниченный | Don't be so narrow-minded. | Не будь таким ограниченным.
+W tolerant | терпимый | We're tolerant of different opinions. | Мы терпимо относимся к разным мнениям.
+W conservative | консервативный | The bank is very conservative. | Банк очень консервативный.
+W liberal | либеральный, свободный | The company has a liberal dress code. | В компании свободный дресс-код.
+W progressive | прогрессивный | It's a progressive company. | Это прогрессивная компания.
+W worldview | мировоззрение | Travel changed my worldview. | Путешествия изменили моё мировоззрение.
+W skeptical | скептический | I'm skeptical about this idea. | Я скептически отношусь к этой идее.
+W naive | наивный | It was naive to trust him. | Было наивно ему доверять.
+W idealistic | идеалистичный | Young founders are often idealistic. | Молодые основатели часто идеалисты.
+
+U b2u49 | Report | Новостные формулировки | Согласно, по сообщениям, утечка
+W according to | согласно, по словам | According to the report, sales fell. | Согласно отчёту, продажи упали.
+W reportedly | по сообщениям | The company is reportedly for sale. | По сообщениям, компанию продают.
+W officially | официально | The office officially opens on Monday. | Офис официально открывается в понедельник.
+W eyewitness | очевидец | An eyewitness described the accident. | Очевидец описал аварию.
+W anonymous | анонимный | The source wished to remain anonymous. | Источник пожелал остаться анонимным.
+W leak | утечка; слить (информацию) | The plans were leaked to the press. | Планы слили в прессу.
+W exclusive | эксклюзивный, эксклюзив | The magazine got an exclusive interview. | Журнал получил эксклюзивное интервью.
+W front page | первая полоса | The story made the front page. | История попала на первую полосу.
+W correspondent | корреспондент | Our correspondent in Tokyo reports. | Сообщает наш корреспондент в Токио.
+W on air | в эфире | We're on air in five minutes. | Через пять минут мы в эфире.
+W retract | отозвать (заявление) | The newspaper retracted the story. | Газета отозвала материал.
+W embargo | эмбарго; запрет на публикацию | The news is under embargo until Monday. | Новость под запретом до понедельника.
+W unconfirmed | неподтверждённый | These are unconfirmed reports. | Это неподтверждённые данные.
+W developing story | развивающаяся история | This is a developing story. | История ещё развивается.
+W editorial | редакционная статья; редакционный | The editorial criticized the decision. | В редакционной статье критиковали решение.
+
+X ИИ и малый бизнес | Статья
+P A recent survey by a Novosibirsk research center suggests that attitudes towards artificial intelligence are changing fast. According to the report, sixty percent of small business owners now use AI tools at least once a week, compared with just fifteen percent two years ago.
+P Not everyone is enthusiastic. Several respondents admitted feeling anxious about job displacement, and some accused tech giants of moving too fast without proper regulation. One owner warned that deepfakes could seriously damage trust in voice advertising.
+P Experts, however, urge business owners not to panic. "Automation replaces tasks, not people," one researcher observed, encouraging companies to upskill their teams rather than lay staff off.
+P The authors recommend that local authorities offer free training programs. They also caution that the digital divide between big cities and small towns may grow if nothing is done.
+Q Какая доля владельцев малого бизнеса пользуется ИИ еженедельно? | Шестьдесят процентов | Пятнадцать процентов | Почти все
+Q Чего опасаются некоторые респонденты? | Вытеснения рабочих мест | Роста налогов | Нехватки офисов
+Q Что советуют эксперты? | Повышать квалификацию команды, а не сокращать людей | Запретить ИИ | Ждать регулирования
+Q О чём предупреждают авторы? | Цифровой разрыв между городами может вырасти | ИИ скоро исчезнет | Бизнес уйдёт из интернета
+
+M b2m8 | Формально и разговорно | #3f6e9e,#1b3350
+G Стиль и регистр
+T Одна мысль звучит по-разному в письме директору и в чате с другом. Формальный стиль: полные формы, книжные слова, пассив: We regret to inform you… Please do not hesitate to contact us. Разговорный: сокращения, фразовые глаголы, короткие фразы: Sorry, can't make it. Let me know! Частые пары: ask → enquire, get → receive, need → require, help → assist, start → commence.
+E We would like to request further information. = Мы хотели бы запросить дополнительную информацию.
+E Please find attached the invoice. = Счёт во вложении.
+E Sorry, we can't make it. = Извини, мы не сможем прийти.
+D We ___ to inform you that the event is cancelled. = (формально) С сожалением сообщаем, что мероприятие отменено. | regret | feel bad | are gutted
+D Please do not hesitate ___ us. = (формально) Не стесняйтесь обращаться к нам. | to contact | contacting | contact
+D We would like to ___ about your prices. = (формально) Мы хотели бы узнать о ваших ценах. | enquire | ask around | check out
+D ___ you tomorrow! = (разговорно) До завтра! | See | Regards | Sincerely
+D I am writing ___ apply for the position. = (формально) Пишу, чтобы откликнуться на вакансию. | to | for | that
+D Your order has been ___. = (формально) Ваш заказ получен. | received | got | grabbed
+D Our manager will ___ you with the setup. = (формально) Наш менеджер поможет вам с настройкой. | assist | help out | give a hand
+D Sorry, I can't ___ it on Friday. = (разговорно) Извини, в пятницу не смогу. | make | do | take
+
+U b2u50 | Formal | Формальная лексика | Запрашивать, обеспечивать, уведомлять
+W enquire | запрашивать, наводить справки | I am writing to enquire about your services. | Пишу, чтобы узнать о ваших услугах.
+W require | требовать(ся) | Do you require any assistance? | Вам требуется помощь?
+W assist | помогать, содействовать | How may I assist you? | Чем могу помочь?
+W commence | начинать(ся) | The meeting will commence at ten. | Встреча начнётся в десять.
+W obtain | получать | You must obtain permission first. | Сначала нужно получить разрешение.
+W provide | предоставлять | We provide full support. | Мы предоставляем полную поддержку.
+W ensure | обеспечивать, гарантировать | Please ensure that all fields are completed. | Убедитесь, что все поля заполнены.
+W facilitate | содействовать, облегчать | The app facilitates communication. | Приложение облегчает общение.
+W prior to | до, прежде | Please arrive prior to the start. | Пожалуйста, прибудьте до начала.
+W subsequently | впоследствии | He subsequently became CEO. | Впоследствии он стал гендиректором.
+W sufficient | достаточный | The budget is not sufficient. | Бюджета недостаточно.
+W numerous | многочисленный | We have received numerous complaints. | Мы получили многочисленные жалобы.
+W endeavour | стремиться, прилагать усилия | We endeavour to reply within a day. | Мы стараемся отвечать в течение дня.
+W notify | уведомлять | We will notify you of any changes. | Мы уведомим вас о любых изменениях.
+W furnish | предоставлять (документы); обставлять | Please furnish us with the documents. | Просим предоставить нам документы.
+
+U b2u51 | Casual | Разговорная лексика | Классно, не парься, тусоваться
+W stuff | вещи, штуки | I have a lot of stuff to do. | У меня куча дел.
+W guy | парень | He's a nice guy. | Он хороший парень.
+W kid | ребёнок (разг.) | They have two kids. | У них двое детей.
+W awesome | потрясающий, офигенный | The party was awesome! | Вечеринка была офигенной!
+W cool | классный, крутой; прохладный | That's a cool idea. | Классная идея.
+W no worries | не переживай, без проблем | No worries, I'll do it. | Без проблем, я сделаю.
+W cheers | спасибо; ура | Cheers for the help! | Спасибо за помощь!
+W grab | взять, перехватить | Let's grab a coffee. | Давай возьмём по кофе.
+W hang out | тусоваться, проводить время | We hang out every Friday. | Мы тусуемся каждую пятницу.
+W chill | расслабиться | Just chill, it's fine. | Расслабься, всё нормально.
+W mate | приятель | Thanks, mate! | Спасибо, дружище!
+W reckon | думать, считать (разг.) | I reckon it'll rain. | Думаю, будет дождь.
+W fancy | хотеть (разг.) | Do you fancy a beer? | Хочешь пива?
+W nope | не-а | Nope, not today. | Не-а, не сегодня.
+W kinda | вроде как, как бы | I'm kinda tired. | Я как-то устал.
+
+U b2u52 | Idiom | Деловые идиомы | Запустить процесс, халтурить, в курсе
+W ahead of the curve | на шаг впереди | We want to stay ahead of the curve. | Мы хотим оставаться на шаг впереди.
+W back to square one | вернуться к началу | The client said no, so we're back to square one. | Клиент отказал, и мы вернулись к началу.
+W get the ball rolling | запустить процесс | Let's get the ball rolling. | Давайте запустим процесс.
+W cut corners | халтурить, экономить на качестве | We never cut corners. | Мы никогда не халтурим.
+W think on your feet | быстро соображать | In sales you have to think on your feet. | В продажах нужно быстро соображать.
+W touch base | связаться, сверить часы | Let's touch base next week. | Давай свяжемся на следующей неделе.
+W low-hanging fruit | лёгкие быстрые победы | Let's start with the low-hanging fruit. | Начнём с того, что даёт быстрый результат.
+W in the loop | в курсе | Keep me in the loop. | Держи меня в курсе.
+W go the extra mile | сделать больше, чем требуется | Our team always goes the extra mile. | Наша команда всегда делает больше, чем нужно.
+W hit the ground running | сразу включиться в работу | The new manager hit the ground running. | Новый менеджер сразу включился в работу.
+W call it a day | закончить на сегодня | Let's call it a day. | На сегодня хватит.
+W steep learning curve | быстрое и трудное обучение | The first month was a steep learning curve. | Первый месяц был трудным, но я быстро учился.
+W by the book | строго по правилам | We do everything by the book. | Мы делаем всё строго по правилам.
+W bite the bullet | стиснуть зубы и сделать | We had to bite the bullet and raise prices. | Пришлось стиснуть зубы и поднять цены.
+W up in the air | в подвешенном состоянии | The project is still up in the air. | Проект всё ещё под вопросом.
+
+U b2u53 | Idiom2 | Идиомы общения | Растопить лёд, к делу, в двух словах
+W break the ice | растопить лёд | A joke helps to break the ice. | Шутка помогает растопить лёд.
+W beat around the bush | ходить вокруг да около | Stop beating around the bush. | Хватит ходить вокруг да около.
+W get to the point | перейти к делу | Let me get to the point. | Перейду сразу к делу.
+W speak your mind | высказываться прямо | Feel free to speak your mind. | Можешь говорить прямо.
+W on second thought | если подумать, по зрелом размышлении | On second thought, let's wait. | Если подумать, давай подождём.
+W hit it off | сразу поладить | We hit it off at the first meeting. | Мы сразу нашли общий язык на первой встрече.
+W a piece of cake | проще простого | The exam was a piece of cake. | Экзамен был проще простого.
+W once in a blue moon | очень редко | I go to the cinema once in a blue moon. | Я хожу в кино очень редко.
+W under the weather | неважно себя чувствовать | I'm feeling a bit under the weather. | Я себя неважно чувствую.
+W the last straw | последняя капля | Another delay was the last straw. | Очередная задержка стала последней каплей.
+W spill the beans | проболтаться | Who spilled the beans about the surprise? | Кто проболтался про сюрприз?
+W pull someone's leg | подшучивать, разыгрывать | Relax, I'm just pulling your leg. | Расслабься, я просто шучу.
+W in a nutshell | в двух словах | In a nutshell, we need more money. | В двух словах, нам нужно больше денег.
+W cost an arm and a leg | стоить целое состояние | The new laptop cost an arm and a leg. | Новый ноутбук стоил целое состояние.
+W sleep on it | отложить решение до утра | Let me sleep on it. | Дай мне подумать до завтра.
+
+U b2u54 | Nuance | Оттенки смысла | Буквальный, двусмысленный, ирония
+W subtle | тонкий, едва заметный | There's a subtle difference. | Есть тонкая разница.
+W nuance | нюанс | Translation loses some nuance. | При переводе теряются нюансы.
+W connotation | оттенок значения, коннотация | The word has a negative connotation. | У слова негативный оттенок.
+W literal | буквальный | Don't take it literally. | Не понимай это буквально.
+W figurative | переносный | It's a figurative expression. | Это выражение в переносном смысле.
+W ambiguous | двусмысленный | The contract wording is ambiguous. | Формулировка в договоре двусмысленная.
+W implicit | подразумеваемый | There was an implicit agreement. | Была негласная договорённость.
+W explicit | явный, прямо выраженный | Please give explicit instructions. | Пожалуйста, дайте чёткие инструкции.
+W understatement | преуменьшение | "A bit late" is an understatement. | «Немного опоздал» — это мягко сказано.
+W overstatement | преувеличение | Calling it a disaster is an overstatement. | Называть это катастрофой — преувеличение.
+W irony | ирония | The irony is that he works in IT. | Ирония в том, что он работает в IT.
+W sarcastic | саркастичный | Was that sarcastic? | Это был сарказм?
+W euphemism | эвфемизм | "Let go" is a euphemism for "fired". | «Отпустили» — эвфемизм для «уволили».
+W tone down | смягчить | Can you tone down the email a bit? | Можешь немного смягчить письмо?
+W play on words | игра слов | The slogan is a play on words. | Слоган построен на игре слов.
+
+U b2u55 | Polite | Вежливые формулы | Буду благодарен, заранее спасибо, примите извинения
+W would it be possible | возможно ли | Would it be possible to move the meeting? | Можно ли перенести встречу?
+W I'd be grateful if | был бы благодарен, если | I'd be grateful if you could reply today. | Буду благодарен, если ответите сегодня.
+W I'm sorry to bother you | извините за беспокойство | I'm sorry to bother you, but it's urgent. | Простите за беспокойство, но это срочно.
+W if it's not too much trouble | если вас не затруднит | Could you call back, if it's not too much trouble? | Перезвоните, пожалуйста, если вас не затруднит.
+W feel free to | не стесняйтесь | Feel free to ask questions. | Не стесняйтесь задавать вопросы.
+W at your convenience | когда вам удобно | Please reply at your convenience. | Ответьте, когда вам будет удобно.
+W we regret to inform you | с сожалением сообщаем | We regret to inform you that the position has been filled. | С сожалением сообщаем, что вакансия закрыта.
+W please accept our apologies | примите наши извинения | Please accept our apologies for the delay. | Примите наши извинения за задержку.
+W thank you in advance | заранее спасибо | Thank you in advance for your help. | Заранее спасибо за помощь.
+W I hope this email finds you well | надеюсь, у вас всё хорошо (в письме) | I hope this email finds you well. | Надеюсь, у вас всё хорошо.
+W as per | согласно | As per our agreement, payment is due today. | Согласно договорённости, оплата сегодня.
+W please be advised | уведомляем, примите к сведению | Please be advised that the office will be closed. | Уведомляем, что офис будет закрыт.
+W pending | ожидающий (решения), в ожидании | The contract is pending approval. | Договор ожидает согласования.
+W with reference to | ссылаясь на, касательно | With reference to your email, here is the price list. | В ответ на ваше письмо направляем прайс-лист.
+W take this opportunity | воспользоваться случаем | I'd like to take this opportunity to thank the team. | Пользуясь случаем, хочу поблагодарить команду.
+
+U b2u56 | FYI | Офисный и интернет-сленг | ASAP, к вашему сведению, пингануть
+W ASAP | как можно скорее (сокращение) | Please send it ASAP. | Пришли как можно скорее.
+W FYI | к вашему сведению | FYI, the meeting is moved to three. | К вашему сведению: встреча перенесена на три.
+W EOD | к концу рабочего дня | I'll send it by EOD. | Пришлю до конца дня.
+W BTW | кстати | BTW, are you free on Friday? | Кстати, ты свободен в пятницу?
+W TBD | будет определено позже | The date is TBD. | Дата будет определена позже.
+W OOO | нет на месте (в отпуске) | I'm OOO until Monday. | Меня нет до понедельника.
+W WFH | работа из дома | I'm WFH today. | Сегодня работаю из дома.
+W ping | пингануть, написать | Ping me when you're free. | Напиши мне, когда освободишься.
+W heads-up | предупреждение заранее (разг.) | Thanks for the heads-up. | Спасибо, что предупредил.
+W loop in | включить в обсуждение | Let me loop in our designer. | Подключу к обсуждению нашего дизайнера.
+W circle back | вернуться к вопросу | Let's circle back to this next week. | Вернёмся к этому на следующей неделе.
+W bandwidth | ресурс, свободное время | I don't have the bandwidth for this now. | Сейчас у меня нет на это ресурса.
+W sync | созвониться, синхронизироваться | Let's sync tomorrow morning. | Давай созвонимся завтра утром.
+W deck | презентация (слайды) | Send me the deck before the call. | Пришли презентацию до созвона.
+W hustle | вкалывать, суета | Startup life is all about hustle. | Жизнь стартапа — это постоянная гонка.
+
+X Одно письмо — два стиля | Как выбрать тон
+P Formal version: "Dear Mr. Chen, I hope this email finds you well. With reference to our meeting on Tuesday, please find attached the revised proposal. We would be grateful if you could review it at your earliest convenience. Should you require any further information, please do not hesitate to contact me."
+P Informal version: "Hi Mike, thanks for Tuesday! Here's the new proposal. Could you have a look when you get a chance? Ping me if anything's unclear. Cheers, Alex"
+P Both messages say exactly the same thing, but they create very different impressions. The first one is safe for a new client, a government office or a large corporation. The second one works well with a partner you already know, especially in startups and creative industries.
+P A good rule of thumb: mirror the other person. If they write "Dear", reply with "Dear". If they write "Hey", you can relax a bit. And when in doubt, it's better to be a little too formal than a little too casual.
+Q Что общего у двух писем? | Одинаковый смысл | Один и тот же получатель | Одинаковая длина
+Q Когда уместна формальная версия? | С новым клиентом или крупной компанией | С близким другом | В чате команды
+Q Какое правило предлагает автор? | Отзеркаливать стиль собеседника | Всегда писать неформально | Писать только по-русски
+Q Что делать, если сомневаешься? | Выбрать чуть более формальный тон | Не отвечать | Писать максимально коротко
